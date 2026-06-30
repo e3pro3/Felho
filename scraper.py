@@ -116,17 +116,17 @@ def normalize(article):
         or ""
     )
 
-  image = (
-    article.get("image")
-    or article.get("image_url")
-    or article.get("thumbnail")
-    or article.get("cover")
-    or article.get("cover_image")
-    or article.get("photo")
-    or article.get("picture")
-    or article.get("featured_image")
-    or ""
-)
+    image = (
+        article.get("image")
+        or article.get("image_url")
+        or article.get("thumbnail")
+        or article.get("cover")
+        or article.get("cover_image")
+        or article.get("photo")
+        or article.get("picture")
+        or article.get("featured_image")
+        or ""
+    )
 
     description = (
         article.get("description")

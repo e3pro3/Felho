@@ -85,7 +85,11 @@ def fetch_articles():
 
     data = response.json()
 
-print(data[0].keys() if isinstance(data, list) else data.keys())
+    print(
+        data[0].keys()
+        if isinstance(data, list)
+        else data.keys()
+    )
 
     if isinstance(data, dict):
 

@@ -85,8 +85,6 @@ def fetch_articles():
 
     data = response.json()
 
-    print(json.dumps(data, indent=2, ensure_ascii=False))
-
     if isinstance(data, dict):
 
         for key in [

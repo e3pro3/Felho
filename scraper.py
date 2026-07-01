@@ -85,11 +85,11 @@ def fetch_articles():
 
     data = response.json()
 
-    print(
-        data[0].keys()
-        if isinstance(data, list)
-        else data.keys()
-    )
+    if isinstance(data, list):
+        print("ELSŐ CIKK:")
+        print(data[0])
+    else:
+        print(data)
 
     if isinstance(data, dict):
 
@@ -104,7 +104,6 @@ def fetch_articles():
 
     if isinstance(data, list):
         return data
-
     return []
 
 

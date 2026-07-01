@@ -218,27 +218,39 @@ def parse_date(value):
 # 5 napos szűrés
 # -------------------------
 
-def filter_recent(items):
+def filter_recent(result, days=7):
+    from datetime import datetime, timedelta, timezone
 
-    limit = (
-        datetime.now(timezone.utc)
-        -
-        timedelta(days=DAYS_LIMIT)
-    )
+    limit = datetime.now(timezone.utc) - timedelta(days=days)
 
-    result = []
+    filtered = []
 
-    for item in items:
+    for item in result:
+        dt = item.get("date")
 
-        dt = parse_date(
-            item.get("published")
-        )
+        if not dt:
+            continue
+
+        # string dátum esetén is kezeljük
+        if isinstance(dt, str):
+            dt = datetime.fromisoformat(
+                dt.replace("Z", "+00:00")
+            )
+
+        # naive -> aware
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+
+        # aware -> UTC
+        else:
+            dt = dt.astimezone(timezone.utc)
+
+        item["date"] = dt
 
         if dt >= limit:
-            result.append(item)
+            filtered.append(item)
 
-    return result
-
+    return filtered
 
 # -------------------------
 # Duplikáció + cache

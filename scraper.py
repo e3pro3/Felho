@@ -1,12 +1,14 @@
-#!/usr/bin/env python3
+# EgyKettő RSS scraper
+# GitHub Actions kompatibilis
 
-import json
 import os
+import json
 import hashlib
-from urllib.parse import urlparse
-from datetime import datetime, timedelta, timezone
-
 import requests
+
+from datetime import datetime, timedelta, timezone
+from urllib.parse import urlparse, urljoin
+
 from dateutil import parser as dateparser
 from feedgen.feed import FeedGenerator
 
@@ -14,84 +16,55 @@ from feedgen.feed import FeedGenerator
 API_URL = "https://egyketto.ro/api/feed/getfeed"
 
 CACHE_FILE = "articles.json"
-RSS_FILE = "feed.xml"
+OUTPUT_FILE = "feed.xml"
 
 DAYS_LIMIT = 5
 
-RSS_TITLE = "EgyKettő"
-RSS_LINK = "https://egyketto.ro"
-RSS_DESCRIPTION = "EgyKettő friss hírek"
-
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 "
-        "(compatible; EgyKettoRSSBot/1.0)"
-    )
+    "User-Agent": "Mozilla/5.0 (RSS Bot)"
 }
 
 
-def load_cache():
-    if not os.path.exists(CACHE_FILE):
-        return []
+# -------------------------
+# Segédfüggvények
+# -------------------------
 
-    try:
-        with open(
-            CACHE_FILE,
-            "r",
-            encoding="utf-8"
-        ) as f:
-            return json.load(f)
-
-    except Exception:
-        return []
-
-
-def save_cache(items):
-    with open(
-        CACHE_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(
-            items,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
+def sha256(text):
+    return hashlib.sha256(
+        text.encode("utf-8")
+    ).hexdigest()
 
 
 def article_id(article):
-    """
-    Stabil azonosító cím + link alapján
-    """
     raw = (
         article.get("title", "")
         + article.get("link", "")
     )
 
-    return hashlib.sha256(
-        raw.encode("utf-8")
-    ).hexdigest()
+    return sha256(raw)
 
+
+# -------------------------
+# API lekérés
+# -------------------------
 
 def fetch_articles():
+
+    print("EgyKettő scraper indul...")
+
     response = requests.get(
         API_URL,
         headers=HEADERS,
-        timeout=20
+        timeout=30
     )
 
     response.raise_for_status()
 
     data = response.json()
 
-    if isinstance(data, list):
-        print("ELSŐ CIKK:")
-        print(data[0])
-    else:
-        print(data)
 
+    # API ellenőrzés
     if isinstance(data, dict):
 
         for key in [
@@ -101,120 +74,212 @@ def fetch_articles():
             "feed"
         ]:
             if key in data:
-                return data[key]
+                data = data[key]
+                break
 
-    if isinstance(data, list):
-        return data
-    return []
 
+    if not isinstance(data, list):
+        return []
+
+
+    print(f"API cikkek: {len(data)}")
+
+    return data
+
+
+# -------------------------
+# Cache kezelés
+# -------------------------
+
+def load_cache():
+
+    if not os.path.exists(CACHE_FILE):
+        return []
+
+
+    try:
+
+        with open(
+            CACHE_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            return json.load(f)
+
+    except Exception:
+
+        return []
+
+
+
+def save_cache(items):
+
+    with open(
+        CACHE_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            items,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+# -------------------------
+# Cikk normalizálás
+# -------------------------
 
 def normalize(article):
 
     title = (
         article.get("title")
-        or article.get("name")
         or ""
     )
 
     link = (
         article.get("link")
-        or article.get("url")
         or ""
     )
 
-    image = article.get("imageLink") or ""
 
+    # Kép kezelése
+    image = (
+        article.get("imageLink")
+        or ""
+    )
+
+
+    # Relatív kép URL javítása
     if image.startswith("/"):
+
         parsed = urlparse(link)
-        image = f"{parsed.scheme}://{parsed.netloc}{image}"
+
+        image = urljoin(
+            f"{parsed.scheme}://{parsed.netloc}",
+            image
+        )
+
 
     description = (
         article.get("description")
-        or article.get("summary")
         or ""
     )
 
+
     published = (
         article.get("pubDate")
-        or article.get("published")
-        or article.get("date")
-        or article.get("created_at")
         or datetime.now(timezone.utc).isoformat()
     )
 
+
     return {
+
         "id": article_id(
             {
                 "title": title,
                 "link": link
             }
         ),
+
         "title": title,
+
         "link": link,
+
         "image": image,
+
         "description": description,
-        "published": published,
+
+        "published": published
     }
 
 
+# -------------------------
+# Dátum kezelés
+# -------------------------
+
+def parse_date(value):
+
+    try:
+
+        return dateparser.parse(value)
+
+    except Exception:
+
+        return datetime.now(
+            timezone.utc
+        )
+
+
+# -------------------------
+# 5 napos szűrés
+# -------------------------
+
 def filter_recent(items):
 
-    cutoff = datetime.now(
-        timezone.utc
-    ) - timedelta(
-        days=DAYS_LIMIT
+    limit = (
+        datetime.now(timezone.utc)
+        -
+        timedelta(days=DAYS_LIMIT)
     )
 
+
     result = []
+
 
     for item in items:
 
         dt = parse_date(
-            item["published"]
+            item.get("published")
         )
 
-        if dt.tzinfo is None:
-            dt = dt.replace(
-                tzinfo=timezone.utc
-            )
 
-        if dt >= cutoff:
+        if dt >= limit:
+
             result.append(item)
+
 
     return result
 
 
-def merge_articles(old, new):
+# -------------------------
+# Duplikáció + cache
+# -------------------------
 
-    merged = {}
+def merge_articles(new_items):
 
-    for item in old + new:
-        merged[item["id"]] = item
+    old_items = load_cache()
 
-    return filter_recent(
-        list(merged.values())
+
+    combined = {}
+
+
+    for item in old_items:
+
+        combined[item["id"]] = item
+
+
+    for item in new_items:
+
+        clean = normalize(item)
+
+        combined[clean["id"]] = clean
+
+
+    result = list(
+        combined.values()
     )
 
 
-def generate_rss(items):
-
-    fg = FeedGenerator()
-
-    fg.id(RSS_LINK)
-    fg.title(RSS_TITLE)
-    fg.link(
-        href=RSS_LINK,
-        rel="alternate"
-    )
-    fg.description(
-        RSS_DESCRIPTION
-    )
-
-    fg.language("hu")
+    result = filter_recent(result)
 
 
-    items = sorted(
-        items,
+    # legfrissebb elöl
+
+    result.sort(
         key=lambda x: parse_date(
             x["published"]
         ),
@@ -222,84 +287,131 @@ def generate_rss(items):
     )
 
 
+    save_cache(result)
+
+
+    return result
+
+
+# -------------------------
+# RSS generálás
+# -------------------------
+
+def create_rss(items):
+
+    fg = FeedGenerator()
+
+
+    fg.title(
+        "EgyKettő hírek"
+    )
+
+    fg.link(
+        href="https://egyketto.ro",
+        rel="alternate"
+    )
+
+    fg.description(
+        "Automatikus EgyKettő RSS feed"
+    )
+
+
+    fg.language(
+        "hu"
+    )
+
+
     for item in items:
 
-        fe = fg.add_entry()
+        entry = fg.add_entry()
 
-        fe.id(
-            item["id"]
-        )
 
-        fe.title(
+        entry.title(
             item["title"]
         )
 
-        fe.link(
+
+        entry.link(
             href=item["link"]
         )
 
-        fe.description(
-            item["description"]
+
+        # Kép az RSS tartalomba
+        content = ""
+
+
+        if item.get("image"):
+
+            content += f"""
+            <p>
+            <img src="{item['image']}"
+            style="max-width:100%;height:auto;">
+            </p>
+            """
+
+
+        content += (
+            "<p>"
+            + item.get(
+                "description",
+                ""
+            )
+            + "</p>"
         )
 
 
-        fe.pubDate(
+        entry.content(
+            content,
+            type="CDATA"
+        )
+
+
+        entry.description(
+            content
+        )
+
+
+        if item.get("image"):
+
+            entry.enclosure(
+                item["image"],
+                0,
+                "image/jpeg"
+            )
+
+
+        entry.pubdate(
             parse_date(
                 item["published"]
             )
         )
 
 
-        if item.get("image"):
-
-            fe.enclosure(
-                item["image"],
-                0,
-                "image/jpeg"
-            )
-
-            fe.content(
-                f"""
-                <img src="{item['image']}" />
-                <p>{item['description']}</p>
-                """,
-                type="CDATA"
-            )
-
-
     fg.rss_file(
-        RSS_FILE,
-        pretty=True
+        OUTPUT_FILE
     )
 
+
+    print(
+        f"RSS elkészült: {len(items)} cikk"
+    )
+
+
+# -------------------------
+# Fő program
+# -------------------------
 
 def main():
 
-    print(
-        "EgyKettő scraper indul..."
-    )
-
-    old = load_cache()
-
-    fresh = fetch_articles()
-
-    normalized = [
-        normalize(x)
-        for x in fresh
-    ]
+    articles = fetch_articles()
 
 
     merged = merge_articles(
-        old,
-        normalized
+        articles
     )
 
 
-    save_cache(
-        merged
-    )
-
-    generate_rss(
+    create_rss(
         merged
     )
 
@@ -309,5 +421,7 @@ def main():
     )
 
 
+
 if __name__ == "__main__":
+
     main()

@@ -116,15 +116,16 @@ def normalize(article):
     )
 
     link = (
-        article.get("url")
-        or article.get("link")
+        article.get("link")
+        or article.get("url")
         or ""
     )
 
-    image = (
-        article.get("imageLink")
-        or ""
-    )
+    image = article.get("imageLink") or ""
+
+        if image.startswith("/"):
+        parsed = urlparse(link)
+        image = f"{parsed.scheme}://{parsed.netloc}{image}"
 
     description = (
         article.get("description")

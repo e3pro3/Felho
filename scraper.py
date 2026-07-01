@@ -226,9 +226,7 @@ def filter_recent(items):
         timedelta(days=DAYS_LIMIT)
     )
 
-
     result = []
-
 
     for item in items:
 
@@ -236,11 +234,8 @@ def filter_recent(items):
             item.get("published")
         )
 
-
         if dt >= limit:
-
             result.append(item)
-
 
     return result
 

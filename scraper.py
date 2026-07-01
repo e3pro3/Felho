@@ -3,6 +3,7 @@
 import json
 import os
 import hashlib
+from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
 
 import requests

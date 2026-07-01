@@ -123,7 +123,7 @@ def normalize(article):
 
     image = article.get("imageLink") or ""
 
-        if image.startswith("/"):
+    if image.startswith("/"):
         parsed = urlparse(link)
         image = f"{parsed.scheme}://{parsed.netloc}{image}"
 
@@ -133,14 +133,13 @@ def normalize(article):
         or ""
     )
 
-
     published = (
-        article.get("published")
+        article.get("pubDate")
+        or article.get("published")
         or article.get("date")
         or article.get("created_at")
         or datetime.now(timezone.utc).isoformat()
     )
-
 
     return {
         "id": article_id(
@@ -155,15 +154,6 @@ def normalize(article):
         "description": description,
         "published": published,
     }
-
-
-def parse_date(value):
-
-    try:
-        return dateparser.parse(value)
-
-    except Exception:
-        return datetime.now(timezone.utc)
 
 
 def filter_recent(items):

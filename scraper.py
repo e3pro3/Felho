@@ -6,6 +6,8 @@
 import hashlib
 import logging
 from datetime import datetime, timedelta, timezone
+from html import escape
+from typing import Optional
 
 import requests
 from feedgen.feed import FeedGenerator
@@ -18,6 +20,8 @@ FEED_DESCRIPTION = "Erdély magyar hírportáljai egy helyen"
 FEED_LINK = "https://egyketto.ro/"
 
 KEEP_DAYS = 5
+API_TIMEOUT = 30
+API_RETRIES = 3
 
 logging.basicConfig(
     level=logging.INFO,
@@ -38,7 +42,7 @@ session.headers.update(
 )
 
 
-def parse_date(value):
+def parse_date(value: Optional[str]) -> Optional[datetime]:
     """
     API dátum -> datetime
     """
@@ -67,7 +71,7 @@ def parse_date(value):
     return None
 
 
-def image_url(path):
+def image_url(path: Optional[str]) -> Optional[str]:
     """
     API imageLink -> teljes URL
     """
@@ -84,7 +88,7 @@ def image_url(path):
     return "https://egyketto.ro" + path
 
 
-def guid(article):
+def guid(article: dict) -> str:
     """
     Stabil GUID az RSS számára
     """
@@ -101,28 +105,62 @@ def guid(article):
     ).hexdigest()
 
 
-def download_articles():
+def sanitize_html(text: str) -> str:
+    """
+    Alapvető HTML sanitizáció - XSS védekezés
+    """
+    return escape(text) if text else ""
+
+
+def download_articles(retries: int = API_RETRIES) -> list:
+    """
+    API lekérés exponenciális backoff-al
+    """
 
     logging.info("Downloading feed...")
 
-    r = session.get(
-        API_URL,
-        timeout=30,
-    )
+    for attempt in range(retries):
+        try:
+            r = session.get(
+                API_URL,
+                timeout=API_TIMEOUT,
+            )
 
-    r.raise_for_status()
+            r.raise_for_status()
 
-    data = r.json()
+            data = r.json()
 
-    logging.info(
-        "Downloaded %d articles",
-        len(data),
-    )
+            logging.info(
+                "Downloaded %d articles",
+                len(data),
+            )
 
-    return data
+            return data
+
+        except requests.RequestException as e:
+            if attempt < retries - 1:
+                wait = 2 ** attempt
+                logging.warning(
+                    "API error (attempt %d/%d), retrying in %ds: %s",
+                    attempt + 1,
+                    retries,
+                    wait,
+                    e,
+                )
+                import time
+                time.sleep(wait)
+            else:
+                logging.error(
+                    "API failed after %d attempts",
+                    retries,
+                )
+                raise
 
 
-def recent_articles(articles):
+def recent_articles(articles: list) -> list:
+    """
+    Szűrés - csak az elmúlt KEEP_DAYS napos cikkek
+    """
 
     limit = datetime.now() - timedelta(days=KEEP_DAYS)
 
@@ -156,7 +194,11 @@ def recent_articles(articles):
 
     return result
 
-def create_feed(articles):
+
+def create_feed(articles: list) -> FeedGenerator:
+    """
+    RSS feed generálás
+    """
 
     fg = FeedGenerator()
 
@@ -211,7 +253,7 @@ def create_feed(articles):
             guid(article)
         )
 
-        entry.title(title)
+        entry.title(sanitize_html(title))
 
         entry.link(
             href=link,
@@ -226,7 +268,7 @@ def create_feed(articles):
 
         if category:
             entry.category(
-                term=category
+                term=sanitize_html(category)
             )
 
         html = ""
@@ -235,8 +277,8 @@ def create_feed(articles):
 
             html += (
                 '<p>'
-                f'<img src="{image}" '
-                f'alt="{title}" '
+                f'<img src="{escape(image)}" '
+                f'alt="{escape(title)}" '
                 'style="max-width:100%;" />'
                 '</p>'
             )
@@ -244,7 +286,7 @@ def create_feed(articles):
         if description:
 
             html += (
-                f"<p>{description}</p>"
+                f"<p>{sanitize_html(description)}</p>"
             )
 
         html += "<hr>"
@@ -253,18 +295,18 @@ def create_feed(articles):
 
             html += (
                 f"<p><b>Forrás:</b> "
-                f"{source}</p>"
+                f"{sanitize_html(source)}</p>"
             )
 
         if category:
 
             html += (
                 f"<p><b>Kategória:</b> "
-                f"{category}</p>"
+                f"{sanitize_html(category)}</p>"
             )
 
         html += (
-            f'<p><a href="{link}">'
+            f'<p><a href="{escape(link)}">'
             "Eredeti cikk →"
             "</a></p>"
         )
@@ -292,15 +334,14 @@ def create_feed(articles):
                     "Unable to add enclosure"
                 )
 
-            #
-            # Egyes feedgen verziókban
-            # működik a media extension,
-            # másokban nem.
-            #
 
     return fg
 
+
 def main():
+    """
+    Fő program
+    """
 
     try:
 

@@ -2,42 +2,57 @@ name: Generate RSS
 
 on:
   schedule:
-    - cron: "12 */3 * * *"
+    - cron: "25 1,7,13,19 * * *"  # 4 times daily: 1:25, 7:25, 13:25, 19:25 UTC
 
   workflow_dispatch:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     permissions:
       contents: write
 
     steps:
-
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@c85c95e3d7251135ab7dc9ce0f7a8c5f4f71cded  # v4.1.1
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@82c7e631bb3cdc910f68e0641d528d9e23e4e126  # v5.1.0
         with:
           python-version: "3.12"
+          cache: "pip"
 
-      - name: Install packages
-        run: |
-          pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: |
-          python scraper.py
+        run: python scraper.py
 
-      - name: Commit feed
+      - name: Check for changes
+        id: git-status
+        run: |
+          if git diff --quiet articles.json feed.xml; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push updates
+        if: steps.git-status.outputs.changed == 'true'
         run: |
           git config user.name github-actions
-          git config user.email actions@github.com
-
+          git config user.email github-actions[bot]@users.noreply.github.com
+          
           git add articles.json feed.xml
-
-          git commit -m "Update RSS" || exit 0
-
+          git commit -m "chore: update RSS feed"
           git push
+
+      - name: Report status
+        if: always()
+        run: |
+          if [ "${{ steps.git-status.outputs.changed }}" = "true" ]; then
+            echo "✓ RSS feed updated successfully"
+          else
+            echo "ℹ No changes to commit"
+          fi

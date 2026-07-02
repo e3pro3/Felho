@@ -1,52 +1,27 @@
-# EgyKettő RSS scraper
-# GitHub Actions kompatibilis
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from datetime import datetime, timedelta, timezone
 import hashlib
 import logging
-from datetime import datetime, timedelta, timezone
-from html import escape
-from typing import Optional
 
 import requests
 from feedgen.feed import FeedGenerator
 
 API_URL = "https://egyketto.ro/api/feed/getfeed"
-OUTPUT_FILE = "feed.xml"
+SITE_URL = "https://egyketto.ro"
 
-FEED_TITLE = "EgyKettő"
-FEED_DESCRIPTION = "Erdély magyar hírportáljai egy helyen"
-FEED_LINK = "https://egyketto.ro/"
+RSS_FILE = "feed.xml"
 
 KEEP_DAYS = 5
-API_TIMEOUT = 30
-API_RETRIES = 3
 
 logging.basicConfig(
     level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-)
-
-session = requests.Session()
-
-session.headers.update(
-    {
-        "User-Agent": (
-            "Mozilla/5.0 "
-            "(compatible; EgyKettoRSS/1.0; "
-            "+https://github.com/)"
-        ),
-        "Accept": "application/json",
-    }
+    format="%(levelname)s: %(message)s"
 )
 
 
-def parse_date(value: Optional[str]) -> Optional[datetime]:
-    """
-    API dátum -> datetime
-    """
-
+def parse_date(value: str) -> datetime | None:
     if not value:
         return None
 
@@ -55,26 +30,10 @@ def parse_date(value: Optional[str]) -> Optional[datetime]:
     try:
         return datetime.fromisoformat(value)
     except Exception:
-        pass
-
-    formats = (
-        "%Y-%m-%dT%H:%M:%S",
-        "%Y-%m-%d %H:%M:%S",
-    )
-
-    for fmt in formats:
-        try:
-            return datetime.strptime(value, fmt)
-        except Exception:
-            continue
-
-    return None
+        return None
 
 
-def image_url(path: Optional[str]) -> Optional[str]:
-    """
-    API imageLink -> teljes URL
-    """
+def image_url(path: str | None) -> str | None:
 
     if not path:
         return None
@@ -85,302 +44,184 @@ def image_url(path: Optional[str]) -> Optional[str]:
     if not path.endswith(".webp"):
         path += ".webp"
 
-    return "https://egyketto.ro" + path
+    return SITE_URL + path
 
 
-def guid(article: dict) -> str:
-    """
-    Stabil GUID az RSS számára
-    """
+def article_guid(article):
 
-    text = (
-        article.get("id")
-        or article.get("link")
-        or article.get("title")
-        or ""
-    )
-
-    return hashlib.sha256(
-        text.encode("utf-8")
-    ).hexdigest()
+    return article["id"]
 
 
-def sanitize_html(text: str) -> str:
-    """
-    Alapvető HTML sanitizáció - XSS védekezés
-    """
-    return escape(text) if text else ""
+logging.info("Downloading articles...")
 
+response = requests.get(API_URL, timeout=30)
 
-def download_articles(retries: int = API_RETRIES) -> list:
-    """
-    API lekérés exponenciális backoff-al
-    """
+response.raise_for_status()
 
-    logging.info("Downloading feed...")
+articles = response.json()
 
-    for attempt in range(retries):
-        try:
-            r = session.get(
-                API_URL,
-                timeout=API_TIMEOUT,
-            )
+logging.info("Downloaded %d articles", len(articles))
 
-            r.raise_for_status()
+limit = datetime.now() - timedelta(days=KEEP_DAYS)
 
-            data = r.json()
+recent = []
 
-            logging.info(
-                "Downloaded %d articles",
-                len(data),
-            )
+for article in articles:
 
-            return data
+    published = parse_date(article.get("pubDate"))
 
-        except requests.RequestException as e:
-            if attempt < retries - 1:
-                wait = 2 ** attempt
-                logging.warning(
-                    "API error (attempt %d/%d), retrying in %ds: %s",
-                    attempt + 1,
-                    retries,
-                    wait,
-                    e,
-                )
-                import time
-                time.sleep(wait)
-            else:
-                logging.error(
-                    "API failed after %d attempts",
-                    retries,
-                )
-                raise
+    if published is None:
+        continue
 
+    if published < limit:
+        continue
 
-def recent_articles(articles: list) -> list:
-    """
-    Szűrés - csak az elmúlt KEEP_DAYS napos cikkek
-    """
+    article["_published"] = published
 
-    limit = datetime.now() - timedelta(days=KEEP_DAYS)
+    recent.append(article)
 
-    result = []
+recent.sort(
+    key=lambda x: x["_published"],
+    reverse=True,
+)
 
-    for article in articles:
+logging.info(
+    "%d recent articles",
+    len(recent),
+)
 
-        published = parse_date(
-            article.get("pubDate")
-        )
+fg = FeedGenerator()
 
-        if published is None:
-            continue
+fg.id(SITE_URL)
+fg.title("EgyKettő")
+fg.description("Erdély magyar hírei egy helyen")
+fg.language("hu")
 
-        if published < limit:
-            continue
+fg.link(
+    href=SITE_URL,
+    rel="alternate",
+)
 
-        article["_published"] = published
+for article in recent:
 
-        result.append(article)
+    title = (article.get("title") or "").strip()
+    description = (article.get("description") or "").strip()
+    link = (article.get("link") or "").strip()
+    category = (article.get("category") or "").strip()
+    source = (article.get("siteName") or "").strip()
 
-    result.sort(
-        key=lambda x: x["_published"],
-        reverse=True,
-    )
+    image = image_url(article.get("imageLink"))
 
-    logging.info(
-        "%d recent articles",
-        len(result),
-    )
+    entry = fg.add_entry()
 
-    return result
+    entry.id(article_guid(article))
+    entry.guid(article_guid(article), permalink=False)
 
+    entry.title(title)
 
-def create_feed(articles: list) -> FeedGenerator:
-    """
-    RSS feed generálás
-    """
-
-    fg = FeedGenerator()
-
-    fg.id(FEED_LINK)
-    fg.title(FEED_TITLE)
-    fg.description(FEED_DESCRIPTION)
-    fg.language("hu")
-    fg.link(
-        href=FEED_LINK,
+    entry.link(
+        href=link,
         rel="alternate",
     )
 
-    fg.link(
-        href=FEED_LINK,
-        rel="self",
+    entry.pubDate(
+        article["_published"].replace(
+            tzinfo=timezone.utc
+        )
     )
 
-    for article in articles:
+    if category:
+        entry.category(term=category)
 
-        entry = fg.add_entry()
+    html = []
 
-        title = (article.get("title") or "").strip()
-
-        description = (
-            article.get("description") or ""
-        ).strip()
-
-        link = (
-            article.get("link") or ""
-        ).strip()
-
-        category = (
-            article.get("category") or ""
-        ).strip()
-
-        source = (
-            article.get("siteName") or ""
-        ).strip()
-
-        published = article["_published"]
-
-        image = image_url(
-            article.get("imageLink")
+    if image:
+        html.append(
+            f'<p><img src="{image}" alt="{title}" /></p>'
         )
 
-        entry.guid(
-            guid(article),
-            permalink=False,
+    if description:
+        html.append(
+            f"<p>{description}</p>"
         )
 
-        entry.id(
-            guid(article)
+    html.append("<hr>")
+
+    if source:
+        html.append(
+            f"<p><strong>Forrás:</strong> {source}</p>"
         )
 
-        entry.title(sanitize_html(title))
-
-        entry.link(
-            href=link,
-            rel="alternate",
+    if category:
+        html.append(
+            f"<p><strong>Kategória:</strong> {category}</p>"
         )
 
-        entry.pubDate(
-            published.replace(
-                tzinfo=timezone.utc
-            )
-        )
+    html.append(
+        f'<p><a href="{link}">Eredeti cikk</a></p>'
+    )
 
-        if category:
-            entry.category(
-                term=sanitize_html(category)
+    html = "\n".join(html)
+
+    entry.description(html)
+
+    entry.content(
+        html,
+        type="html",
+    )
+
+    if image:
+
+        try:
+
+            entry.enclosure(
+                image,
+                "0",
+                "image/webp",
             )
 
-        html = ""
+        except Exception as exc:
 
-        if image:
-
-            html += (
-                '<p>'
-                f'<img src="{escape(image)}" '
-                f'alt="{escape(title)}" '
-                'style="max-width:100%;" />'
-                '</p>'
+            logging.warning(
+                "Unable to add image: %s",
+                exc,
             )
 
-        if description:
+logging.info("Generating RSS file...")
 
-            html += (
-                f"<p>{sanitize_html(description)}</p>"
-            )
+#
+# Atom self link
+#
+fg.link(
+    href=f"{SITE_URL}/feed.xml",
+    rel="self",
+)
 
-        html += "<hr>"
+#
+# Last build date
+#
+fg.updated(
+    datetime.now(timezone.utc)
+)
 
-        if source:
+#
+# Generator
+#
+fg.generator(
+    "EgyKettő RSS Generator"
+)
 
-            html += (
-                f"<p><b>Forrás:</b> "
-                f"{sanitize_html(source)}</p>"
-            )
+#
+# RSS kiírása
+#
+fg.rss_file(
+    RSS_FILE,
+    pretty=True,
+)
 
-        if category:
+logging.info("RSS written to %s", RSS_FILE)
 
-            html += (
-                f"<p><b>Kategória:</b> "
-                f"{sanitize_html(category)}</p>"
-            )
-
-        html += (
-            f'<p><a href="{escape(link)}">'
-            "Eredeti cikk →"
-            "</a></p>"
-        )
-
-        entry.description(html)
-
-        entry.content(
-            html,
-            type="CDATA",
-        )
-
-        if image:
-
-            try:
-
-                entry.enclosure(
-                    image,
-                    "0",
-                    "image/webp",
-                )
-
-            except Exception:
-
-                logging.exception(
-                    "Unable to add enclosure"
-                )
-
-
-    return fg
-
-
-def main():
-    """
-    Fő program
-    """
-
-    try:
-
-        articles = download_articles()
-
-        articles = recent_articles(
-            articles
-        )
-
-        fg = create_feed(
-            articles
-        )
-
-        logging.info(
-            "Writing RSS..."
-        )
-
-        fg.rss_file(
-            OUTPUT_FILE,
-            pretty=True,
-        )
-
-        logging.info(
-            "Done."
-        )
-
-        logging.info(
-            "Generated %d articles",
-            len(articles),
-        )
-
-    except Exception:
-
-        logging.exception(
-            "Fatal error"
-        )
-
-        raise
-
-
-if __name__ == "__main__":
-    main()
+logging.info(
+    "Finished successfully (%d articles)",
+    len(recent),
+)

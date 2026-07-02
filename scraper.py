@@ -1,434 +1,345 @@
 # EgyKettő RSS scraper
 # GitHub Actions kompatibilis
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-import os
-import json
 import hashlib
-import requests
-
+import logging
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urlparse, urljoin
 
-from dateutil import parser as dateparser
+import requests
 from feedgen.feed import FeedGenerator
 
-
 API_URL = "https://egyketto.ro/api/feed/getfeed"
-
-CACHE_FILE = "articles.json"
 OUTPUT_FILE = "feed.xml"
 
-DAYS_LIMIT = 5
+FEED_TITLE = "EgyKettő"
+FEED_DESCRIPTION = "Erdély magyar hírportáljai egy helyen"
+FEED_LINK = "https://egyketto.ro/"
+
+KEEP_DAYS = 5
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+)
+
+session = requests.Session()
+
+session.headers.update(
+    {
+        "User-Agent": (
+            "Mozilla/5.0 "
+            "(compatible; EgyKettoRSS/1.0; "
+            "+https://github.com/)"
+        ),
+        "Accept": "application/json",
+    }
+)
 
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (RSS Bot)"
-}
+def parse_date(value):
+    """
+    API dátum -> datetime
+    """
+
+    if not value:
+        return None
+
+    value = value.replace("Z", "")
+
+    try:
+        return datetime.fromisoformat(value)
+    except Exception:
+        pass
+
+    formats = (
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%d %H:%M:%S",
+    )
+
+    for fmt in formats:
+        try:
+            return datetime.strptime(value, fmt)
+        except Exception:
+            continue
+
+    return None
 
 
-# -------------------------
-# Segédfüggvények
-# -------------------------
+def image_url(path):
+    """
+    API imageLink -> teljes URL
+    """
 
-def sha256(text):
+    if not path:
+        return None
+
+    if path.startswith("http"):
+        return path
+
+    if not path.endswith(".webp"):
+        path += ".webp"
+
+    return "https://egyketto.ro" + path
+
+
+def guid(article):
+    """
+    Stabil GUID az RSS számára
+    """
+
+    text = (
+        article.get("id")
+        or article.get("link")
+        or article.get("title")
+        or ""
+    )
+
     return hashlib.sha256(
         text.encode("utf-8")
     ).hexdigest()
 
 
-def article_id(article):
-    raw = (
-        article.get("title", "")
-        + article.get("link", "")
-    )
+def download_articles():
 
-    return sha256(raw)
+    logging.info("Downloading feed...")
 
-
-# -------------------------
-# API lekérés
-# -------------------------
-
-def fetch_articles():
-
-    print("EgyKettő scraper indul...")
-
-    response = requests.get(
+    r = session.get(
         API_URL,
-        headers=HEADERS,
-        timeout=30
+        timeout=30,
     )
 
-    response.raise_for_status()
+    r.raise_for_status()
 
-    data = response.json()
+    data = r.json()
 
-
-    # API ellenőrzés
-    if isinstance(data, dict):
-
-        for key in [
-            "items",
-            "articles",
-            "data",
-            "feed"
-        ]:
-            if key in data:
-                data = data[key]
-                break
-
-
-    if not isinstance(data, list):
-        return []
-
-
-    print(f"API cikkek: {len(data)}")
+    logging.info(
+        "Downloaded %d articles",
+        len(data),
+    )
 
     return data
 
 
-# -------------------------
-# Cache kezelés
-# -------------------------
+def recent_articles(articles):
 
-def load_cache():
+    limit = datetime.now() - timedelta(days=KEEP_DAYS)
 
-    if not os.path.exists(CACHE_FILE):
-        return []
+    result = []
 
+    for article in articles:
 
-    try:
-
-        with open(
-            CACHE_FILE,
-            "r",
-            encoding="utf-8"
-        ) as f:
-
-            return json.load(f)
-
-    except Exception:
-
-        return []
-
-
-
-def save_cache(items):
-
-    with open(
-        CACHE_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            items,
-            f,
-            ensure_ascii=False,
-            indent=2
+        published = parse_date(
+            article.get("pubDate")
         )
 
-
-# -------------------------
-# Cikk normalizálás
-# -------------------------
-
-def normalize(article):
-
-    title = (
-        article.get("title")
-        or ""
-    )
-
-    link = (
-        article.get("link")
-        or ""
-    )
-
-
-    # Kép kezelése
-    image = (
-        article.get("imageLink")
-        or ""
-    )
-
-
-    # Relatív kép URL javítása
-    if image.startswith("/"):
-
-        parsed = urlparse(link)
-
-        image = urljoin(
-            f"{parsed.scheme}://{parsed.netloc}",
-            image
-        )
-
-
-    description = (
-        article.get("description")
-        or ""
-    )
-
-
-    published = (
-        article.get("pubDate")
-        or datetime.now(timezone.utc).isoformat()
-    )
-
-
-    return {
-
-        "id": article_id(
-            {
-                "title": title,
-                "link": link
-            }
-        ),
-
-        "title": title,
-
-        "link": link,
-
-        "image": image,
-
-        "description": description,
-
-        "published": published
-    }
-
-
-# -------------------------
-# Dátum kezelés
-# -------------------------
-
-def parse_date(value):
-
-    try:
-
-        return dateparser.parse(value)
-
-    except Exception:
-
-        return datetime.now(
-            timezone.utc
-        )
-
-
-# -------------------------
-# 5 napos szűrés
-# -------------------------
-
-def filter_recent(result, days=7):
-    from datetime import datetime, timedelta, timezone
-
-    limit = datetime.now(timezone.utc) - timedelta(days=days)
-
-    filtered = []
-
-    for item in result:
-        dt = item.get("date")
-
-        if not dt:
+        if published is None:
             continue
 
-        # string dátum esetén is kezeljük
-        if isinstance(dt, str):
-            dt = datetime.fromisoformat(
-                dt.replace("Z", "+00:00")
-            )
+        if published < limit:
+            continue
 
-        # naive -> aware
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+        article["_published"] = published
 
-        # aware -> UTC
-        else:
-            dt = dt.astimezone(timezone.utc)
-
-        item["date"] = dt
-
-        if dt >= limit:
-            filtered.append(item)
-
-    return filtered
-
-# -------------------------
-# Duplikáció + cache
-# -------------------------
-
-def merge_articles(new_items):
-
-    old_items = load_cache()
-
-
-    combined = {}
-
-
-    for item in old_items:
-
-        combined[item["id"]] = item
-
-
-    for item in new_items:
-
-        clean = normalize(item)
-
-        combined[clean["id"]] = clean
-
-
-    result = list(
-        combined.values()
-    )
-
-
-    result = filter_recent(result)
-
-
-    # legfrissebb elöl
+        result.append(article)
 
     result.sort(
-        key=lambda x: parse_date(
-            x["published"]
-        ),
-        reverse=True
+        key=lambda x: x["_published"],
+        reverse=True,
     )
 
-
-    save_cache(result)
-
+    logging.info(
+        "%d recent articles",
+        len(result),
+    )
 
     return result
 
-
-# -------------------------
-# RSS generálás
-# -------------------------
-
-def create_rss(items):
+def create_feed(articles):
 
     fg = FeedGenerator()
 
-
-    fg.title(
-        "EgyKettő hírek"
+    fg.id(FEED_LINK)
+    fg.title(FEED_TITLE)
+    fg.description(FEED_DESCRIPTION)
+    fg.language("hu")
+    fg.link(
+        href=FEED_LINK,
+        rel="alternate",
     )
 
     fg.link(
-        href="https://egyketto.ro",
-        rel="alternate"
+        href=FEED_LINK,
+        rel="self",
     )
 
-    fg.description(
-        "Automatikus EgyKettő RSS feed"
-    )
-
-
-    fg.language(
-        "hu"
-    )
-
-
-    for item in items:
+    for article in articles:
 
         entry = fg.add_entry()
 
+        title = (article.get("title") or "").strip()
 
-        entry.title(
-            item["title"]
+        description = (
+            article.get("description") or ""
+        ).strip()
+
+        link = (
+            article.get("link") or ""
+        ).strip()
+
+        category = (
+            article.get("category") or ""
+        ).strip()
+
+        source = (
+            article.get("siteName") or ""
+        ).strip()
+
+        published = article["_published"]
+
+        image = image_url(
+            article.get("imageLink")
         )
 
+        entry.guid(
+            guid(article),
+            permalink=False,
+        )
+
+        entry.id(
+            guid(article)
+        )
+
+        entry.title(title)
 
         entry.link(
-            href=item["link"]
+            href=link,
+            rel="alternate",
         )
 
-
-        # Kép az RSS tartalomba
-        content = ""
-
-
-        if item.get("image"):
-
-            content += f"""
-            <p>
-            <img src="{item['image']}"
-            style="max-width:100%;height:auto;">
-            </p>
-            """
-
-
-        content += (
-            "<p>"
-            + item.get(
-                "description",
-                ""
+        entry.pubDate(
+            published.replace(
+                tzinfo=timezone.utc
             )
-            + "</p>"
         )
 
+        if category:
+            entry.category(
+                term=category
+            )
+
+        html = ""
+
+        if image:
+
+            html += (
+                '<p>'
+                f'<img src="{image}" '
+                f'alt="{title}" '
+                'style="max-width:100%;" />'
+                '</p>'
+            )
+
+        if description:
+
+            html += (
+                f"<p>{description}</p>"
+            )
+
+        html += "<hr>"
+
+        if source:
+
+            html += (
+                f"<p><b>Forrás:</b> "
+                f"{source}</p>"
+            )
+
+        if category:
+
+            html += (
+                f"<p><b>Kategória:</b> "
+                f"{category}</p>"
+            )
+
+        html += (
+            f'<p><a href="{link}">'
+            "Eredeti cikk →"
+            "</a></p>"
+        )
+
+        entry.description(html)
 
         entry.content(
-            content,
-            type="CDATA"
+            html,
+            type="CDATA",
         )
 
+        if image:
 
-        entry.description(
-            content
-        )
+            try:
 
+                entry.enclosure(
+                    image,
+                    "0",
+                    "image/webp",
+                )
 
-        if item.get("image"):
+            except Exception:
 
-            entry.enclosure(
-                item["image"],
-                0,
-                "image/jpeg"
-            )
+                logging.exception(
+                    "Unable to add enclosure"
+                )
 
+            #
+            # Egyes feedgen verziókban
+            # működik a media extension,
+            # másokban nem.
+            #
 
-        entry.pubdate(
-            parse_date(
-                item["published"]
-            )
-        )
-
-
-    fg.rss_file(
-        OUTPUT_FILE
-    )
-
-
-    print(
-        f"RSS elkészült: {len(items)} cikk"
-    )
-
-
-# -------------------------
-# Fő program
-# -------------------------
+    return fg
 
 def main():
 
-    articles = fetch_articles()
+    try:
 
+        articles = download_articles()
 
-    merged = merge_articles(
-        articles
-    )
+        articles = recent_articles(
+            articles
+        )
 
+        fg = create_feed(
+            articles
+        )
 
-    create_rss(
-        merged
-    )
+        logging.info(
+            "Writing RSS..."
+        )
 
+        fg.rss_file(
+            OUTPUT_FILE,
+            pretty=True,
+        )
 
-    print(
-        f"Kész: {len(merged)} cikk"
-    )
+        logging.info(
+            "Done."
+        )
 
+        logging.info(
+            "Generated %d articles",
+            len(articles),
+        )
+
+    except Exception:
+
+        logging.exception(
+            "Fatal error"
+        )
+
+        raise
 
 
 if __name__ == "__main__":
-
     main()

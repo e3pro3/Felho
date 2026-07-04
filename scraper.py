@@ -13,7 +13,7 @@ SITE_URL = "https://egyketto.ro"
 
 RSS_FILE = "feed.xml"
 
-KEEP_DAYS = 10
+KEEP_DAYS = 7
 
 logging.basicConfig(
     level=logging.INFO,

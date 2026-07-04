@@ -34,7 +34,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update RSS"
+            git commit -m "Update feed [skip ci]"
             git push
           fi
 

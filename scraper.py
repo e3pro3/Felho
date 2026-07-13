@@ -173,6 +173,9 @@ for article in recent:
         type="html",
     )
 
+    if source:
+        entry.source(source, link)
+
     if image:
 
         try:

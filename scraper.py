@@ -117,7 +117,7 @@ for article in recent:
     entry.id(article_guid(article))
     entry.guid(article_guid(article), permalink=False)
 
-    entry.title(title)
+    entry.title(f"[{source}] {title}" if source else title)
 
     entry.link(
         href=link,
@@ -132,6 +132,9 @@ for article in recent:
 
     if category:
         entry.category(term=category)
+
+    if source:
+    entry.author(name=source)
 
     html = []
 

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>EgyKettő RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 13 Jul 2026 13:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:50:53 +0000</lastBuildDate>
     <item>
       <title>[Székelyhon] Sziklamászás közben szakadt el a kötél: négyen zuhantak szakadékba a Bucsecs-hegységben</title>
       <link>https://szekelyhon.ro/aktualis/sziklamaszas-kozben-szakadt-el-a-kotel-negyen-zuhantak-szakadekba-a-bucsecs-hegysegben</link>
@@ -25,7 +25,7 @@
       <guid isPermaLink="false">hLaujVBhRVGknh7eSiTi</guid>
       <enclosure url="https://egyketto.ro/img/nn_busteni-hegymaszok.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 13:57:27 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/sziklamaszas-kozben-szakadt-el-a-kotel-negyen-zuhantak-szakadekba-a-bucsecs-hegysegben">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/sziklamaszas-kozben-szakadt-el-a-kotel-negyen-zuhantak-szakadekba-a-bucsecs-hegysegben</source>
     </item>
     <item>
       <title>[Maszol] Motorok dübörgésétől hangos Kézdivásárhely – Zajlik a 24. Frogstock Moto-Rock Fest (VIDEÓ)</title>
@@ -43,7 +43,7 @@
       <guid isPermaLink="false">vcL3vW8UyHD27gElyjqM</guid>
       <enclosure url="https://egyketto.ro/img/motoros_(2).webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:02:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Motorok-duborgesetol-hangos-Kezdivasarhely-Zajlik-a-24-Frogstock-Moto-Rock-Fest-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Motorok-duborgesetol-hangos-Kezdivasarhely-Zajlik-a-24-Frogstock-Moto-Rock-Fest-VIDEO</source>
     </item>
     <item>
       <title>[Maszol] Tíz újonnan azonosított áldozatot temettek el a srebrenicai megemlékezésen</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="false">U4PpxGGdWG4q0VlAXi2V</guid>
       <enclosure url="https://egyketto.ro/img/srebrenica_megemlekezes_bosznia_2026_07_11_agerpres_epa.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:16:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Tiz-ujonnan-azonositott-aldozatot-temettek-el-a-srebrenicai-megemlekezesen">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Tiz-ujonnan-azonositott-aldozatot-temettek-el-a-srebrenicai-megemlekezesen</source>
     </item>
     <item>
       <title>[Transtelex] Kártérítést fizet az Egyesült Államok a rejtélyes Havanna-szindrómában szenvedő kémeknek és diplomatáknak</title>
@@ -82,7 +82,7 @@
       <category>Külföld</category>
       <enclosure url="https://egyketto.ro/img/1783779566-temp-k5vghep8i5pg2hfjpbh_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:20:31 +0000</pubDate>
-      <source url="https://transtelex.ro/kulfold/2026/07/11/havanna-szindroma-egyesult-allamok-kuba-diplomatak-kemek-karteritest">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kulfold/2026/07/11/havanna-szindroma-egyesult-allamok-kuba-diplomatak-kemek-karteritest</source>
     </item>
     <item>
       <title>[Maszol] Nehéz sorsú családokkal ebédelt XIV. Leó a pápai rezidencián</title>
@@ -100,7 +100,7 @@
       <guid isPermaLink="false">gDxPyAagGt6QCtGcSEpY</guid>
       <enclosure url="https://egyketto.ro/img/xiv_leo_papa_vatican_csaladok_ebed_agerpres_epa.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:35:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Nehez-sorsu-csaladokkal-ebedelt-XIV-Leo-a-papai-rezidencian">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Nehez-sorsu-csaladokkal-ebedelt-XIV-Leo-a-papai-rezidencian</source>
     </item>
     <item>
       <title>[Krónika] Mindennapi kenyerünket felzabáló drága világunk</title>
@@ -118,7 +118,7 @@
       <guid isPermaLink="false">bmDkskJtsDwfWdiIzVq5</guid>
       <enclosure url="https://egyketto.ro/img/nn_kenyer_infografika.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:40:55 +0000</pubDate>
-      <source url="https://kronika.ro/velemeny/mindennapi-kenyerunket-felzabalo-draga-vilagunk">Krónika</source>
+      <source url="Krónika">https://kronika.ro/velemeny/mindennapi-kenyerunket-felzabalo-draga-vilagunk</source>
     </item>
     <item>
       <title>[Székelyhon] Ma már nincs grundfoci – Ilyés Róbert új kihívásokat keres az FK Csíkszereda után</title>
@@ -136,7 +136,7 @@
       <guid isPermaLink="false">2ShGWTWvXWS61ZBqDCRb</guid>
       <enclosure url="https://egyketto.ro/img/nn_fk-csiiiiikszereda_edzes-1-.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 14:56:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ma-mar-nincs-grundfoci-n-ilyes-robert-uj-kihivasokat-keres-az-fk-csikszereda-utan">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ma-mar-nincs-grundfoci-n-ilyes-robert-uj-kihivasokat-keres-az-fk-csikszereda-utan</source>
     </item>
     <item>
       <title>[Székelyhon] Életét vesztette a Bucsecs-hegységben lezuhant egyik hegymászó</title>
@@ -154,7 +154,7 @@
       <guid isPermaLink="false">KDB58zayh4ZCmOqB3MwB</guid>
       <enclosure url="https://egyketto.ro/img/nn_smurd-illusztracio-oa-maj2614.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 15:21:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/eletet-vesztette-a-bucsecs-hegysegben-lezuhant-egyik-hegymaszo">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/eletet-vesztette-a-bucsecs-hegysegben-lezuhant-egyik-hegymaszo</source>
     </item>
     <item>
       <title>[Krónika] „Ha Isten velünk, ki lehet ellenünk?” – Sorstársain segít a daganatos betegséget legyőző marosvásárhelyi orvos</title>
@@ -172,7 +172,7 @@
       <guid isPermaLink="false">M7VqPH1rWUBPJEEpuOVa</guid>
       <enclosure url="https://egyketto.ro/img/nn_gloria-kep.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 15:21:12 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/bha-isten-velunk-ki-lehet-ellenunkr-n-sorstarsain-segit-a-daganatos-betegseget-legyozo-marosvasarhelyi-orvos">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/bha-isten-velunk-ki-lehet-ellenunkr-n-sorstarsain-segit-a-daganatos-betegseget-legyozo-marosvasarhelyi-orvos</source>
     </item>
     <item>
       <title>[Főtér] Kitálalt a kormányfő-helyettes: az állami vállalatok reformjától vadult meg a PSD a koalícióban</title>
@@ -190,7 +190,7 @@
       <guid isPermaLink="false">L7W00O2ub9bPZ5fnEuqq</guid>
       <enclosure url="https://egyketto.ro/img/nn_oanagheorghiu_psd_hirmix.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 15:31:56 +0000</pubDate>
-      <source url="https://foter.ro/kezmuves-hirek/kitalalt-a-kormanyfo-helyettes-az-allami-vallalatok-reformjatol-vadult-meg-a-psd-a-koalicioban">Főtér</source>
+      <source url="Főtér">https://foter.ro/kezmuves-hirek/kitalalt-a-kormanyfo-helyettes-az-allami-vallalatok-reformjatol-vadult-meg-a-psd-a-koalicioban</source>
     </item>
     <item>
       <title>[Maszol] Észak-Macedónia vizsgálja a betört repülőgépablakon részben kisodródott utas ügyét</title>
@@ -208,7 +208,7 @@
       <guid isPermaLink="false">uBy5pA1ozBGI9hAVN8Zg</guid>
       <enclosure url="https://egyketto.ro/img/743270261_2322368924835727_4309791560674290920_n.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 15:37:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Eszak-Macedonia-vizsgalja-a-betort-repulogepablakon-reszben-kisodrodott-utas-ugyet">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Eszak-Macedonia-vizsgalja-a-betort-repulogepablakon-reszben-kisodrodott-utas-ugyet</source>
     </item>
     <item>
       <title>[Maszol] Újságírókat idéztek be egy, Trump új elnöki repülőgépéről szóló cikk miatt</title>
@@ -226,7 +226,7 @@
       <guid isPermaLink="false">r1JMQjheFoJubolmofkG</guid>
       <enclosure url="https://egyketto.ro/img/pexels-geordie-mcleod-3133379-4735010.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 16:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Ujsagirokat-ideztek-be-egy-Trump-uj-elnoki-repulogeperol-szolo-cikk-miatt">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Ujsagirokat-ideztek-be-egy-Trump-uj-elnoki-repulogeperol-szolo-cikk-miatt</source>
     </item>
     <item>
       <title>[Krónika] Betört a repülőgép ablaka, a légáramlat majdnem kiszippantotta az utast</title>
@@ -244,7 +244,7 @@
       <guid isPermaLink="false">ORpc7re33itVdzpFLNgM</guid>
       <enclosure url="https://egyketto.ro/img/nn_repulogepabla.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 16:21:26 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/betort-a-repulogep-ablaka-a-legaramlat-majdnem-kiszippantotta-az-utast">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/betort-a-repulogep-ablaka-a-legaramlat-majdnem-kiszippantotta-az-utast</source>
     </item>
     <item>
       <title>[Maszol] Elkészült a Szépvízi-gát felújításának műszaki terve, idén nyolcmillió lejes finanszírozást kap</title>
@@ -262,7 +262,7 @@
       <guid isPermaLink="false">Qv62FSLiQOS66OpXb4nm</guid>
       <enclosure url="https://egyketto.ro/img/szepviz.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 16:33:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elkeszult-a-Szepvizi-gat-felujitasanak-muszaki-terve-iden-nyolcmillio-lejes-finanszirozast-kap">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elkeszult-a-Szepvizi-gat-felujitasanak-muszaki-terve-iden-nyolcmillio-lejes-finanszirozast-kap</source>
     </item>
     <item>
       <title>[Maszol] Lezuhant hegymászók: két sérültet Bukarestbe, egyet Brassóba szállítanak</title>
@@ -280,7 +280,7 @@
       <guid isPermaLink="false">nz4dBrG6XxULAWROlyLS</guid>
       <enclosure url="https://egyketto.ro/img/mentes_hegyimetok_hegymaszok_fb.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 16:38:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Lezuhant-hegymaszok-ket-serultet-Bukarestbe-egyet-Brassoba-szallitanak">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Lezuhant-hegymaszok-ket-serultet-Bukarestbe-egyet-Brassoba-szallitanak</source>
     </item>
     <item>
       <title>[Székelyhon] Ezeket a sorozatokat nézhetjük júliusban</title>
@@ -298,7 +298,7 @@
       <guid isPermaLink="false">0F2WPlxCNTtrRltYNWxR</guid>
       <enclosure url="https://egyketto.ro/img/nn_stuart-fails-to-save-the-universe.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 16:59:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/liget/ezeket-a-sorozatokat-nezhetjuk-juliusban">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/liget/ezeket-a-sorozatokat-nezhetjuk-juliusban</source>
     </item>
     <item>
       <title>[Maszol] „Az igazságból gazság lett” – Szilágyperecseni visszaemlékezések a kollektivizálás éveiről</title>
@@ -316,7 +316,7 @@
       <guid isPermaLink="false">LtwSYaQgbhdO5Zv3WkPs</guid>
       <enclosure url="https://egyketto.ro/img/szilagyperecsen_facebook.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 17:00:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Az-igazsagbol-gazsag-lett-Szilagyperecseni-visszaemlekezesek-a-kollektivizalas-eveirol">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Az-igazsagbol-gazsag-lett-Szilagyperecseni-visszaemlekezesek-a-kollektivizalas-eveirol</source>
     </item>
     <item>
       <title>[Krónika] Hétfőn elfogadják a magyar alkotmánymódosítást, de Magyar Péter szerint „még működhet” Sulyok Tamás azonnali lemondása</title>
@@ -334,7 +334,7 @@
       <guid isPermaLink="false">FM8DEm2tKFcVHx3QKfmw</guid>
       <enclosure url="https://egyketto.ro/img/nn_sulyok_magyarpeter.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 17:26:58 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/hetfon-elfogadjak-a-magyar-alkotmanymodositast-de-magyar-peter-szerint-bmeg-mukodhetr-sulyok-tamas-azonnali-lemondasa">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/hetfon-elfogadjak-a-magyar-alkotmanymodositast-de-magyar-peter-szerint-bmeg-mukodhetr-sulyok-tamas-azonnali-lemondasa</source>
     </item>
     <item>
       <title>[Krónika] Fokozatosan újraindul a hírszolgáltatás magyar közmédia felületein</title>
@@ -352,7 +352,7 @@
       <guid isPermaLink="false">a0kqUPTno2UnHrTVwYK9</guid>
       <enclosure url="https://egyketto.ro/img/nn_hirado_cimlap.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 18:17:52 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/fokozatosan-ujraindul-a-hirszolgaltatas-magyar-kozmedia-feluletein">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/fokozatosan-ujraindul-a-hirszolgaltatas-magyar-kozmedia-feluletein</source>
     </item>
     <item>
       <title>[Székelyhon] Így indítja újra a hírszolgtatást a közmédia</title>
@@ -367,7 +367,7 @@
 &lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/igy-inditja-ujra-a-hirszolgtatast-a-kozmedia"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">RCidjA6Rzv7wFMPQEGST</guid>
       <pubDate>Sat, 11 Jul 2026 18:37:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/igy-inditja-ujra-a-hirszolgtatast-a-kozmedia">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/igy-inditja-ujra-a-hirszolgtatast-a-kozmedia</source>
     </item>
     <item>
       <title>[Székelyhon] Hiába lőtték ki a jószágokat tizedelő medvét, már „átvette a helyét” egy másik</title>
@@ -382,7 +382,7 @@
 &lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/hiaba-lottek-ki-a-joszagokat-tizedelo-medvet-mar-batvette-a-helyetr-egy-masik"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">MfUWA2pMWgAK4bZD3r4V</guid>
       <pubDate>Sat, 11 Jul 2026 18:37:52 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/hiaba-lottek-ki-a-joszagokat-tizedelo-medvet-mar-batvette-a-helyetr-egy-masik">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/hiaba-lottek-ki-a-joszagokat-tizedelo-medvet-mar-batvette-a-helyetr-egy-masik</source>
     </item>
     <item>
       <title>[Transtelex] Új, szuperhosszú nyakú dinoszaurusz fajt találtak Thaiföldön</title>
@@ -403,7 +403,7 @@
       <category>Techtud</category>
       <enclosure url="https://egyketto.ro/img/1783803507-temp-hppg8ni5oiq91apapop_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 21:02:09 +0000</pubDate>
-      <source url="https://transtelex.ro/techtud/2026/07/11/dinoszaurusz-thaifold-felfedezes">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/techtud/2026/07/11/dinoszaurusz-thaifold-felfedezes</source>
     </item>
     <item>
       <title>[Transtelex] Norvégia hatalmasat küzdött, de Bellingham becipelte az elődöntőbe az angolokat</title>
@@ -424,7 +424,7 @@
       <category>Sport</category>
       <enclosure url="https://egyketto.ro/img/1783813526-temp-e1eqo7oi0ei14eomcjj_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 11 Jul 2026 23:55:25 +0000</pubDate>
-      <source url="https://transtelex.ro/sport/2026/07/12/foci-vb-2026-futball-norvegia-anglia-negyeddonto">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/sport/2026/07/12/foci-vb-2026-futball-norvegia-anglia-negyeddonto</source>
     </item>
     <item>
       <title>[Szabadság] Emlékezés és kopjafaállítás Török Berta, Csinszka édesanyjának tiszteletére</title>
@@ -442,7 +442,7 @@
       <guid isPermaLink="false">RkNJU17L80vNK14uJ35B</guid>
       <enclosure url="https://egyketto.ro/img/fejlec_0.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/emlekezes-es-kopjafaallitas-torok-berta-csinszka-edesanyjanak-tiszteletere">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/emlekezes-es-kopjafaallitas-torok-berta-csinszka-edesanyjanak-tiszteletere</source>
     </item>
     <item>
       <title>[Szabadság] Tanösvény nyílt a kolozsvári Bükk-erdőben</title>
@@ -460,7 +460,7 @@
       <guid isPermaLink="false">k2Hgn1pxpSgMrIqWK5K0</guid>
       <enclosure url="https://egyketto.ro/img/foto-5.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/tanosveny-nyilt-kolozsvari-bukk-erdoben">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/tanosveny-nyilt-kolozsvari-bukk-erdoben</source>
     </item>
     <item>
       <title>[Szabadság] Magyar Péter a közvetlen államfőválasztás mellett foglalt állást</title>
@@ -478,7 +478,7 @@
       <guid isPermaLink="false">werDho784a73ltFGBRl8</guid>
       <enclosure url="https://egyketto.ro/img/magyar-peter-mti4.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/magyar-peter-kozvetlen-allamfovalasztas-mellett-foglalt-allast">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/magyar-peter-kozvetlen-allamfovalasztas-mellett-foglalt-allast</source>
     </item>
     <item>
       <title>[Szabadság] Vb-2026: A címvédő Argentína emberelőnyben, de a hosszabbításban gyűrte le a svájciakat</title>
@@ -496,7 +496,7 @@
       <guid isPermaLink="false">gyebB5x1ITWI1MhYIa3r</guid>
       <enclosure url="https://egyketto.ro/img/kepa20260712001.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/vb-2026-cimvedo-argentina-emberelonyben-de-hosszabbitasban-gyurte-le-svajciakat">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/vb-2026-cimvedo-argentina-emberelonyben-de-hosszabbitasban-gyurte-le-svajciakat</source>
     </item>
     <item>
       <title>[Szabadság] Vb-2026: Bellingham duplájával az angol válogatott Norvégiát kiejtve elődöntős</title>
@@ -514,7 +514,7 @@
       <guid isPermaLink="false">MlTvW7W7CfxvXhztnTiz</guid>
       <enclosure url="https://egyketto.ro/img/kepa20260712037.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/vb-2026-bellingham-duplajaval-az-angol-valogatott-norvegiat-kiejtve-elodontos">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/vb-2026-bellingham-duplajaval-az-angol-valogatott-norvegiat-kiejtve-elodontos</source>
     </item>
     <item>
       <title>[Szabadság] Lencsés tésztasaláta</title>
@@ -532,7 +532,7 @@
       <guid isPermaLink="false">knTLXCjmlW5J30PkDSud</guid>
       <enclosure url="https://egyketto.ro/img/evasotletekfejlec02.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/lencses-tesztasalata">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/lencses-tesztasalata</source>
     </item>
     <item>
       <title>[Transtelex] Argentína kiszenvedte a hosszabbításban, Alvarez pazar góllal lőtte tovább a címvédőt az elődöntőbe</title>
@@ -553,7 +553,7 @@
       <category>Sport</category>
       <enclosure url="https://egyketto.ro/img/1783827429-temp-cojqgtsa1t1jcbdnfhd_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 03:45:51 +0000</pubDate>
-      <source url="https://transtelex.ro/sport/2026/07/12/argentina-svajc-foci-vb-negyeddonto-vilagbajnoksag">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/sport/2026/07/12/argentina-svajc-foci-vb-negyeddonto-vilagbajnoksag</source>
     </item>
     <item>
       <title>[Krónika] Mauritiustól Marokkóig: mi van az ingyenutazások, influenszerélet mögött? Egy erdélyi utazóblogger a kulisszákról</title>
@@ -571,7 +571,7 @@
       <guid isPermaLink="false">iU614UAUzj5l8xGyyoKZ</guid>
       <enclosure url="https://egyketto.ro/img/nn_agitravels_jok.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 06:01:51 +0000</pubDate>
-      <source url="https://kronika.ro/szines/mauritiustol-marokkoig-mi-van-az-ingyenutazasok-influenszerelet-mogott-egy-erdelyi-utazoblogger-a-kulisszakrol">Krónika</source>
+      <source url="Krónika">https://kronika.ro/szines/mauritiustol-marokkoig-mi-van-az-ingyenutazasok-influenszerelet-mogott-egy-erdelyi-utazoblogger-a-kulisszakrol</source>
     </item>
     <item>
       <title>[Maszol] Kihagyhatatlan erdélyi látnivalók: ezekre a helyekre kirándulj el még az iskolakezdés előtt</title>
@@ -589,7 +589,7 @@
       <guid isPermaLink="false">uCxV7SqhoeIQzzPznStW</guid>
       <enclosure url="https://egyketto.ro/img/szent_anna_to_pro_szent_anna_fb.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 06:03:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/Kihagyhatatlan-erdelyi-latnivalok-ezekre-a-helyekre-kirandulj-el-meg-az-iskolakezdes-elott">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/Kihagyhatatlan-erdelyi-latnivalok-ezekre-a-helyekre-kirandulj-el-meg-az-iskolakezdes-elott</source>
     </item>
     <item>
       <title>[Székelyhon] Karakó-völgyhíd: a mostani nyolcvanéves, elődje a magyar múltba visz</title>
@@ -604,7 +604,7 @@
 &lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/karako-volgyhid-a-mostani-nyolcvan-eves-elodje-a-magyar-multba-visz"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">PNWWvr9SKZEBfLkwziEl</guid>
       <pubDate>Sun, 12 Jul 2026 06:05:14 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/karako-volgyhid-a-mostani-nyolcvan-eves-elodje-a-magyar-multba-visz">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/karako-volgyhid-a-mostani-nyolcvan-eves-elodje-a-magyar-multba-visz</source>
     </item>
     <item>
       <title>[Maszol] Oktatási miniszter: befejeződött az érettségi óvások elbírálása, hétfőn eredményhirdetés</title>
@@ -622,7 +622,7 @@
       <guid isPermaLink="false">npoTnxRj4eqIYEi9eqxV</guid>
       <enclosure url="https://egyketto.ro/img/adobestock_264920988.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 06:28:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Oktatasi-miniszter-befejezodott-az-erettsegi-ovasok-elbiralasa-hetfon-eredmenyhirdetes">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Oktatasi-miniszter-befejezodott-az-erettsegi-ovasok-elbiralasa-hetfon-eredmenyhirdetes</source>
     </item>
     <item>
       <title>[Krónika] Messi Kane-e menni? Összejött az újabb álomeldöntő a vébén</title>
@@ -640,7 +640,7 @@
       <guid isPermaLink="false">qwBgQyKSV49mgK6Td6DN</guid>
       <enclosure url="https://egyketto.ro/img/nn_fifa-kupa.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 06:29:40 +0000</pubDate>
-      <source url="https://kronika.ro/sport/messi-kane-e-menni-osszejott-az-ujabb-alomeldonto-a-veben">Krónika</source>
+      <source url="Krónika">https://kronika.ro/sport/messi-kane-e-menni-osszejott-az-ujabb-alomeldonto-a-veben</source>
     </item>
     <item>
       <title>[Maszol] Meggyalázták a fiatal nő sírját, akit Emil Gânj gyilkolt meg</title>
@@ -658,7 +658,7 @@
       <guid isPermaLink="false">3xOWsJ1xooUNRaBnESga</guid>
       <enclosure url="https://egyketto.ro/img/caroline-attwood-ircrsj-fj28-unsplash.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:03:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Meggyalaztak-a-fiatal-no-sirjat-akit-Emil-Ganj-gyilkolt-meg">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Meggyalaztak-a-fiatal-no-sirjat-akit-Emil-Ganj-gyilkolt-meg</source>
     </item>
     <item>
       <title>[Székelyhon] Hiába írunk júliust: Csíkszereda még a hegyeket is lekörözte hidegben</title>
@@ -676,7 +676,7 @@
       <guid isPermaLink="false">b7cYYLOPgRrF7sF0wVFf</guid>
       <enclosure url="https://egyketto.ro/img/nn_kod-16feb24-pnt.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:06:09 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/hiaba-irunk-juliust-csikszereda-meg-a-hegyeket-is-lekorozte-hidegben">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/hiaba-irunk-juliust-csikszereda-meg-a-hegyeket-is-lekorozte-hidegben</source>
     </item>
     <item>
       <title>[Székelyhon] Házkutatásokat tartottak Maros megyében, engedély nélkül tartott fegyvert is találtak</title>
@@ -694,7 +694,7 @@
       <guid isPermaLink="false">XWhcs6Rfplnx8etauCmJ</guid>
       <enclosure url="https://egyketto.ro/img/nn_robbanas-tuz-oa-jun2617.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:15:14 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/hazkutatasokat-tartottak-maros-megyeben-engedely-nelkul-tartott-fegyvert-is-talaltak">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/marosszek/hazkutatasokat-tartottak-maros-megyeben-engedely-nelkul-tartott-fegyvert-is-talaltak</source>
     </item>
     <item>
       <title>[Maszol] Irán bejelentette, hogy ismét lezárja a Hormuzi-szorost</title>
@@ -712,7 +712,7 @@
       <guid isPermaLink="false">4p48aDbC5HImXFj1aJ1J</guid>
       <enclosure url="https://egyketto.ro/img/718174148_1568613088173245_8551716184490958868_n.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:40:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Iran-bejelentette-hogy-ismet-lezarja-a-Hormuzi-szorost">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Iran-bejelentette-hogy-ismet-lezarja-a-Hormuzi-szorost</source>
     </item>
     <item>
       <title>[Krónika] Orbán Viktor ott lesz a Tusványoson, regisztrálást és fényképes igazolványt kérnek a közönségtől</title>
@@ -730,7 +730,7 @@
       <guid isPermaLink="false">wWV4NB7pJh2wsbbBedoN</guid>
       <enclosure url="https://egyketto.ro/img/nn_orban.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:46:00 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/orban-viktor-ott-lesz-a-tusvanyoson-regisztralast-es-fenykepes-igazolvanyt-kernek-a-kozonsegtol">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/orban-viktor-ott-lesz-a-tusvanyoson-regisztralast-es-fenykepes-igazolvanyt-kernek-a-kozonsegtol</source>
     </item>
     <item>
       <title>[Székelyhon] Hatezer lejre bírságoltak egy nőt két kiscica elhagyása miatt</title>
@@ -748,7 +748,7 @@
       <guid isPermaLink="false">E7YZ7U8HwXoxgFLclNwo</guid>
       <enclosure url="https://egyketto.ro/img/nn_garfield-19maj26-bf.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:52:33 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/hatezer-lejre-birsagoltak-egy-not-ket-kiscica-elhagyasa-miatt">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/marosszek/hatezer-lejre-birsagoltak-egy-not-ket-kiscica-elhagyasa-miatt</source>
     </item>
     <item>
       <title>[Maszol] Gyász: 57 évesen elhunyt Szolnoki Péter énekes, dalszerző</title>
@@ -766,7 +766,7 @@
       <guid isPermaLink="false">hDOE2Q1Qc4TLbmHnm2ac</guid>
       <enclosure url="https://egyketto.ro/img/a18a1dfb-5521-40f4-91c7-500453947aa2.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 07:53:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Gyasz-57-evesen-elhunyt-Szolnoki-Peter-enekes-dalszerzo">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Gyasz-57-evesen-elhunyt-Szolnoki-Peter-enekes-dalszerzo</source>
     </item>
     <item>
       <title>[Székelyhon] Elhunyt Szolnoki Péter, a Bon-Bon együttes énekese</title>
@@ -784,7 +784,7 @@
       <guid isPermaLink="false">g9Jq2QMNHYR14GkvJS8F</guid>
       <enclosure url="https://egyketto.ro/img/nn_szolnoki-peter.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 08:18:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elhunyt-szolnoki-peter-a-bon-bon-egyuttes-enekese">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elhunyt-szolnoki-peter-a-bon-bon-egyuttes-enekese</source>
     </item>
     <item>
       <title>[Maszol] Újabb időjárási riasztások: Erdélyben is záporok, viharos idő várható</title>
@@ -802,7 +802,7 @@
       <guid isPermaLink="false">BQdtiCbzDHvhW9f6lodU</guid>
       <enclosure url="https://egyketto.ro/img/steve-gribble-iq9ahvbs2gc-unsplash.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 08:34:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Ujabb-idojarasi-riasztasok-Erdelyben-is-zaporok-viharos-ido-varhato">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Ujabb-idojarasi-riasztasok-Erdelyben-is-zaporok-viharos-ido-varhato</source>
     </item>
     <item>
       <title>[Transtelex] 412 millió forint jogdíjat fizetett ki magának Orbán János Dénes egy év alatt</title>
@@ -823,7 +823,7 @@
       <category>Transtelex</category>
       <enclosure url="https://egyketto.ro/img/1783838158-temp-bifug7d2ivtacncnhjn_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 08:35:32 +0000</pubDate>
-      <source url="https://transtelex.ro/transtelex/2026/07/12/kmtg-orban-janos-denes-mufelhasznalasi-jogdij-millio-euro">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/transtelex/2026/07/12/kmtg-orban-janos-denes-mufelhasznalasi-jogdij-millio-euro</source>
     </item>
     <item>
       <title>[Székelyhon] Piac vagy szupermarket? Meglepő különbségek a nyári zöldségek és gyümölcsök árában</title>
@@ -841,7 +841,7 @@
       <guid isPermaLink="false">nJvUcq4NpM3PcK14UQ2d</guid>
       <enclosure url="https://egyketto.ro/img/nn_barack-09juli2026-oo-3.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:06:51 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/piac-vagy-szupermarket-meglepo-kulonbsegek-a-nyari-zoldsegek-es-gyumolcsok-araban">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/piac-vagy-szupermarket-meglepo-kulonbsegek-a-nyari-zoldsegek-es-gyumolcsok-araban</source>
     </item>
     <item>
       <title>[Krónika] Amerika válaszcsapást mért Iránra az európai hajó megtámadása miatt</title>
@@ -859,7 +859,7 @@
       <guid isPermaLink="false">EsIRXuiykdQiqjxWEyo6</guid>
       <enclosure url="https://egyketto.ro/img/nn_strait_of_hormuz_and_musandam_peninsula.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:09:54 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/amerika-valaszcsapast-mert-iranra-az-europai-hajo-megtamadasa-miatt">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/amerika-valaszcsapast-mert-iranra-az-europai-hajo-megtamadasa-miatt</source>
     </item>
     <item>
       <title>[Transtelex] Nyolc év burokban. Ceaușescu elvtárs egy, majd két füle alatt</title>
@@ -880,7 +880,7 @@
       <category>Tárca</category>
       <enclosure url="https://egyketto.ro/img/1783845460-temp-37mje4o593se9cmaahe_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:14:46 +0000</pubDate>
-      <source url="https://transtelex.ro/tarca/2026/07/12/ceausescu-korszak-iskola-tanulas">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/tarca/2026/07/12/ceausescu-korszak-iskola-tanulas</source>
     </item>
     <item>
       <title>[Maszol] Drasztikusan csökken a Duna vízhozama, erdélyi folyók is vészesen apadnak</title>
@@ -898,7 +898,7 @@
       <guid isPermaLink="false">JrcnoR1VG2NZNBzX9cBi</guid>
       <enclosure url="https://egyketto.ro/img/bazias_(1).webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:15:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Drasztikusan-csokken-a-Duna-vizhozama-erdelyi-folyok-is-veszesen-apadnak">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Drasztikusan-csokken-a-Duna-vizhozama-erdelyi-folyok-is-veszesen-apadnak</source>
     </item>
     <item>
       <title>[Maszol] Büntetőeljárást indított a rendőrség a Bucsecsben lezuhant hegymászók ügyében</title>
@@ -916,7 +916,7 @@
       <guid isPermaLink="false">0eQFfc6R8quWeJIuf0iD</guid>
       <enclosure url="https://egyketto.ro/img/mentes_hegyimetok_hegymaszok_fb.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:31:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Buntetoeljarast-inditott-a-rendorseg-a-Bucsecsben-lezuhant-hegymaszok-ugyeben">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Buntetoeljarast-inditott-a-rendorseg-a-Bucsecsben-lezuhant-hegymaszok-ugyeben</source>
     </item>
     <item>
       <title>[Transtelex] A tulceai reptéren fél év alatt 80 utas fordult meg, mégis évente kétmillió euró közpénzt kap a fenntartására</title>
@@ -937,7 +937,7 @@
       <category>Pénzcsinálók</category>
       <enclosure url="https://egyketto.ro/img/1783847610-temp-g9a4e321io639diokjo_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:34:12 +0000</pubDate>
-      <source url="https://transtelex.ro/penzcsinalok/2026/07/12/tulcea-repter-megyei-tamogatas-tobb-millio-lej-gyenge-forgalom">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/penzcsinalok/2026/07/12/tulcea-repter-megyei-tamogatas-tobb-millio-lej-gyenge-forgalom</source>
     </item>
     <item>
       <title>[Székelyhon] Autó és motorkerékpár ütközött Székelyudvarhelyen</title>
@@ -955,7 +955,7 @@
       <guid isPermaLink="false">GQQVRHa3DxCttD12hUnJ</guid>
       <enclosure url="https://egyketto.ro/img/nn_baleset-udv-of.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:48:17 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/auto-es-motorkerekpar-utkozott-szekelyudvarhelyen">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/udvarhelyszek/auto-es-motorkerekpar-utkozott-szekelyudvarhelyen</source>
     </item>
     <item>
       <title>[Székelyhon] Két ittas sofőrt is elkaptak a rendőrök, egyikük balesetet okozott</title>
@@ -973,7 +973,7 @@
       <guid isPermaLink="false">cYeGmyWoGkon09iPGnyl</guid>
       <enclosure url="https://egyketto.ro/img/nn_baleset-26-06-16-3.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 09:57:52 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/gyergyoszek/ket-ittas-sofort-is-elkaptak-a-rendorok-egyikuk-balesetet-okozott">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/gyergyoszek/ket-ittas-sofort-is-elkaptak-a-rendorok-egyikuk-balesetet-okozott</source>
     </item>
     <item>
       <title>[Maszol] Sokkal több történt Kórógyon minap, mint egy iskolai tornaterem avatása</title>
@@ -991,7 +991,7 @@
       <guid isPermaLink="false">5oxSxGxbC2YPof7Xhj59</guid>
       <enclosure url="https://egyketto.ro/img/foto5_kosar.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:10:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Sokkal-tobb-tortent-Korogyon-minap-mint-egy-iskolai-tornaterem-avatasa">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Sokkal-tobb-tortent-Korogyon-minap-mint-egy-iskolai-tornaterem-avatasa</source>
     </item>
     <item>
       <title>[Transtelex] Öt fiatal verekedett össze a Vibe OffSeason előtt, négyen rugdosták földre került társukat</title>
@@ -1012,7 +1012,7 @@
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/static/transtelex.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:17:50 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/12/vibe-offseason-verekedes">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/12/vibe-offseason-verekedes</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Hétfőn újabb kormányalakítási tárgyalások kezdődnek</title>
@@ -1032,7 +1032,7 @@ The post Hétfőn újabb kormányalakítási tárgyalások kezdődnek appeared f
       <guid isPermaLink="false">h0tsEpDW1Azd7Bijnt8a</guid>
       <enclosure url="https://egyketto.ro/img/original_udmr_6.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:47:27 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/hetfon-ujabb-kormanyalakitasi-targyalasok-kezdodnek/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/hetfon-ujabb-kormanyalakitasi-targyalasok-kezdodnek/</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Irán ismét lezárta a Hormuzi-szorost</title>
@@ -1052,7 +1052,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">TBfJpTOi1hbTccJx872O</guid>
       <enclosure url="https://egyketto.ro/img/afp__20260423__a8pw9t4__v2__highres__topshotiranusisraelwar-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:48:39 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/iran-ismet-lezarta-a-hormuzi-szorost-2/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/iran-ismet-lezarta-a-hormuzi-szorost-2/</source>
     </item>
     <item>
       <title>[Transtelex] 230 ezernél is több halott orosz katonát azonosított egy független orosz lap a háború 1600. napjáig</title>
@@ -1073,7 +1073,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Külföld</category>
       <enclosure url="https://egyketto.ro/img/1783853176-temp-1d2g7lvvvp90faogecl_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:49:43 +0000</pubDate>
-      <source url="https://transtelex.ro/kulfold/2026/07/12/osrosz-ukran-haboru-1600-nap-230-ezer-orosz-elesett-katona-olajfinomito-droncsapas">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kulfold/2026/07/12/osrosz-ukran-haboru-1600-nap-230-ezer-orosz-elesett-katona-olajfinomito-droncsapas</source>
     </item>
     <item>
       <title>[Krónika] Sárgabarack, a nyár „aranyalmája”</title>
@@ -1091,7 +1091,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">jH9SJA8icAYqg27nEqmU</guid>
       <enclosure url="https://egyketto.ro/img/nn_barack-09juli2026-oo-24.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 10:54:36 +0000</pubDate>
-      <source url="https://kronika.ro/szines/sargabarack-a-nyar-baranyalmajar">Krónika</source>
+      <source url="Krónika">https://kronika.ro/szines/sargabarack-a-nyar-baranyalmajar</source>
     </item>
     <item>
       <title>[Transtelex] Érkezik az újabb hőhullám Európába, még Skandináviát is elérheti</title>
@@ -1112,7 +1112,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Külföld</category>
       <enclosure url="https://egyketto.ro/img/1783854618-temp-07g5ddrd7fqhegnlmbc_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 11:19:19 +0000</pubDate>
-      <source url="https://transtelex.ro/kulfold/2026/07/12/franciaorszag-hohullam-voros-riasztas-europa-el-nino">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kulfold/2026/07/12/franciaorszag-hohullam-voros-riasztas-europa-el-nino</source>
     </item>
     <item>
       <title>[Székelyhon] Büntetőeljárás keretében vizsgálja a rendőrség a Bucsecs-hegységben lezuhant hegymászók ügyét</title>
@@ -1130,7 +1130,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">AbrPRkKYdnUG4hrJLaMw</guid>
       <enclosure url="https://egyketto.ro/img/nn_smurd-illusztracio-oa-maj268.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 11:23:14 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/buntetoeljaras-kereteben-vizsgalja-a-rendorseg-a-bucsecs-hegysegben-lezuhant-hegymaszok-ugyet">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/buntetoeljaras-kereteben-vizsgalja-a-rendorseg-a-bucsecs-hegysegben-lezuhant-hegymaszok-ugyet</source>
     </item>
     <item>
       <title>[Székelyhon] Az ország túlnyomó részében továbbra is viharok várhatók</title>
@@ -1148,7 +1148,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">PF0OFpfzoV1jxR6bB9On</guid>
       <enclosure url="https://egyketto.ro/img/nn_vihar2-02jul26-bf-3.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 11:47:21 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/az-orszag-tulnyomo-reszeben-tovabbra-is-viharok-varhatok">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/az-orszag-tulnyomo-reszeben-tovabbra-is-viharok-varhatok</source>
     </item>
     <item>
       <title>[Maszol] Hőségriadó Franciaországban: korábban zár az Eiffel-torony és több múzeum, rövidítik a Tour de France szakaszát</title>
@@ -1166,7 +1166,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">6XtDE9BwSTYWGN2SETzq</guid>
       <enclosure url="https://egyketto.ro/img/hoseg_kanikula_parizs_2_agerpres_20260623.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 11:59:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Hosegriado-Franciaorszagban-korabban-zar-az-Eiffel-torony-es-tobb-muzeum-roviditik-a-Tour-de-France-szakaszat">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Hosegriado-Franciaorszagban-korabban-zar-az-Eiffel-torony-es-tobb-muzeum-roviditik-a-Tour-de-France-szakaszat</source>
     </item>
     <item>
       <title>[Székelyhon] Előzetesen kell regisztrálni idén is Orbán Viktor tusványosi előadására</title>
@@ -1184,7 +1184,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">ORz6WXEQO4EzWsIx828D</guid>
       <enclosure url="https://egyketto.ro/img/nn_orbanviktor-tusvanyos-26jul25-pnt-10.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 11:59:36 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elozetesen-kell-regisztralni-iden-is-orban-viktor-tusvanyosi-eloadasara">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elozetesen-kell-regisztralni-iden-is-orban-viktor-tusvanyosi-eloadasara</source>
     </item>
     <item>
       <title>[Maszol] Rendőri kísérettel haladó, túlméretes szállítmányok nehezítik a közúti forgalmat vasárnap éjjel</title>
@@ -1202,7 +1202,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">k45JEoTLq0chmWtuMcMt</guid>
       <enclosure url="https://egyketto.ro/img/gabarit-depasit_cnair.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Rendori-kiserettel-halado-tulmeretes-szallitmanyok-nehezitik-a-kozuti-forgalmat-vasarnap-ejjel">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Rendori-kiserettel-halado-tulmeretes-szallitmanyok-nehezitik-a-kozuti-forgalmat-vasarnap-ejjel</source>
     </item>
     <item>
       <title>[Transtelex] A chișinăui német nagykövet szerint vitatható Románia és Moldova közös nyelvi és vallási-kulturális háttere</title>
@@ -1223,7 +1223,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1783856360-temp-uqbk0in7a22p4hpbkfa_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:05:01 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/12/romania-moldova-koztarsasag-egyesules-kozos-nyelv-vallasi-hatter">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/12/romania-moldova-koztarsasag-egyesules-kozos-nyelv-vallasi-hatter</source>
     </item>
     <item>
       <title>[Transtelex] Több száz, akár több ezer román jogosítványt találtak egy moldovai szeméttelepen egy civil szervezet szerint</title>
@@ -1244,7 +1244,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1783858383-temp-k86gda81rm3o5kplnpe_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:24:30 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/12/roman-jogositvany-illegalis-szemet-moldova">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/12/roman-jogositvany-illegalis-szemet-moldova</source>
     </item>
     <item>
       <title>[Krónika] Ne Magyarországra menjünk, hanem ők jöjjenek ide – vallják a régió legnagyobb élményfürdőjének tervezői</title>
@@ -1262,7 +1262,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">V91FVHHlYKswMuy2vC4S</guid>
       <enclosure url="https://egyketto.ro/img/nn_elmenyfurdo_nagyszentmiklos_q2.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:26:00 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/ne-magyarorszagra-menjunk-hanem-ok-jojjenek-ide-n-valljak-a-regio-legnagyobb-elmenyfurdojenek-tervezoi">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/ne-magyarorszagra-menjunk-hanem-ok-jojjenek-ide-n-valljak-a-regio-legnagyobb-elmenyfurdojenek-tervezoi</source>
     </item>
     <item>
       <title>[Székelyhon] A nagylaki határátkelő felé autózik? Lassabb haladásra kell számítani vasárnap este</title>
@@ -1280,7 +1280,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">q0pTCLia7hHEXGuQD2B1</guid>
       <enclosure url="https://egyketto.ro/img/nn_rendor-5.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:43:56 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/a-nagylaki-hataratkelo-fele-autozik-lassabb-haladasra-kell-szamitani-vasarnap-este">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/a-nagylaki-hataratkelo-fele-autozik-lassabb-haladasra-kell-szamitani-vasarnap-este</source>
     </item>
     <item>
       <title>[Maszol] Elindult a regisztráció Orbán Viktor tusványosi beszédére</title>
@@ -1298,7 +1298,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">1xWl0U4ydB3diTVcP9mq</guid>
       <enclosure url="https://egyketto.ro/img/tusvanyos_orban_belo-34_(1).webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 12:46:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elindult-a-regisztracio-Orban-Viktor-tusvanyosi-beszedere">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elindult-a-regisztracio-Orban-Viktor-tusvanyosi-beszedere</source>
     </item>
     <item>
       <title>[Maszol] Kincset rejtő mogyorógyökerek Csíkmadarason – A szarvasgomba-termesztésben hisz a kertészmérnök</title>
@@ -1316,7 +1316,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">GWjg6ZJ8OFBz9T4VudER</guid>
       <enclosure url="https://egyketto.ro/img/janos_ferdinand_mogyorofa-csemete_foto_lt.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:01:00 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Kincset-rejto-mogyorogyokerek-Csikmadarason-A-szarvasgomba-termesztesben-hisz-a-kerteszmernok">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Kincset-rejto-mogyorogyokerek-Csikmadarason-A-szarvasgomba-termesztesben-hisz-a-kerteszmernok</source>
     </item>
     <item>
       <title>[Székelyhon] Igen a kedvezményes ivartalanításra, de főként csak az egyik nemre</title>
@@ -1331,7 +1331,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
 &lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/haromszek/igen-a-kedvezmenyes-ivartalanitasra-de-fokent-csak-az-egyik-nemre"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">YEJrRSqXuIel8SSGC2gr</guid>
       <pubDate>Sun, 12 Jul 2026 13:06:46 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/haromszek/igen-a-kedvezmenyes-ivartalanitasra-de-fokent-csak-az-egyik-nemre">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/haromszek/igen-a-kedvezmenyes-ivartalanitasra-de-fokent-csak-az-egyik-nemre</source>
     </item>
     <item>
       <title>[Maszol] Kormányválság: hétfőn a volt koalíció vezetőivel egyeztet Nicușor Dan</title>
@@ -1349,7 +1349,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">rW9KzPvvpKNQMD0pDVYp</guid>
       <enclosure url="https://egyketto.ro/img/710556761_1524420642367678_6449290431468359720_n.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:31:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Kormanyvalsag-hetfon-a-volt-koalicio-vezetoivel-egyeztet-Nicusor-Dan-allamfo">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Kormanyvalsag-hetfon-a-volt-koalicio-vezetoivel-egyeztet-Nicusor-Dan-allamfo</source>
     </item>
     <item>
       <title>[Transtelex] A júliusi sokéves átlag harmadára csökkenhet a Duna vízhozama</title>
@@ -1370,7 +1370,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Zöld</category>
       <enclosure url="https://egyketto.ro/img/1783862749-temp-9f4t51mkpgdm4jpgdgg_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:38:37 +0000</pubDate>
-      <source url="https://transtelex.ro/zold/2026/07/12/duna-vizhozam-juliusi-sokeves-atlag-csokkenes">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/zold/2026/07/12/duna-vizhozam-juliusi-sokeves-atlag-csokkenes</source>
     </item>
     <item>
       <title>[Krónika] Népviseleti mustra Bánffyhunyadon, így vonultak a cifra kalotaszegi magyarok</title>
@@ -1388,7 +1388,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">3v31WgSqYo1yJUpdiSPl</guid>
       <enclosure url="https://egyketto.ro/img/nn_kalotaszeginapok.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:41:00 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/nepviseleti-mustra-banffyhunyadon-igy-vonultak-a-cifra-kalotaszegi-magyarok">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/nepviseleti-mustra-banffyhunyadon-igy-vonultak-a-cifra-kalotaszegi-magyarok</source>
     </item>
     <item>
       <title>[Maszol] Árvízveszély: székelyföldi megyékre is riasztást adtak ki</title>
@@ -1406,7 +1406,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">CnMNvtLJmWRnm3kgqJn2</guid>
       <enclosure url="https://egyketto.ro/img/aradas_meteoplus.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:56:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Arvizveszely-szekelyfoldi-megyekre-is-riasztast-adtak-ki">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Arvizveszely-szekelyfoldi-megyekre-is-riasztast-adtak-ki</source>
     </item>
     <item>
       <title>[Székelyhon] Amit a kasza levágott, a gereblye ne hagyja ott – videó</title>
@@ -1424,7 +1424,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">BQo5AkM5DD8WtGivo4zA</guid>
       <enclosure url="https://egyketto.ro/img/nn_kaszalokalaka-cover01.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 13:57:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/csikszek/amit-a-kasza-levagott-a-gereblye-ne-hagyja-ott">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/csikszek/amit-a-kasza-levagott-a-gereblye-ne-hagyja-ott</source>
     </item>
     <item>
       <title>[Transtelex] Egy nappal hamarabb közölték az érettségi végleges eredményeit, majdnem megduplázódott a tizes átlagok száma</title>
@@ -1445,7 +1445,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1783069348-temp-c7l10r2ki61u5noifip_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 14:38:01 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/12/vegleges-erettsegi-eredmenyek-2026">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/12/vegleges-erettsegi-eredmenyek-2026</source>
     </item>
     <item>
       <title>[Maszol] Rejtélyes lelet: több száz, vélhetően román jogosítványt találtak egy moldovai szeméttelepen (VIDEÓ)</title>
@@ -1463,7 +1463,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">A4idmKMMMJGDwGQls4Ni</guid>
       <enclosure url="https://egyketto.ro/img/jogsik.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 14:41:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Rejtelyes-lelet-tobb-szaz-velhetoen-roman-jogositvanyt-talaltak-egy-moldovai-szemettelepen-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Rejtelyes-lelet-tobb-szaz-velhetoen-roman-jogositvanyt-talaltak-egy-moldovai-szemettelepen-VIDEO</source>
     </item>
     <item>
       <title>[Főtér] Látott már autóra rakott gólyafészket? Nos, ha nem, akkor most láthat!</title>
@@ -1481,7 +1481,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">q47t16seKtweuY9NUVMB</guid>
       <enclosure url="https://egyketto.ro/img/nn_golyakauton.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 14:53:26 +0000</pubDate>
-      <source url="https://foter.ro/kezmuves-hirek/latott-mar-autora-rakott-golyafeszket-nos-ha-nem-akkor-most-lathat">Főtér</source>
+      <source url="Főtér">https://foter.ro/kezmuves-hirek/latott-mar-autora-rakott-golyafeszket-nos-ha-nem-akkor-most-lathat</source>
     </item>
     <item>
       <title>[Transtelex] Egy kávézó mellett csapódott be a siklóbomba Szumiban, öten haltak meg az ukrán várost ért támadásban</title>
@@ -1502,7 +1502,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Külföld</category>
       <enclosure url="https://egyketto.ro/img/1783867322-temp-p6a38g1cl0lo0okkojk_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 14:57:41 +0000</pubDate>
-      <source url="https://transtelex.ro/kulfold/2026/07/12/ukrajna-haboru-szumi-raketatamadas-oroszorszag">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kulfold/2026/07/12/ukrajna-haboru-szumi-raketatamadas-oroszorszag</source>
     </item>
     <item>
       <title>[Maszol] „Az érettségi legnehezebb része a folyamatos stressz” – Maros megye legeredményesebb érettségizőjét kérdeztük</title>
@@ -1520,7 +1520,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">ajvT5SgnmIJdpEzt1HlP</guid>
       <enclosure url="https://egyketto.ro/img/bartha_elod.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 15:06:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Az-erettsegi-legnehezebb-resze-a-folyamatos-stressz-Maros-megye-legeredmenyesebb-erettsegizojet-kerdeztuk">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Az-erettsegi-legnehezebb-resze-a-folyamatos-stressz-Maros-megye-legeredmenyesebb-erettsegizojet-kerdeztuk</source>
     </item>
     <item>
       <title>[Székelyhon] Elsőfokú árvízvédelmi készültséget rendeltek el Hargita és Kovászna megye egyes vízgyűjtőire</title>
@@ -1538,7 +1538,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">GLRPgXglPWhYV3LgsMdM</guid>
       <enclosure url="https://egyketto.ro/img/nn_esozes-udvarhely-jul26-li-8.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 15:16:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elsofoku-arvizvedelmi-keszultseget-rendeltek-el-hargita-kovaszna-es-maros-megye-egyes-vizgyujtoire">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elsofoku-arvizvedelmi-keszultseget-rendeltek-el-hargita-kovaszna-es-maros-megye-egyes-vizgyujtoire</source>
     </item>
     <item>
       <title>[Krónika] Megkérdőjelezte a román identitást a német nagykövet, kiakadtak az unionisták</title>
@@ -1556,7 +1556,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">qw59BuHBpuLUPrrG6USL</guid>
       <enclosure url="https://egyketto.ro/img/nn_hubert-knirsch11.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 15:17:27 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/megkerdojelezte-a-roman-identitast-a-nemet-nagykovet-kiakadtak-az-unionistak">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/megkerdojelezte-a-roman-identitast-a-nemet-nagykovet-kiakadtak-az-unionistak</source>
     </item>
     <item>
       <title>[Maszol] Több mint 2,8 millió embert telepítettek ki Kínában a Bavi tájfun miatt</title>
@@ -1574,7 +1574,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">ohKD1JVEdGqoLnu5IbF3</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_19489946.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 16:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Tobb-mint-28-millio-embert-telepitettek-ki-Kinaban-a-Bavi-tajfun-miatt">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Tobb-mint-28-millio-embert-telepitettek-ki-Kinaban-a-Bavi-tajfun-miatt</source>
     </item>
     <item>
       <title>[Transtelex] Az ország szétesése vagy újra uniós tagság lesz a nagy brit kísérlet vége?</title>
@@ -1595,7 +1595,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <category>Világ</category>
       <enclosure url="https://egyketto.ro/img/1783803616-temp-mji7oca1ac293nkjofg_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 16:05:02 +0000</pubDate>
-      <source url="https://transtelex.ro/g7/vilag/2026/07/12/brexit-egyesult-kiralysag-europai-unio-munkaspart-farage">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/g7/vilag/2026/07/12/brexit-egyesult-kiralysag-europai-unio-munkaspart-farage</source>
     </item>
     <item>
       <title>[Krónika] Készpénz nélkül, fegyveres őrök között – Kenya néhány dologban leckét adhatna Romániának (RIPORT)</title>
@@ -1613,7 +1613,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">WSPNyvZOqykLA2jvKDWP</guid>
       <enclosure url="https://egyketto.ro/img/nn_kenya-16-.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 16:16:52 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-naplo/keszpenz-nelkul-fegyveres-orok-kozott-n-kenya-nehany-dologban-lecket-adhatna-romanianak">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-naplo/keszpenz-nelkul-fegyveres-orok-kozott-n-kenya-nehany-dologban-lecket-adhatna-romanianak</source>
     </item>
     <item>
       <title>[Maszol] Szakadékba zuhant egy motoros az Iezer-Păpușa-hegységben</title>
@@ -1631,7 +1631,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">OBp2ME7vDNkzBfLNY7F5</guid>
       <enclosure url="https://egyketto.ro/img/hegyimentok.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 16:35:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Szakadekba-zuhant-egy-motoros-az-Iezer-Papusa-hegysegben">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Szakadekba-zuhant-egy-motoros-az-Iezer-Papusa-hegysegben</source>
     </item>
     <item>
       <title>[Maszol] Gödrökben tárolt, több tonnányi káposztát foglaltak le és semmisítettek meg a hatóságok</title>
@@ -1649,7 +1649,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">e1iy7yfYTCHIGnK0j5hr</guid>
       <enclosure url="https://egyketto.ro/img/742301120_1524051852753196_5475548537627702161_n.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 16:50:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Godrokben-tarolt-tobb-tonnanyi-kaposztat-foglaltak-le-es-semmisitettek-meg-a-hatosagok">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Godrokben-tarolt-tobb-tonnanyi-kaposztat-foglaltak-le-es-semmisitettek-meg-a-hatosagok</source>
     </item>
     <item>
       <title>[Maszol] Szent István és Szent László nyomában: újjászületett a szentjobbi apátság</title>
@@ -1667,7 +1667,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">PeHYv7uM7Ib1IES8ENCE</guid>
       <enclosure url="https://egyketto.ro/img/szentjobb_apatsag_5_foto_emodi_tamas.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 17:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Szent-Istvan-es-Szent-Laszlo-nyomaban-ujjaszuletett-a-szentjobbi-apatsag">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Szent-Istvan-es-Szent-Laszlo-nyomaban-ujjaszuletett-a-szentjobbi-apatsag</source>
     </item>
     <item>
       <title>[Székelyhon] Közzétették az érettségi végleges eredményeit</title>
@@ -1685,7 +1685,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">kdkpdXFfCwTBlIPDcACy</guid>
       <enclosure url="https://egyketto.ro/img/nn_vizsga-erettsegi-kepessegfelmero1.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 17:18:14 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/kozzetettek-az-erettsegi-vegleges-eredmenyeit">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/kozzetettek-az-erettsegi-vegleges-eredmenyeit</source>
     </item>
     <item>
       <title>[Székelyhon] Ez a hétvége sem telt el medvék jelenléte nélkül</title>
@@ -1703,7 +1703,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">gYPId3x5ekFwvFxiC6Zj</guid>
       <enclosure url="https://egyketto.ro/img/nn_medve26-06-25-5.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 17:24:21 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ez-a-hetvege-sem-telt-el-medvek-jelenlete-nelkul">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ez-a-hetvege-sem-telt-el-medvek-jelenlete-nelkul</source>
     </item>
     <item>
       <title>[Székelyhon] Minden daganat más – a mesterséges intelligencia segíthet megtalálni a legjobb kezelést</title>
@@ -1721,7 +1721,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">mVh2orvxopezsqr7OVZK</guid>
       <enclosure url="https://egyketto.ro/img/nn_mi-orvoslas-03jul26-bf-6.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 17:27:34 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/minden-daganat-mas-n-a-mesterseges-intelligencia-segithet-megtalalni-a-legjobb-kezelest">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/minden-daganat-mas-n-a-mesterseges-intelligencia-segithet-megtalalni-a-legjobb-kezelest</source>
     </item>
     <item>
       <title>[Krónika] Egyesek még a halála után is félnek Marosvásárhely díszpolgárától</title>
@@ -1739,7 +1739,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">z7cXkWhfXBZmAru9LUdw</guid>
       <enclosure url="https://egyketto.ro/img/nn_mvasarhely-foter-02-hv.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 17:28:00 +0000</pubDate>
-      <source url="https://kronika.ro/velemeny/egyesek-meg-a-halala-utan-is-felnek-marosvasarhely-diszpolgaratol">Krónika</source>
+      <source url="Krónika">https://kronika.ro/velemeny/egyesek-meg-a-halala-utan-is-felnek-marosvasarhely-diszpolgaratol</source>
     </item>
     <item>
       <title>[Krónika] Ütközött a román vasút valóságával a miniszter</title>
@@ -1757,7 +1757,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">skeGUASDeTE9jAoxc9Uy</guid>
       <enclosure url="https://egyketto.ro/img/nn_vasut-17okt2025-oo-11.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 18:29:58 +0000</pubDate>
-      <source url="https://kronika.ro/belfold/utkozott-a-roman-vasut-valosagaval-a-miniszter">Krónika</source>
+      <source url="Krónika">https://kronika.ro/belfold/utkozott-a-roman-vasut-valosagaval-a-miniszter</source>
     </item>
     <item>
       <title>[Szabadság] U FC: vereség a Krajovától a Szuperkupa döntőjében (is)</title>
@@ -1775,7 +1775,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">R26Z5ZV1GDxLnwVEyhQ4</guid>
       <enclosure url="https://egyketto.ro/img/kep_1.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Jul 2026 22:00:28 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/u-fc-vereseg-krajovatol-szuperkupa-dontojeben">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/u-fc-vereseg-krajovatol-szuperkupa-dontojeben</source>
     </item>
     <item>
       <title>[Szabadság] Súlyos baleset a Bükk-erdőben található műúton</title>
@@ -1793,7 +1793,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">lT0QdvSINIUZ654ZreVr</guid>
       <enclosure url="https://egyketto.ro/img/kicsi_1.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/sulyos-baleset-bukk-erdoben-talalhato-muuton">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/sulyos-baleset-bukk-erdoben-talalhato-muuton</source>
     </item>
     <item>
       <title>[Szabadság] Gulyás Gergely lemondott a Fidesz frakcióvezetői tisztségéről</title>
@@ -1811,7 +1811,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">C6L51nc9KFN4KNkbX5lL</guid>
       <enclosure url="https://egyketto.ro/img/gulyas.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/gulyas-gergely-lemondott-fidesz-frakciovezetoi-tisztsegerol">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/gulyas-gergely-lemondott-fidesz-frakciovezetoi-tisztsegerol</source>
     </item>
     <item>
       <title>[Szabadság] Nem jutottak megállapodásra a pártok a Cotroceni-palotában tartott egyeztetésen</title>
@@ -1829,7 +1829,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">O6o0qktvMbmDcBcKUbUX</guid>
       <enclosure url="https://egyketto.ro/img/nicusor_0.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/nem-jutottak-megallapodasra-partok-cotroceni-palotaban-tartott-egyeztetesen">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/nem-jutottak-megallapodasra-partok-cotroceni-palotaban-tartott-egyeztetesen</source>
     </item>
     <item>
       <title>[Szabadság] Eltévedt magyar turistákat mentettek ki a Retyezátból</title>
@@ -1847,7 +1847,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">ifY43vDvUrJsKAPQK1uT</guid>
       <enclosure url="https://egyketto.ro/img/salvamont.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/eltevedt-magyar-turistakat-mentettek-ki-retyezatbol">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/eltevedt-magyar-turistakat-mentettek-ki-retyezatbol</source>
     </item>
     <item>
       <title>[Szabadság] Három eltévedt magyar turistát mentettek ki a Retyezátból</title>
@@ -1865,7 +1865,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">oK5JKmRSgsqvsxVWB8ei</guid>
       <enclosure url="https://egyketto.ro/img/salvamont.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/harom-eltevedt-magyar-turistat-mentettek-ki-retyezatbol">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/harom-eltevedt-magyar-turistat-mentettek-ki-retyezatbol</source>
     </item>
     <item>
       <title>[Szabadság] Ausztriában vettek őrizetbe négy román állampolgárt lopás gyanújával</title>
@@ -1883,7 +1883,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">hHtaHY5c85wprMfkSAND</guid>
       <enclosure url="https://egyketto.ro/img/ausztria.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/ausztriaban-vettek-orizetbe-negy-roman-allampolgart-lopas-gyanujaval">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/ausztriaban-vettek-orizetbe-negy-roman-allampolgart-lopas-gyanujaval</source>
     </item>
     <item>
       <title>[Szabadság] Kiváló testek: a hatalom nyelve, a megfigyelés tárgya</title>
@@ -1901,7 +1901,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">YDGw7rzjeIicKHMMsmkg</guid>
       <enclosure url="https://egyketto.ro/img/73178728115196642068448736667905124871130144n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/kivalo-testek-hatalom-nyelve-megfigyeles-targya">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/kivalo-testek-hatalom-nyelve-megfigyeles-targya</source>
     </item>
     <item>
       <title>[Szabadság] Mi drágult a leginkább júniusban?</title>
@@ -1919,7 +1919,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">Rr4eZUV4rk1lIg81S63I</guid>
       <enclosure url="https://egyketto.ro/img/uzlet4.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/mi-dragult-leginkabb-juniusban">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/mi-dragult-leginkabb-juniusban</source>
     </item>
     <item>
       <title>[Szabadság] Művészei saját tevékenységünknek</title>
@@ -1937,7 +1937,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">D3edepeP2d9rXIza4DHc</guid>
       <enclosure url="https://egyketto.ro/img/72895083815196659235113687288841550990303322n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/muveszei-sajat-tevekenysegunknek">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/muveszei-sajat-tevekenysegunknek</source>
     </item>
     <item>
       <title>[Szabadság] Ötven éve a hagyományok szolgálatában</title>
@@ -1955,7 +1955,7 @@ The post Irán ismét lezárta a Hormuzi-szorost appeared first on Marosvásáhe
       <guid isPermaLink="false">SqNZalmqb7yM9F5ulxB4</guid>
       <enclosure url="https://egyketto.ro/img/barozda.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://szabadsag.ro/article/otven-eve-hagyomanyok-szolgalataban">Szabadság</source>
+      <source url="Szabadság">https://szabadsag.ro/article/otven-eve-hagyomanyok-szolgalataban</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotában</title>
@@ -1975,7 +1975,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">7hBYSgXKUWD8LDdyLgob</guid>
       <enclosure url="https://egyketto.ro/img/original_udmr_6.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:00:02 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/ujabb-kormanyalakitasi-targyalasok-kezdodtek-a-cotroceni-palotaban/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/ujabb-kormanyalakitasi-targyalasok-kezdodtek-a-cotroceni-palotaban/</source>
     </item>
     <item>
       <title>[Maszol] Két hét alatt két romániai trófeát nyert a magyar teniszező</title>
@@ -1993,7 +1993,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">wWIbwBn8U3IND2inlRlY</guid>
       <enclosure url="https://egyketto.ro/img/piros_ilovetennis_fb.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:10:00 +0000</pubDate>
-      <source url="https://maszol.ro/sport/Ket-het-alatt-ket-romaniai-trofeat-nyert-a-magyar-teniszezo">Maszol</source>
+      <source url="Maszol">https://maszol.ro/sport/Ket-het-alatt-ket-romaniai-trofeat-nyert-a-magyar-teniszezo</source>
     </item>
     <item>
       <title>[Maszol] Az amerikai haderő légicsapások újabb sorozatát indította Irán ellen</title>
@@ -2011,7 +2011,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">dx2TbASyLrhU9uMN5mrc</guid>
       <enclosure url="https://egyketto.ro/img/iran_tamadas_agerpres.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:19:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Az-amerikai-hadero-legicsapasok-ujabb-sorozatat-inditotta-Iran-ellen">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Az-amerikai-hadero-legicsapasok-ujabb-sorozatat-inditotta-Iran-ellen</source>
     </item>
     <item>
       <title>[Transtelex] Tízezernél több ember halálát okozhatta a júniusi európai hőhullám</title>
@@ -2032,7 +2032,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <category>Techtud</category>
       <enclosure url="https://egyketto.ro/img/1783916415-temp-2alnnufffd0k8mmedag_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:21:10 +0000</pubDate>
-      <source url="https://transtelex.ro/techtud/2026/07/13/hohullam-europa-tobblethalalozas-klimavaltozas">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/techtud/2026/07/13/hohullam-europa-tobblethalalozas-klimavaltozas</source>
     </item>
     <item>
       <title>[Maszol] Nicuşor Dan: A pártvezetők találjanak megoldást</title>
@@ -2050,7 +2050,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">9wvEP52eM3xH9PGA5kf9</guid>
       <enclosure url="https://egyketto.ro/img/dan_nicusor_fboldala.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:35:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Nicusor-Dan-A-partvezetok-talaljanak-megoldast">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Nicusor-Dan-A-partvezetok-talaljanak-megoldast</source>
     </item>
     <item>
       <title>[Maszol] Az utasok 86%-a senkinek sem ajánlaná a romániai vonatutakat</title>
@@ -2068,7 +2068,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">6yEl3G0COjHKy4xBPQ0n</guid>
       <enclosure url="https://egyketto.ro/img/vonat_vasut_allomas2_ager.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:48:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Az-utasok-86-a-senkinek-sem-ajanlana-a-romaniai-vonatutakat">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Az-utasok-86-a-senkinek-sem-ajanlana-a-romaniai-vonatutakat</source>
     </item>
     <item>
       <title>[Székelyhon] Készül a csíkszentkirályi tanuszoda, de sok van még a befejezésig</title>
@@ -2086,7 +2086,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">Mu9uZ38dsgWsNQKV9Tfu</guid>
       <enclosure url="https://egyketto.ro/img/nn_szentkiraly-uszoda-06jul26-bf-2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 04:57:29 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/csikszek/keszul-a-tanuszoda-de-sok-van-meg-a-befejezesig-n">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/csikszek/keszul-a-tanuszoda-de-sok-van-meg-a-befejezesig-n</source>
     </item>
     <item>
       <title>[Maszol] A második világháború előtt gyártott vonatokkal is szállítja a CFR az utasokat</title>
@@ -2104,7 +2104,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">T27fFmom6RAYHrTr1CaO</guid>
       <enclosure url="https://egyketto.ro/img/vonat_facebook_feroviarii.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:05:29 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/A-masodik-vilaghaboru-elott-gyartott-vonatokkal-is-szallitja-a-CFR-az-utasokat">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/A-masodik-vilaghaboru-elott-gyartott-vonatokkal-is-szallitja-a-CFR-az-utasokat</source>
     </item>
     <item>
       <title>[Maszol] Kórházban kötött ki a fiatal, miután ellopott egy autót</title>
@@ -2122,7 +2122,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">ULSBM1rhNF51wzYBM57z</guid>
       <enclosure url="https://egyketto.ro/img/baleset_mehedinti.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:07:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Korhazban-kotott-ki-a-fiatal-miutan-ellopott-egy-autot">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Korhazban-kotott-ki-a-fiatal-miutan-ellopott-egy-autot</source>
     </item>
     <item>
       <title>[Maszol] Válságban a német modell?  – Egy publicista kemény diagnózisa Európa motorjáról</title>
@@ -2140,7 +2140,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">VDJiAVnMIOLgx6U9fB0s</guid>
       <enclosure url="https://egyketto.ro/img/merz_fboldala_(3).webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:08:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Valsagban-a-nemet-modell-Egy-publicista-kemeny-diagnozisa-Europa-motorjarol">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Valsagban-a-nemet-modell-Egy-publicista-kemeny-diagnozisa-Europa-motorjarol</source>
     </item>
     <item>
       <title>[Krónika] Ételpazarlás megelőzése applikációval? Felelősebben gondolkodó közösséget építenek marosvásárhelyi diákok</title>
@@ -2158,7 +2158,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">HQBIKkpV80vUWlIIC3qF</guid>
       <enclosure url="https://egyketto.ro/img/nn_bevasarlas-07jan2026-oo-8.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:10:11 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/etelpazarlas-megelozese-applikacioval-felelosebben-gondolkodo-kozosseget-epitenek-marosvasarhelyi-diakok">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/etelpazarlas-megelozese-applikacioval-felelosebben-gondolkodo-kozosseget-epitenek-marosvasarhelyi-diakok</source>
     </item>
     <item>
       <title>[Székelyhon] Újabb próbálkozás: a korábbi kormánykoalíció vezetőivel egyeztet Nicușor Dan</title>
@@ -2176,7 +2176,7 @@ The post Újabb kormányalakítási tárgyalások kezdődtek a Cotroceni-palotá
       <guid isPermaLink="false">3YJZrPpSke2jRjDzh13T</guid>
       <enclosure url="https://egyketto.ro/img/nn_cotroceni-konzultacio-rmdsz.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:10:40 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ujabb-probalkozas-a-korabbi-kormanykoalicio-vezetoivel-egyeztet-nicuor-dan">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ujabb-probalkozas-a-korabbi-kormanykoalicio-vezetoivel-egyeztet-nicuor-dan</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Dominic Fritz: Romániának egy bátor kormányra van szüksége</title>
@@ -2196,7 +2196,7 @@ The post Dominic Fritz: Romániának egy bátor kormányra van szüksége appear
       <guid isPermaLink="false">f2aYQDto7roWRAmHbjJ5</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_18379493.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:13:10 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/dominic-fritz-romanianak-egy-bator-kormanyra-van-szuksege/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/dominic-fritz-romanianak-egy-bator-kormanyra-van-szuksege/</source>
     </item>
     <item>
       <title>[Maszol] Magyar Péter: Nincs tervben a határon túli magyarság szavazati jogának a megszüntetése</title>
@@ -2214,7 +2214,7 @@ The post Dominic Fritz: Romániának egy bátor kormányra van szüksége appear
       <guid isPermaLink="false">NbRRR9kdZIzIHWzXImF5</guid>
       <enclosure url="https://egyketto.ro/img/magyar_peter_fboldala.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:20:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Magyar-Peter-Nincs-tervben-a-hataron-tuli-magyarsag-szavazati-joganak-a-megszuntetese">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Magyar-Peter-Nincs-tervben-a-hataron-tuli-magyarsag-szavazati-joganak-a-megszuntetese</source>
     </item>
     <item>
       <title>[Székelyhon] Lesújtó vélemények: az utasok 86 százaléka nem ajánlaná a CFR vonatait</title>
@@ -2232,7 +2232,7 @@ The post Dominic Fritz: Romániának egy bátor kormányra van szüksége appear
       <guid isPermaLink="false">upNt13b1TgBE0y2jBIZe</guid>
       <enclosure url="https://egyketto.ro/img/nn_vonat1-29apr26-bf.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:28:23 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/lesujto-velemenyek-az-utasok-86-szazaleka-nem-ajanlana-a-cfr-vonatait">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/lesujto-velemenyek-az-utasok-86-szazaleka-nem-ajanlana-a-cfr-vonatait</source>
     </item>
     <item>
       <title>[Székelyhon] Gasztronómiai kvízjátékkal várjuk olvasóinkat</title>
@@ -2250,7 +2250,7 @@ The post Dominic Fritz: Romániának egy bátor kormányra van szüksége appear
       <guid isPermaLink="false">kdYK5eifPBPRzxpUqQbL</guid>
       <enclosure url="https://egyketto.ro/img/nn_egy-falatnyi-tudas-jatek-kk.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:30:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/gasztronomiai-kvizjatekkal-varjuk-olvasoinkat">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/gasztronomiai-kvizjatekkal-varjuk-olvasoinkat</source>
     </item>
     <item>
       <title>[Krónika] Arcok másképp – Ismerd fel a hírességet, és nyerj!</title>
@@ -2268,7 +2268,7 @@ The post Dominic Fritz: Romániának egy bátor kormányra van szüksége appear
       <guid isPermaLink="false">nhWVTBDeQImHKJxW77TZ</guid>
       <enclosure url="https://egyketto.ro/img/nn_nyeremenyjatek_arcok.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:40:00 +0000</pubDate>
-      <source url="https://kronika.ro/szines/arcok-maskepp-n-ismerd-fel-a-hiresseget-es-nyerj">Krónika</source>
+      <source url="Krónika">https://kronika.ro/szines/arcok-maskepp-n-ismerd-fel-a-hiresseget-es-nyerj</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Tűz ütött ki a Párizs közelében található Fontainebleau-i erdőben</title>
@@ -2288,7 +2288,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">CBdOnjzkIBJI2a9Slkl5</guid>
       <enclosure url="https://egyketto.ro/img/afp__20260712__b9z36tc__v3__highres__topshotfrancefire-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:40:17 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/tuz-utott-ki-a-parizs-kozeleben-talalhato-fontainebleau-i-erdoben/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/tuz-utott-ki-a-parizs-kozeleben-talalhato-fontainebleau-i-erdoben/</source>
     </item>
     <item>
       <title>[Maszol] Súlyos vádak az erdélyi költő ellen</title>
@@ -2306,7 +2306,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">FG037Q3o9qcFndnKuyo5</guid>
       <enclosure url="https://egyketto.ro/img/orban_janos_denes.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:41:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Sulyos-vadak-az-erdelyi-kolto-ellen">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Sulyos-vadak-az-erdelyi-kolto-ellen</source>
     </item>
     <item>
       <title>[Maszol] Rangsorolták a világ legbékésebb országait – Hányadik helyen áll Románia és Magyarország?</title>
@@ -2324,7 +2324,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">goGjSe7SeeRQKZZhkXXa</guid>
       <enclosure url="https://egyketto.ro/img/izland_pexels.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:42:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/Rangsoroltak-a-vilag-legbekesebb-orszagait-Hanyadik-helyen-all-Romania-es-Magyarorszag">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/Rangsoroltak-a-vilag-legbekesebb-orszagait-Hanyadik-helyen-all-Romania-es-Magyarorszag</source>
     </item>
     <item>
       <title>[Erdély FM] Ma a volt koalíció vezetőivel egyeztet Nicușor Dan</title>
@@ -2345,7 +2345,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <category>Hírek</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:43:27 +0000</pubDate>
-      <source url="https://erdelyfm.ro/ma-a-volt-koalicio-vezetoivel-egyeztet-nicusor-dan/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/ma-a-volt-koalicio-vezetoivel-egyeztet-nicusor-dan/</source>
     </item>
     <item>
       <title>[Erdély FM] Közzétették az érettségi végleges eredményeit</title>
@@ -2366,7 +2366,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <category>Hírek</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:43:43 +0000</pubDate>
-      <source url="https://erdelyfm.ro/kozzetettek-az-erettsegi-vegleges-eredmenyeit/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/kozzetettek-az-erettsegi-vegleges-eredmenyeit/</source>
     </item>
     <item>
       <title>[Erdély FM] Elindult a regisztráció Orbán Viktor tusványosi beszédére</title>
@@ -2387,7 +2387,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <category>Hírek,Orbán Viktor,tusványosi beszéd</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:43:59 +0000</pubDate>
-      <source url="https://erdelyfm.ro/elindult-a-regisztracio-orban-viktor-tusvanyosi-beszedere/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/elindult-a-regisztracio-orban-viktor-tusvanyosi-beszedere/</source>
     </item>
     <item>
       <title>[Erdély FM] Irán bejelentette, hogy ismét lezárja a Hormuzi-szorost</title>
@@ -2408,7 +2408,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <category>Hírek</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:44:31 +0000</pubDate>
-      <source url="https://erdelyfm.ro/iran-bejelentette-hogy-ismet-lezarja-a-hormuzi-szorost/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/iran-bejelentette-hogy-ismet-lezarja-a-hormuzi-szorost/</source>
     </item>
     <item>
       <title>[Székelyhon] Áramszünet lesz két alcsíki településen</title>
@@ -2426,7 +2426,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">VPNf4sDumAKxa7HnQ26z</guid>
       <enclosure url="https://egyketto.ro/img/nn_aramszunet-illusztracio-marc26-li-1-.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:45:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/csikszek/aramszunet-lesz-ket-alcsiki-telepulesen">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/csikszek/aramszunet-lesz-ket-alcsiki-telepulesen</source>
     </item>
     <item>
       <title>[Maszol] Idén borítékolható a recesszió, de a jövő év sem lesz könnyű</title>
@@ -2444,7 +2444,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">F97FvPy2vCKrw7qVwpYe</guid>
       <enclosure url="https://egyketto.ro/img/gdp_pixabay.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 05:58:29 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Iden-boritekolhato-a-recesszio-de-a-jovo-ev-sem-lesz-konnyu">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Iden-boritekolhato-a-recesszio-de-a-jovo-ev-sem-lesz-konnyu</source>
     </item>
     <item>
       <title>[Maszol] Óvások: két színtízes érettségizője van Maros megyének</title>
@@ -2462,7 +2462,7 @@ The post Tűz ütött ki a Párizs közelében található Fontainebleau-i erdő
       <guid isPermaLink="false">vkCw0ow1doLdSdNYANZ6</guid>
       <enclosure url="https://egyketto.ro/img/erettsegi_ai.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:07:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Ovasok-ket-szintizes-erettsegizoje-van-Maros-megyenek">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Ovasok-ket-szintizes-erettsegizoje-van-Maros-megyenek</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Enyhén csökkent az infláció júniusban</title>
@@ -2482,7 +2482,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">AIcC02OaqxntgRz8LgEO</guid>
       <enclosure url="https://egyketto.ro/img/afp__20260511__2275622601__v1__highres__discountgrocerystoresthriveasvarietyofeconom-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:08:12 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/enyhen-csokkent-az-inflacio-juniusban/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/enyhen-csokkent-az-inflacio-juniusban/</source>
     </item>
     <item>
       <title>[Maszol] Előrehozott választásokat emleget a pártelnök: „Talán itt az ideje, hogy az emberekre bízzuk a döntést”</title>
@@ -2500,7 +2500,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">9IxU3prQsJtZkfRtvexE</guid>
       <enclosure url="https://egyketto.ro/img/dominic_fritz_face.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:12:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elorehozott-valasztasokat-emleget-a-partelnok-Talan-itt-az-ideje-hogy-az-emberekre-bizzuk-a-dontest">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elorehozott-valasztasokat-emleget-a-partelnok-Talan-itt-az-ideje-hogy-az-emberekre-bizzuk-a-dontest</source>
     </item>
     <item>
       <title>[Transtelex] „A döntő szempont a tehetség” – Markó Bélát kérdeztük a Communitas Alkotói Ösztöndíjának átláthatóságáról</title>
@@ -2521,7 +2521,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1783418587-temp-utkbcsosa22a5lpmikf_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:13:01 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/13/communitas-alkotoi-osztondij">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/13/communitas-alkotoi-osztondij</source>
     </item>
     <item>
       <title>[Maszol] Szigorú és meglepő strandszabályok Európa-szerte: így kerüld el a méregdrága büntetéseket!</title>
@@ -2539,7 +2539,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">SiIWSQdK4H8woajzLGLJ</guid>
       <enclosure url="https://egyketto.ro/img/vidar-nordli-mathisen-avnxcfx25ga-unsplash.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:18:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/Szigoru-es-meglepo-strandszabalyok-Europa-szerte-igy-keruld-el-a-meregdraga-bunteteseket">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/Szigoru-es-meglepo-strandszabalyok-Europa-szerte-igy-keruld-el-a-meregdraga-bunteteseket</source>
     </item>
     <item>
       <title>[Krónika] Fogyó Kelet, növekvő Nyugat: Románia és Magyarország is a demográfiai lejtőn</title>
@@ -2557,7 +2557,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">Cr7S0j0I8cACWMg4DMLM</guid>
       <enclosure url="https://egyketto.ro/img/nn_utca-14apr2026-oo.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:22:20 +0000</pubDate>
-      <source url="https://kronika.ro/gazdasag/fogyo-kelet-novekvo-nyugat-romania-es-magyarorszag-is-a-demografiai-lejton">Krónika</source>
+      <source url="Krónika">https://kronika.ro/gazdasag/fogyo-kelet-novekvo-nyugat-romania-es-magyarorszag-is-a-demografiai-lejton</source>
     </item>
     <item>
       <title>[Székelyhon] Ingyenes kutyaivartalanításra lehet még jelentkezni Székelyudvarhelyen</title>
@@ -2575,7 +2575,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">8JBKGDgOgsplvJ5k7GMM</guid>
       <enclosure url="https://egyketto.ro/img/nn_allatorvos-20febr2026-oo-15.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:35:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/ingyenes-kutyaivartalanitasra-lehet-meg-jelentkezni-szekelyudvarhelyen">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/udvarhelyszek/ingyenes-kutyaivartalanitasra-lehet-meg-jelentkezni-szekelyudvarhelyen</source>
     </item>
     <item>
       <title>[Maszol] Júniusban kissé csökkent, de továbbra is kétszámjegyű az infláció</title>
@@ -2593,7 +2593,7 @@ The post Enyhén csökkent az infláció júniusban appeared first on Marosvás�
       <guid isPermaLink="false">7cATwisZErRPfnw7zeHD</guid>
       <enclosure url="https://egyketto.ro/img/penztelenseg.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:41:29 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Juniusban-kisse-csokkent-de-tovabbra-is-ketszamjegyu-az-inflacio">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Juniusban-kisse-csokkent-de-tovabbra-is-ketszamjegyu-az-inflacio</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Közzétették vasárnap a nyári érettségi végleges eredményeit</title>
@@ -2613,7 +2613,7 @@ The post Közzétették vasárnap a nyári érettségi végleges eredményeit ap
       <guid isPermaLink="false">p6hrQIDZfACsE350Nkqv</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_78693551.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:42:21 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/kozzetettek-vasarnap-a-nyari-erettsegi-vegleges-eredmenyeit/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/kozzetettek-vasarnap-a-nyari-erettsegi-vegleges-eredmenyeit/</source>
     </item>
     <item>
       <title>[Maszol] Medve harapott meg egy férfit</title>
@@ -2631,7 +2631,7 @@ The post Közzétették vasárnap a nyári érettségi végleges eredményeit ap
       <guid isPermaLink="false">2GwVd5HcEXvnW06DC94B</guid>
       <enclosure url="https://egyketto.ro/img/medve_szollosi_attila4.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:43:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Medve-harapott-meg-egy-ferfit">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Medve-harapott-meg-egy-ferfit</source>
     </item>
     <item>
       <title>[Székelyhon] Elenyésző mértékben csökkent az infláció</title>
@@ -2649,7 +2649,7 @@ The post Közzétették vasárnap a nyári érettségi végleges eredményeit ap
       <guid isPermaLink="false">sCF7qqUfkKq7ktfngf3S</guid>
       <enclosure url="https://egyketto.ro/img/nn_penz-bevasarlas-10juli25-oo-5.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:46:34 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elenyeszo-mertekben-csokkent-az-inflacio">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elenyeszo-mertekben-csokkent-az-inflacio</source>
     </item>
     <item>
       <title>[Maszol] Csillagles a Limesparkban – A mikházi létesítmény kitárja kapuit</title>
@@ -2667,7 +2667,7 @@ The post Közzétették vasárnap a nyári érettségi végleges eredményeit ap
       <guid isPermaLink="false">08N1OHaXgjXCIxwrardM</guid>
       <enclosure url="https://egyketto.ro/img/limespark.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 06:51:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Csillagles-a-Limesparkban-A-mikhazi-letesitmeny-kitarja-kapuit">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Csillagles-a-Limesparkban-A-mikhazi-letesitmeny-kitarja-kapuit</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Az Egyesült Államok újabb csapásokat mért Iránra</title>
@@ -2687,7 +2687,7 @@ The post Az Egyesült Államok újabb csapásokat mért Iránra appeared first o
       <guid isPermaLink="false">3MkN2O9SpqYhBpeKKF1j</guid>
       <enclosure url="https://egyketto.ro/img/afp__20260304__99xn8v4__v3__highres__topshotusisraeliranwar-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:00:44 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/az-egyesult-allamok-ujabb-csapasokat-mert-iranra/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/az-egyesult-allamok-ujabb-csapasokat-mert-iranra/</source>
     </item>
     <item>
       <title>[Krónika] Még mindig mínuszba taszítja Romániát a pénzszórás, szerencse kell a javításhoz</title>
@@ -2705,7 +2705,7 @@ The post Az Egyesült Államok újabb csapásokat mért Iránra appeared first o
       <guid isPermaLink="false">67npP6gnKNYaGmSvVPiM</guid>
       <enclosure url="https://egyketto.ro/img/nn_lej-10juli2026-oo-9.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:10:53 +0000</pubDate>
-      <source url="https://kronika.ro/gazdasag/meg-mindig-minuszba-taszitja-romaniat-a-penzszoras-szerencse-kell-a-javitashoz">Krónika</source>
+      <source url="Krónika">https://kronika.ro/gazdasag/meg-mindig-minuszba-taszitja-romaniat-a-penzszoras-szerencse-kell-a-javitashoz</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Szerb győzelem született az oltszemi nemzetközi lovas fogathajtóversenyen</title>
@@ -2725,7 +2725,7 @@ The post Szerb győzelem született az oltszemi nemzetközi lovas fogathajtóver
       <guid isPermaLink="false">zx4cLbhXcfGgne4CczQV</guid>
       <enclosure url="https://egyketto.ro/img/743484722_1717789513689539_8102948469886854971_n-e1783926681466.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:12:06 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/szerb-gyozelem-szuletett-az-oltszemi-nemzetkozi-lovas-fogathajtoversenyen/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/szerb-gyozelem-szuletett-az-oltszemi-nemzetkozi-lovas-fogathajtoversenyen/</source>
     </item>
     <item>
       <title>[Székelyhon] Ma reggeli jelentés: a férfi lábán ejtett sebeket a medve</title>
@@ -2743,7 +2743,7 @@ The post Szerb győzelem született az oltszemi nemzetközi lovas fogathajtóver
       <guid isPermaLink="false">m3AS6AJsmApYnkItzuPW</guid>
       <enclosure url="https://egyketto.ro/img/nn_medvekereso-csendor-smurd-26maj23-pnt.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:13:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ma-reggeli-jelentes-a-ferfi-laban-ejtett-sebeket-a-medve">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ma-reggeli-jelentes-a-ferfi-laban-ejtett-sebeket-a-medve</source>
     </item>
     <item>
       <title>[Transtelex] A Republic fog fellépni Ákos helyett a Kolozsvári Magyar Napokon</title>
@@ -2764,7 +2764,7 @@ The post Szerb győzelem született az oltszemi nemzetközi lovas fogathajtóver
       <category>Életmód</category>
       <enclosure url="https://egyketto.ro/img/1783926834-temp-mnsv34qk4m7hfnfnpof_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:19:25 +0000</pubDate>
-      <source url="https://transtelex.ro/eletmod/2026/07/13/a-republic-fog-fellepni-akos-helyett-a-kolozsvari-magyar-napokon">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/eletmod/2026/07/13/a-republic-fog-fellepni-akos-helyett-a-kolozsvari-magyar-napokon</source>
     </item>
     <item>
       <title>[Maszol] Hétfői fordulat: visszatérnek a viharok és a felhőszakadások</title>
@@ -2782,7 +2782,7 @@ The post Szerb győzelem született az oltszemi nemzetközi lovas fogathajtóver
       <guid isPermaLink="false">DjBaJg5qPCekpbTFmmwL</guid>
       <enclosure url="https://egyketto.ro/img/eso_esoernyo_unsplash.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:21:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Hetfoi-fordulat-visszaternek-a-viharok-es-a-felhoszakadasok">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Hetfoi-fordulat-visszaternek-a-viharok-es-a-felhoszakadasok</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Betelt a pohár: bekérette a CFR vezetőjét a közlekedési miniszter</title>
@@ -2802,7 +2802,7 @@ The post Betelt a pohár: bekérette a CFR vezetőjét a közlekedési miniszter
       <guid isPermaLink="false">aPNoloTlGgIxPLI9n3EI</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_13202570.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:29:23 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/betelt-a-pohar-bekerette-a-cfr-vezetojet-a-kozlekedesi-miniszter/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/betelt-a-pohar-bekerette-a-cfr-vezetojet-a-kozlekedesi-miniszter/</source>
     </item>
     <item>
       <title>[Kolozsvári Rádio] Törzsasztalhoz ülve – Kőrössi P. József költő, író</title>
@@ -2825,7 +2825,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <category>Kontűr,Vezető,Kőrössi P. József</category>
       <enclosure url="https://egyketto.ro/img/718238404_1635745491047911_4414349980055512902_n-300x200.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:31:39 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/13/torzsasztalhoz-ulve-korossi-p-jozsef-kolto-iro/">Kolozsvári Rádio</source>
+      <source url="Kolozsvári Rádio">https://www.kolozsvariradio.ro/2026/07/13/torzsasztalhoz-ulve-korossi-p-jozsef-kolto-iro/</source>
     </item>
     <item>
       <title>[Székelyhon] Meghalt Sam Neill, a Jurassic Park-filmek sztárja</title>
@@ -2843,7 +2843,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <guid isPermaLink="false">QkUN6SZxxAqhIAL8g0f3</guid>
       <enclosure url="https://egyketto.ro/img/nn_sam-neill.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:32:34 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/meghalt-sam-neill-a-jurassic-park-filmek-sztarja">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/meghalt-sam-neill-a-jurassic-park-filmek-sztarja</source>
     </item>
     <item>
       <title>[Erdély FM] Továbbra is kétszámjegyű az infláció</title>
@@ -2864,7 +2864,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <category>Hírek</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:33:56 +0000</pubDate>
-      <source url="https://erdelyfm.ro/tovabbra-is-ketszamjegyu-az-inflacio/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/tovabbra-is-ketszamjegyu-az-inflacio/</source>
     </item>
     <item>
       <title>[Maszol] Uniós statisztika: Romániában mostohagyerek a kultúra</title>
@@ -2882,7 +2882,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <guid isPermaLink="false">Eki86D5Z0oDDxhAuODad</guid>
       <enclosure url="https://egyketto.ro/img/konyv.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:34:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Unios-statisztika-Romaniaban-mostohagyerek-a-kultura">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Unios-statisztika-Romaniaban-mostohagyerek-a-kultura</source>
     </item>
     <item>
       <title>[Székelyhon] Jövő hónaptól már új helyszínen várják a betegeket a Sziget utcában rendelő háziorvosok</title>
@@ -2900,7 +2900,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <guid isPermaLink="false">PEW1gpSSm7JnIaLeO14p</guid>
       <enclosure url="https://egyketto.ro/img/nn_szigetutcai-orvosirendelo-jun26-li-3.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:34:31 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/jovo-honaptol-mar-uj-helyszinen-varjak-a-betegeket-a-sziget-utcaban-rendelo-csaladorvosok">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/udvarhelyszek/jovo-honaptol-mar-uj-helyszinen-varjak-a-betegeket-a-sziget-utcaban-rendelo-csaladorvosok</source>
     </item>
     <item>
       <title>[Erdély FM] Az elmúlt 24 órában 16 személyen segített a Salvamont</title>
@@ -2921,7 +2921,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <category>Hírek</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:34:31 +0000</pubDate>
-      <source url="https://erdelyfm.ro/az-elmult-24-oraban-16-szemelyen-segitett-a-salvamont/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/az-elmult-24-oraban-16-szemelyen-segitett-a-salvamont/</source>
     </item>
     <item>
       <title>[Maszol] Félelmek fojtogatják a lakosságot: hónapról hónapra borúlátóbbak a romániaiak</title>
@@ -2939,7 +2939,7 @@ Articolul Törzsasztalhoz ülve – Kőrössi P. József költő, író apare pr
       <guid isPermaLink="false">c3xIAQTZzUIagGIT63I6</guid>
       <enclosure url="https://egyketto.ro/img/koltekezes_ures_penztarca_pexels.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:35:00 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Felelmek-fojtogatjak-a-lakossagot-honaprol-honapra-borulatobbak-a-romaniaiak">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Felelmek-fojtogatjak-a-lakossagot-honaprol-honapra-borulatobbak-a-romaniaiak</source>
     </item>
     <item>
       <title>[Kolozsvári Rádio] Későn fizet a biztosító a patikáknak – beperelték</title>
@@ -2962,7 +2962,7 @@ Articolul Későn fizet a biztosító a patikáknak – beperelték apare prima 
       <category>Hírek,gyógyszertár</category>
       <enclosure url="https://egyketto.ro/img/parika-300x169.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:35:36 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/13/keson-fizet-a-biztosito-a-patikaknak-bepereltek/">Kolozsvári Rádio</source>
+      <source url="Kolozsvári Rádio">https://www.kolozsvariradio.ro/2026/07/13/keson-fizet-a-biztosito-a-patikaknak-bepereltek/</source>
     </item>
     <item>
       <title>[Székelyhon] Pénzt fordítanak az Orbán Balázs iskola szerkezeti megerősítésére</title>
@@ -2980,7 +2980,7 @@ Articolul Későn fizet a biztosító a patikáknak – beperelték apare prima 
       <guid isPermaLink="false">nFxNu4zGiSen66u1cOIE</guid>
       <enclosure url="https://egyketto.ro/img/nn_sajttaj-orban-balazs-iskola-oa-maj268.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:43:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/penzt-forditanak-az-orban-balazs-iskola-szerkezeti-megerositesere">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/udvarhelyszek/penzt-forditanak-az-orban-balazs-iskola-szerkezeti-megerositesere</source>
     </item>
     <item>
       <title>[Maszol] Egyre több munkájuk van a hegyimentőknek: a legtöbb baj megelőzhető lenne</title>
@@ -2998,7 +2998,7 @@ Articolul Későn fizet a biztosító a patikáknak – beperelték apare prima 
       <guid isPermaLink="false">ntlUZg4CcM4faoqeaYK7</guid>
       <enclosure url="https://egyketto.ro/img/hegyimento.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:43:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Egyre-tobb-munkajuk-van-a-hegyimentoknek-a-legtobb-baj-megelozheto-lenne">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Egyre-tobb-munkajuk-van-a-hegyimentoknek-a-legtobb-baj-megelozheto-lenne</source>
     </item>
     <item>
       <title>[Székelyhon] Hargita megyéből is riasztották a hegyimentőket</title>
@@ -3016,7 +3016,7 @@ Articolul Későn fizet a biztosító a patikáknak – beperelték apare prima 
       <guid isPermaLink="false">nGNf2I4F0tjnrTwg7FkD</guid>
       <enclosure url="https://egyketto.ro/img/nn_1ko-6.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:45:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/hargita-megyebol-is-riasztottak-a-hegyimentoket">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/hargita-megyebol-is-riasztottak-a-hegyimentoket</source>
     </item>
     <item>
       <title>[Krónika] Piros Zsombor bevette Romániát, jókorát ugrott előre a világranglistán</title>
@@ -3034,7 +3034,7 @@ Articolul Későn fizet a biztosító a patikáknak – beperelték apare prima 
       <guid isPermaLink="false">viflO4HmU6lpDtcwkI2p</guid>
       <enclosure url="https://egyketto.ro/img/nn_piroszs1.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:49:00 +0000</pubDate>
-      <source url="https://kronika.ro/sport/piros-zsombor-bevette-romaniat-jokorat-ugrott-elore-a-vilagranglistan">Krónika</source>
+      <source url="Krónika">https://kronika.ro/sport/piros-zsombor-bevette-romaniat-jokorat-ugrott-elore-a-vilagranglistan</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Ma sem hoztak áttörést a kormányalakítási tárgyalások</title>
@@ -3054,7 +3054,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">Cejnc5nny4LLYX8b6rW3</guid>
       <enclosure url="https://egyketto.ro/img/original_1000295633-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:51:51 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/ma-sem-hoztak-attorest-a-kormanyalakitasi-targyalasok/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/ma-sem-hoztak-attorest-a-kormanyalakitasi-targyalasok/</source>
     </item>
     <item>
       <title>[Székelyhon] Hétfő délután is leszakadhat az ég Székelyföldön</title>
@@ -3072,7 +3072,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">KDlhuJCmlr0kUwX3gdqk</guid>
       <enclosure url="https://egyketto.ro/img/nn_vihar-illusztracio-jun26-li.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 07:59:33 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/hetfo-delutan-is-leszakadhat-az-eg-szekelyfoldon">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/hetfo-delutan-is-leszakadhat-az-eg-szekelyfoldon</source>
     </item>
     <item>
       <title>[Székelyhon] Megfelezi Székelyföldet a ma délutáni viharriasztás</title>
@@ -3090,7 +3090,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">QJhZA1jwriuhPdlUEzqd</guid>
       <enclosure url="https://egyketto.ro/img/nn_vihar-illusztracio-jun26-li-2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:03:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/megfelezi-szekelyfoldet-a-ma-delutani-viharriasztas">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/megfelezi-szekelyfoldet-a-ma-delutani-viharriasztas</source>
     </item>
     <item>
       <title>[Maszol] Hagyomány, emlékjel és fúvószene: kétnapos ünnep tette mozgalmassá Réty életét</title>
@@ -3108,7 +3108,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">gt9Tc8Qbc1MG9xKB707z</guid>
       <enclosure url="https://egyketto.ro/img/fuvos03.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:07:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Hagyomany-emlekjel-es-fuvoszene-ketnapos-unnep-tette-mozgalmassa-Rety-eletet">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Hagyomany-emlekjel-es-fuvoszene-ketnapos-unnep-tette-mozgalmassa-Rety-eletet</source>
     </item>
     <item>
       <title>[Maszol] Egyetlen hiba okozhatta az Everestet megjárt, bukaresti hegymászónő halálát a Bucsecsben</title>
@@ -3126,7 +3126,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">YePZleO7VT671FsRte4J</guid>
       <enclosure url="https://egyketto.ro/img/mentes_igsu.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:10:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Egyetlen-hiba-okozhatta-az-Everestet-megjart-bukaresti-hegymaszono-halalat-a-Bucsecsben">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Egyetlen-hiba-okozhatta-az-Everestet-megjart-bukaresti-hegymaszono-halalat-a-Bucsecsben</source>
     </item>
     <item>
       <title>[Transtelex] Elkezdődött a Kolozsvári Regionális Sürgősségi Kórház kivitelezése</title>
@@ -3147,7 +3147,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1778758178-temp-msas0r0fbkp6dbdneco_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:13:29 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/13/kolozsvari-regionalis-surgossegi-korhaz-kivitelezes">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/13/kolozsvari-regionalis-surgossegi-korhaz-kivitelezes</source>
     </item>
     <item>
       <title>[Maszol] Motozást vezetne be a tanügyminiszter az érettségin</title>
@@ -3165,7 +3165,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">sg16jEmrjdDK6jeqNQiF</guid>
       <enclosure url="https://egyketto.ro/img/vizsga_puska_pexels.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:15:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Motozast-vezetne-be-a-tanugyminiszter-az-erettsegin">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Motozast-vezetne-be-a-tanugyminiszter-az-erettsegin</source>
     </item>
     <item>
       <title>[Székelyhon] Meggyalázták a mezőméhesi gyilkosság áldozatának sírját</title>
@@ -3183,7 +3183,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">FBEFXzw3dfRGmD8Kkzbz</guid>
       <enclosure url="https://egyketto.ro/img/nn_anda-sirhely-ganj.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:34:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/meggyalaztak-a-meggyilkolt-fiatal-no-sirjat-maros-megyeben">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/marosszek/meggyalaztak-a-meggyilkolt-fiatal-no-sirjat-maros-megyeben</source>
     </item>
     <item>
       <title>[Krónika] Drágulások a köbön: csak kapkodjuk a fejünket a lakosságra zúduló árhullámban</title>
@@ -3201,7 +3201,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">1VcgCAfkVVTlVCW4v87M</guid>
       <enclosure url="https://egyketto.ro/img/nn_penz-21maj2026-oo-9.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:35:16 +0000</pubDate>
-      <source url="https://kronika.ro/gazdasag/dragulasok-a-kobon-csak-kapkodjuk-a-fejunket-a-lakossagra-zudulo-arhullamban">Krónika</source>
+      <source url="Krónika">https://kronika.ro/gazdasag/dragulasok-a-kobon-csak-kapkodjuk-a-fejunket-a-lakossagra-zudulo-arhullamban</source>
     </item>
     <item>
       <title>[Székelyhon] Tökéletes pálya és erős mezőny jellemezte az oltszemi döntőt</title>
@@ -3219,7 +3219,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">P1pK4XOvArfT9Mt9t7Xs</guid>
       <enclosure url="https://egyketto.ro/img/nn_oltszem-fogathajtas.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:39:13 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/haromszek/tokeletes-palya-es-eros-mezony-jellemezte-az-oltszemi-dontot">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/haromszek/tokeletes-palya-es-eros-mezony-jellemezte-az-oltszemi-dontot</source>
     </item>
     <item>
       <title>[Uh] M1-sokk Erdélyben: kinek higgyünk ezután?</title>
@@ -3240,7 +3240,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <category>Videó,Itthon</category>
       <enclosure url="https://egyketto.ro/img/uhara_video_puncs.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:50:30 +0000</pubDate>
-      <source url="https://www.uh.ro/m1-sokk-erdelyben-kinek-higgyunk-ezutan/">Uh</source>
+      <source url="Uh">https://www.uh.ro/m1-sokk-erdelyben-kinek-higgyunk-ezutan/</source>
     </item>
     <item>
       <title>[Maszol] Három eltévedt magyar turistát mentett ki a Retyezát-hegységből (VIDEÓ)</title>
@@ -3258,7 +3258,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">A0vs7K94AHLV6wmK1E0Q</guid>
       <enclosure url="https://egyketto.ro/img/turistak_salvamont_hunyad.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:51:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Harom-eltevedt-magyar-turistat-mentett-ki-a-Retyezat-hegysegbol-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Harom-eltevedt-magyar-turistat-mentett-ki-a-Retyezat-hegysegbol-VIDEO</source>
     </item>
     <item>
       <title>[Maszol] Vizsgálat indult a mezőméhesi temetőben történt sírgyalázás ügyében (VIDEÓ)</title>
@@ -3276,7 +3276,7 @@ The post Ma sem hoztak áttörést a kormányalakítási tárgyalások appeared 
       <guid isPermaLink="false">FslWVbYsXuoBKbrtu3XY</guid>
       <enclosure url="https://egyketto.ro/img/sirgyalazas.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:51:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Vizsgalat-indult-a-mezomehesi-temetoben-tortent-sirgyalazas-ugyeben-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Vizsgalat-indult-a-mezomehesi-temetoben-tortent-sirgyalazas-ugyeben-VIDEO</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orbán János Dénes közpénzből működő szervezete</title>
@@ -3296,7 +3296,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">2RUBeZiFycdbfYlHOa9w</guid>
       <enclosure url="https://egyketto.ro/img/7s9iemaxbbla19ilxs-lg.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 08:57:18 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/1-millio-160-ezer-euroert-vasarolta-meg-sajat-szerzemenyeit-orban-janos-denes-kozpenzbol-mukodo-szervezete/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/1-millio-160-ezer-euroert-vasarolta-meg-sajat-szerzemenyeit-orban-janos-denes-kozpenzbol-mukodo-szervezete/</source>
     </item>
     <item>
       <title>[Maszol] „Miért mondana le Bolojan a miniszterelnökségről?” – Eredménytelen tárgyalások az államfőnél</title>
@@ -3314,7 +3314,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">P8NkG5cOo5hq8zjcZnzF</guid>
       <enclosure url="https://egyketto.ro/img/nicusor_bolojan_facebook_nicusor.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Miert-mondana-le-Bolojan-a-miniszterelnoksegrol-Megint-targyalnak-a-Cotroceni-palotaban">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Miert-mondana-le-Bolojan-a-miniszterelnoksegrol-Megint-targyalnak-a-Cotroceni-palotaban</source>
     </item>
     <item>
       <title>[Székelyhon] Környezetvédelmi engedélyt kérnek a mezőpaniti hídátereszek javítására</title>
@@ -3330,7 +3330,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">gTMoQmRBLn3yvtFaTtKg</guid>
       <enclosure url="https://egyketto.ro/img/nn_ms6-hirdetes.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/kornyezetvedelmi-engedelyt-kernek-a-mezopaniti-hidatereszek-javitasara">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/kornyezetvedelmi-engedelyt-kernek-a-mezopaniti-hidatereszek-javitasara</source>
     </item>
     <item>
       <title>[Krónika] Környezetvédelmi engedélyt kérnek a mezőpaniti hídátereszek javítására</title>
@@ -3346,7 +3346,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">5GbWN7Cc0x6Q2k6BHR8V</guid>
       <enclosure url="https://egyketto.ro/img/nn_ms6-hirdetes.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-      <source url="https://kronika.ro/belfold/kornyezetvedelmi-engedelyt-kernek-a-mezopaniti-hidatereszek-javitasara">Krónika</source>
+      <source url="Krónika">https://kronika.ro/belfold/kornyezetvedelmi-engedelyt-kernek-a-mezopaniti-hidatereszek-javitasara</source>
     </item>
     <item>
       <title>[Maszol] A tervezettnél jóval korábban készülhet el egy észak-erdélyi sztrádaszakasz</title>
@@ -3364,7 +3364,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">FzBXhK1yIROJmfn0T7Fj</guid>
       <enclosure url="https://egyketto.ro/img/sztrada_facebook_pro_infrastructura.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/A-tervezettnel-joval-korabban-keszulhet-el-egy-eszak-erdelyi-sztradaszakasz">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/A-tervezettnel-joval-korabban-keszulhet-el-egy-eszak-erdelyi-sztradaszakasz</source>
     </item>
     <item>
       <title>[Székelyhon] Megsérült egy idős sofőr, miután autója lesodródott az úttestről</title>
@@ -3382,7 +3382,7 @@ The post 1 millió 160 ezer euróért vásárolta meg saját szerzeményeit Orb�
       <guid isPermaLink="false">KxremJdkbWe5hqvQrGzp</guid>
       <enclosure url="https://egyketto.ro/img/nn_baleset-dicsoszentmarton-mmt.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:05:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/megserult-egy-idos-sofor-miutan-autoja-lesodrodott-az-uttestrol">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/marosszek/megserult-egy-idos-sofor-miutan-autoja-lesodrodott-az-uttestrol</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Az iráni konfliktus magasan tartja az üzemanyagárakat</title>
@@ -3402,7 +3402,7 @@ The post Az iráni konfliktus magasan tartja az üzemanyagárakat appeared first
       <guid isPermaLink="false">A1OK9EhPb1Vs2P3vVbbo</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_15756332.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:06:55 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/az-irani-konfliktus-magasan-tartja-az-uzemanyagarakat/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/az-irani-konfliktus-magasan-tartja-az-uzemanyagarakat/</source>
     </item>
     <item>
       <title>[Maszol] Kolozsvári Magyar Napok: bejelentették, ki lép fel a betegség miatt távolmaradó Ákos helyett</title>
@@ -3420,7 +3420,7 @@ The post Az iráni konfliktus magasan tartja az üzemanyagárakat appeared first
       <guid isPermaLink="false">ou9A66Pg251e1IjtlG5t</guid>
       <enclosure url="https://egyketto.ro/img/744917652_1464547922374137_6488828164546562786_n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:16:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/Kolozsvari-Magyar-Napok-bejelentettek-ki-lep-fel-a-betegseg-miatt-tavolmarado-Akos-helyett">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/Kolozsvari-Magyar-Napok-bejelentettek-ki-lep-fel-a-betegseg-miatt-tavolmarado-Akos-helyett</source>
     </item>
     <item>
       <title>[Maszol] Elkezdődött a beiratkozás a középiskolai felvételire</title>
@@ -3438,7 +3438,7 @@ The post Az iráni konfliktus magasan tartja az üzemanyagárakat appeared first
       <guid isPermaLink="false">5LucwbtcWt2u2a5MJ9Mf</guid>
       <enclosure url="https://egyketto.ro/img/iskolai_tanacsado_pexels.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:21:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elkezdodott-a-beiratkozas-a-kozepiskolai-felvetelire">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elkezdodott-a-beiratkozas-a-kozepiskolai-felvetelire</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Elkezdődött a beiratkozás a középiskolai felvételire</title>
@@ -3458,7 +3458,7 @@ The post Elkezdődött a beiratkozás a középiskolai felvételire appeared fir
       <guid isPermaLink="false">TQLjAG0rmgOvjvDlExf2</guid>
       <enclosure url="https://egyketto.ro/img/image-2013-10-9-15766255-70-admitere-universitate.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:22:08 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/elkezdodott-a-beiratkozas-a-kozepiskolai-felvetelire/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/elkezdodott-a-beiratkozas-a-kozepiskolai-felvetelire/</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Elkezdődött ma a beiratkozás a középiskolai felvételire</title>
@@ -3478,7 +3478,7 @@ The post Elkezdődött ma a beiratkozás a középiskolai felvételire appeared 
       <guid isPermaLink="false">N1Z8tDfXzoJZF5gp3YTf</guid>
       <enclosure url="https://egyketto.ro/img/image-2013-10-9-15766255-70-admitere-universitate.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:22:08 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/elkezdodott-ma-a-beiratkozas-a-kozepiskolai-felvetelire/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/elkezdodott-ma-a-beiratkozas-a-kozepiskolai-felvetelire/</source>
     </item>
     <item>
       <title>[Maszol] Súlyos baleset történt Dicsőszentmártonban</title>
@@ -3496,7 +3496,7 @@ The post Elkezdődött ma a beiratkozás a középiskolai felvételire appeared 
       <guid isPermaLink="false">TtKCM3sHQ3y4ZxiL41l0</guid>
       <enclosure url="https://egyketto.ro/img/baleset.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:24:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Sulyos-baleset-tortent-Dicsoszentmartonban">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Sulyos-baleset-tortent-Dicsoszentmartonban</source>
     </item>
     <item>
       <title>[Maszol] A gyógynövényekről szólt a hétvége a csíksomlyói tündérkertben</title>
@@ -3514,7 +3514,7 @@ The post Elkezdődött ma a beiratkozás a középiskolai felvételire appeared 
       <guid isPermaLink="false">W7jwrfMfo7Nkg2bTxs9h</guid>
       <enclosure url="https://egyketto.ro/img/742391273_1431006062380395_4553886217257166150_nk.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:26:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/A-gyogynovenyekrol-szolt-a-hetvege-a-csiksomlyoi-tunderkertben">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/A-gyogynovenyekrol-szolt-a-hetvege-a-csiksomlyoi-tunderkertben</source>
     </item>
     <item>
       <title>[Székelyhon] Élelem és zseblámpa nélkül bolyongtak a hegyekben a magyar turisták – videóval</title>
@@ -3532,7 +3532,7 @@ The post Elkezdődött ma a beiratkozás a középiskolai felvételire appeared 
       <guid isPermaLink="false">V0QLnhn8mQELcFch7uc4</guid>
       <enclosure url="https://egyketto.ro/img/nn_magyar-turistak-retyezat.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:27:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elelem-es-zseblampa-nelkul-bolyongtak-a-hegyekben-a-magyar-turistak">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elelem-es-zseblampa-nelkul-bolyongtak-a-hegyekben-a-magyar-turistak</source>
     </item>
     <item>
       <title>[Krónika] „Abszolút semmi.” Újabb kudarc az államfő és a pártelnökök egyeztetésén</title>
@@ -3550,7 +3550,7 @@ The post Elkezdődött ma a beiratkozás a középiskolai felvételire appeared 
       <guid isPermaLink="false">1YIJhpBbQ0ExH3Scqa20</guid>
       <enclosure url="https://egyketto.ro/img/nn_grindeanu-psd-szavazas.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:38:00 +0000</pubDate>
-      <source url="https://kronika.ro/belfold/babszolut-semmir-ujabb-kudarc-az-allamfo-es-a-partelnokok-egyeztetesen">Krónika</source>
+      <source url="Krónika">https://kronika.ro/belfold/babszolut-semmir-ujabb-kudarc-az-allamfo-es-a-partelnokok-egyeztetesen</source>
     </item>
     <item>
       <title>[Kolozsvári Rádio] Geológia: elméleti és gyakorlati egyetemi képzés</title>
@@ -3573,7 +3573,7 @@ Articolul Geológia: elméleti és gyakorlati egyetemi képzés apare prima dat�
       <category>Hangoló,Vezető,geológia,Kövecsi Szabolcs</category>
       <enclosure url="https://egyketto.ro/img/geologia-300x169.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:43:32 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/13/geologia-elmeleti-es-gyakorlati-egyetemi-kepzes/">Kolozsvári Rádio</source>
+      <source url="Kolozsvári Rádio">https://www.kolozsvariradio.ro/2026/07/13/geologia-elmeleti-es-gyakorlati-egyetemi-kepzes/</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Elkészült a Szépvízi-gát felújításának műszaki terve</title>
@@ -3593,7 +3593,7 @@ The post Elkészült a Szépvízi-gát felújításának műszaki terve appeared
       <guid isPermaLink="false">SfU2aUmESBkxThlYlPrz</guid>
       <enclosure url="https://egyketto.ro/img/chatgpt-image-jul-13-2026-12_45_20-pm.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:47:06 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/elkeszult-a-szepvizi-gat-felujitasanak-muszaki-terve/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/elkeszult-a-szepvizi-gat-felujitasanak-muszaki-terve/</source>
     </item>
     <item>
       <title>[Maszol] Elhunyt Sam Neill, a Jurassic Park sztárja</title>
@@ -3611,7 +3611,7 @@ The post Elkészült a Szépvízi-gát felújításának műszaki terve appeared
       <guid isPermaLink="false">3LXX0OBtRX6U5UPMLrgf</guid>
       <enclosure url="https://egyketto.ro/img/neill.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:50:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Elhunyt-Sam-Neill-a-Jurassic-Park-sztarja">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Elhunyt-Sam-Neill-a-Jurassic-Park-sztarja</source>
     </item>
     <item>
       <title>[Székelyhon] A matematika bűvöletében: beszélgetés Hargita megye legjobb érettségizőjével</title>
@@ -3629,7 +3629,7 @@ The post Elkészült a Szépvízi-gát felújításának műszaki terve appeared
       <guid isPermaLink="false">U0dVc2zztLjUqKjqaLcI</guid>
       <enclosure url="https://egyketto.ro/img/nn_martonaronfogimnazium-05jun24-pnt-2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 09:52:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/csikszek/a-matematika-buvoleteben-beszelgetes-hargita-megye-legjobb-erettsegizojevel">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/csikszek/a-matematika-buvoleteben-beszelgetes-hargita-megye-legjobb-erettsegizojevel</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Visszaesett a turizmus, óvatosabban költenek a vendégek</title>
@@ -3649,7 +3649,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">BUjdFWQbChhvpI9HxQEe</guid>
       <enclosure url="https://egyketto.ro/img/673873755_1349954220495895_5514142648231775459_n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:00:05 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/visszaesett-a-turizmus-ovatosabban-koltenek-a-vendegek/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/visszaesett-a-turizmus-ovatosabban-koltenek-a-vendegek/</source>
     </item>
     <item>
       <title>[Maszol] Tűz ütött ki a Párizshoz közeli Fontainebleau-i erdőben (VIDEÓ)</title>
@@ -3667,7 +3667,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">QprBhcrRyfocC4pHiVPt</guid>
       <enclosure url="https://egyketto.ro/img/tuz_repulo_seine_et_marne_prefektura_fb.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:01:00 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Tuz-utott-ki-a-Parizshoz-kozeli-Fontainebleau-i-erdoben-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kulfold/Tuz-utott-ki-a-Parizshoz-kozeli-Fontainebleau-i-erdoben-VIDEO</source>
     </item>
     <item>
       <title>[Maszol] Új dimenziót kap a kézdiszéki bringás közlekedés: alakul a sárfalvi és a szentléleki kerékpárút</title>
@@ -3685,7 +3685,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">ZC8HqBIyMFuV28h0cXHx</guid>
       <enclosure url="https://egyketto.ro/img/bicikliut1.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:10:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Uj-dimenziot-kap-a-kezdiszeki-bringas-kozlekedes-alakul-a-sarfalvi-es-a-szentleleki-kerekparut">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Uj-dimenziot-kap-a-kezdiszeki-bringas-kozlekedes-alakul-a-sarfalvi-es-a-szentleleki-kerekparut</source>
     </item>
     <item>
       <title>[Maszol] Grindeanu: Naponta több mint 70 vállalkozás megy csődbe</title>
@@ -3703,7 +3703,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">PWrjtmZFMdxIKqrRqiCM</guid>
       <enclosure url="https://egyketto.ro/img/grindeanu_fboldala.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:14:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Grindeanu-Naponta-tobb-mint-70-vallalkozas-megy-csodbe">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Grindeanu-Naponta-tobb-mint-70-vallalkozas-megy-csodbe</source>
     </item>
     <item>
       <title>[Maszol] Az állam látta kárát az adóemelésnek</title>
@@ -3721,7 +3721,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">YQdpvYyV31EobpKrGkl9</guid>
       <enclosure url="https://egyketto.ro/img/ivas.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:15:29 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Az-allam-latta-karat-az-adoemelesnek">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Az-allam-latta-karat-az-adoemelesnek</source>
     </item>
     <item>
       <title>[Maszol] Ez is történt: büntetőkkel dőlt el a Szuperkupa, halálos baleset a versenypályán, címvédés Wimbledonban</title>
@@ -3739,7 +3739,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">TjbaMNPO8kJH5utlL6Nv</guid>
       <enclosure url="https://egyketto.ro/img/universitatea_craiova_labdarugas_szuperkupa_260712_univcraiova.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:18:00 +0000</pubDate>
-      <source url="https://maszol.ro/sport/Ez-is-tortent-buntetokkel-dolt-el-a-Szuperkupa-halalos-baleset-a-versenypalyan-cimvedes-Wimbledonban">Maszol</source>
+      <source url="Maszol">https://maszol.ro/sport/Ez-is-tortent-buntetokkel-dolt-el-a-Szuperkupa-halalos-baleset-a-versenypalyan-cimvedes-Wimbledonban</source>
     </item>
     <item>
       <title>[Krónika] Meglepte a német nagykövetet a román identitást védők reakciója</title>
@@ -3757,7 +3757,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">8zlNl2DVwlRoVhHQCMyi</guid>
       <enclosure url="https://egyketto.ro/img/nn_moldova_zaszlo_123rf.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:22:00 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/meglepte-a-nemet-nagykovetet-a-roman-identitast-vedok-reakcioja">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/meglepte-a-nemet-nagykovetet-a-roman-identitast-vedok-reakcioja</source>
     </item>
     <item>
       <title>[Maszol] „A szálloda nem orvosi rendelő!” – Rendőrséghez fordultak a kolozsvári fogorvosok</title>
@@ -3775,7 +3775,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">v5vMhy9cCBOgFuSqdjKG</guid>
       <enclosure url="https://egyketto.ro/img/fogaszat_fogorvos_pexels.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:39:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/A-szalloda-nem-orvosi-rendelo-Rendorseghez-fordultak-a-kolozsvari-fogorvosok">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/A-szalloda-nem-orvosi-rendelo-Rendorseghez-fordultak-a-kolozsvari-fogorvosok</source>
     </item>
     <item>
       <title>[Erdély FM] Eredménytelenül zárultak a tárgyalások az államfő és a pártvezetők között</title>
@@ -3796,7 +3796,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <category>Hírek,Cotroceni-palota,tárgyalások</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:43:46 +0000</pubDate>
-      <source url="https://erdelyfm.ro/eredmenytelenul-zarultak-a-targyalasok-az-allamfo-es-a-partvezetok-kozott/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/eredmenytelenul-zarultak-a-targyalasok-az-allamfo-es-a-partvezetok-kozott/</source>
     </item>
     <item>
       <title>[Maszol] Középiskolai felvételi: utolsó pillanatban módosították a kódokat Maros megyében</title>
@@ -3814,7 +3814,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">rF3k3NB5W94gUn2iBEUo</guid>
       <enclosure url="https://egyketto.ro/img/pexels-this-and-no-internet-25-288559-31875851.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:57:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Kozepiskolai-felveteli-utolso-pillanatban-modositottak-a-kodokat-Maros-megyeben">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Kozepiskolai-felveteli-utolso-pillanatban-modositottak-a-kodokat-Maros-megyeben</source>
     </item>
     <item>
       <title>[Krónika] Feloldották a kényszerintézkedéseket a Bihar megyei illegális otthonok ügyében</title>
@@ -3829,7 +3829,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
 &lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/feloldottak-a-kenyszerintezkedeseket-a-bihar-megyei-illegalis-otthonok-ugyeben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">oF8qLRPjH3Qf4CvxRJtj</guid>
       <pubDate>Mon, 13 Jul 2026 10:57:22 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/feloldottak-a-kenyszerintezkedeseket-a-bihar-megyei-illegalis-otthonok-ugyeben">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/feloldottak-a-kenyszerintezkedeseket-a-bihar-megyei-illegalis-otthonok-ugyeben</source>
     </item>
     <item>
       <title>[Maszol] Vége a fapados trükköknek: változnak a repülési szabályok az utasok javára</title>
@@ -3847,7 +3847,7 @@ The post Visszaesett a turizmus, óvatosabban költenek a vendégek appeared fir
       <guid isPermaLink="false">0ent4idFZkEAztROzzuc</guid>
       <enclosure url="https://egyketto.ro/img/repulo2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 10:58:00 +0000</pubDate>
-      <source url="https://maszol.ro/eletmod/Vege-a-fapados-trukkoknek-valtoznak-a-repulesi-szabalyok-az-utasok-javara">Maszol</source>
+      <source url="Maszol">https://maszol.ro/eletmod/Vege-a-fapados-trukkoknek-valtoznak-a-repulesi-szabalyok-az-utasok-javara</source>
     </item>
     <item>
       <title>[Miközöd] Természetesek-e a természettudományi múzeumok?| Sunt naturale muzeele de științele naturii? Sub RO</title>
@@ -3884,7 +3884,7 @@ Proiect cultural co-finanțat de Administrația Fondului Cultural Național. Pro
       <category>video</category>
       <enclosure url="https://egyketto.ro/img/hqdefault.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:00:01 +0000</pubDate>
-      <source url="https://www.youtube.com/watch?v=0OPUe0rpNrs">Miközöd</source>
+      <source url="Miközöd">https://www.youtube.com/watch?v=0OPUe0rpNrs</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Gyerekszigetet alakítanak ki a marosvásárhelyi Víkendtelepen</title>
@@ -3904,7 +3904,7 @@ The post Gyerekszigetet alakítanak ki a marosvásárhelyi Víkendtelepen appear
       <guid isPermaLink="false">6vGeuQr6xP1U8aqO5xSq</guid>
       <enclosure url="https://egyketto.ro/img/733195143_1038576552019137_4120037461951388952_n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:07:24 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/gyerekszigetet-alakitanak-ki-a-marosvasarhelyi-vikendtelepen/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/gyerekszigetet-alakitanak-ki-a-marosvasarhelyi-vikendtelepen/</source>
     </item>
     <item>
       <title>[Maszol] Elemzés: arányaiban a legtöbb diák Kovászna és Maros megyékben nem jut el a képességvizsgára</title>
@@ -3922,7 +3922,7 @@ The post Gyerekszigetet alakítanak ki a marosvásárhelyi Víkendtelepen appear
       <guid isPermaLink="false">yscxvfOoDhkLt99dZR6r</guid>
       <enclosure url="https://egyketto.ro/img/iskola_adobe_stock_(1)_(1).webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:19:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elemzes-aranyaiban-a-legtobb-diak-Kovaszna-es-Maros-megyekben-nem-jut-ela-kepessegvizsgara">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elemzes-aranyaiban-a-legtobb-diak-Kovaszna-es-Maros-megyekben-nem-jut-ela-kepessegvizsgara</source>
     </item>
     <item>
       <title>[Maszol] Jogerős döntés Pașca-ügyben: feloldották hatósági felügyeletet</title>
@@ -3940,7 +3940,7 @@ The post Gyerekszigetet alakítanak ki a marosvásárhelyi Víkendtelepen appear
       <guid isPermaLink="false">zbPNICU4ZojYMwEZTSw4</guid>
       <enclosure url="https://egyketto.ro/img/viorel_pasca_260701_agerpres_2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:20:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Jogeros-dontes-Pasca-ugyben-feloldottak-hatosagi-felugyeletet">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Jogeros-dontes-Pasca-ugyben-feloldottak-hatosagi-felugyeletet</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Jelentősen gyengébb az idei turisztikai szezon a Szent Anna-tónál</title>
@@ -3960,7 +3960,7 @@ The post Jelentősen gyengébb az idei turisztikai szezon a Szent Anna-tónál a
       <guid isPermaLink="false">COi4LS2MfqBtW04wFtWv</guid>
       <enclosure url="https://egyketto.ro/img/480889239_1066591455514866_8315195000023050796_n-e1783941772307.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:22:58 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/jelentosen-gyengebb-az-idei-turisztikai-szezon-a-szent-anna-tonal/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/jelentosen-gyengebb-az-idei-turisztikai-szezon-a-szent-anna-tonal/</source>
     </item>
     <item>
       <title>[Maszol] Kicsik a kamatok, mélyponton van a Fidelis kötvények iránti kereslet</title>
@@ -3978,7 +3978,7 @@ The post Jelentősen gyengébb az idei turisztikai szezon a Szent Anna-tónál a
       <guid isPermaLink="false">BXrPdBMS7rXJAl8GJoyq</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_titluri-fidelis-16759820-800x479.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:23:00 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/Kicsik-a-kamatok-melyponton-van-a-Fidelis-kotvenyek-iranti-kereslet">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/Kicsik-a-kamatok-melyponton-van-a-Fidelis-kotvenyek-iranti-kereslet</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Több fontos beruházásról döntöttek Székelyudvarhelyen</title>
@@ -3998,7 +3998,7 @@ The post Több fontos beruházásról döntöttek Székelyudvarhelyen appeared f
       <guid isPermaLink="false">UhMJx6YbfblJZ680G723</guid>
       <enclosure url="https://egyketto.ro/img/screenshot-2026-07-13-at-14.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:27:23 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/tobb-fontos-beruhazasrol-dontottek-szekelyudvarhelyen/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/tobb-fontos-beruhazasrol-dontottek-szekelyudvarhelyen/</source>
     </item>
     <item>
       <title>[Transtelex] Továbbra sincs megoldás a válságra, lehet, hogy júliusban sem lesz új kormánya Romániának</title>
@@ -4019,7 +4019,7 @@ The post Több fontos beruházásról döntöttek Székelyudvarhelyen appeared f
       <category>Közélet</category>
       <enclosure url="https://egyketto.ro/img/1783941517-temp-pqpe3nlqjahg9cedoco_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:29:06 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/13/nicusor-dan-kormanykoalicio-targyalas-ismet">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/kozelet/2026/07/13/nicusor-dan-kormanykoalicio-targyalas-ismet</source>
     </item>
     <item>
       <title>[Maszol] A Maros Megyei Tanács közleménye (X)</title>
@@ -4037,7 +4037,7 @@ The post Több fontos beruházásról döntöttek Székelyudvarhelyen appeared f
       <guid isPermaLink="false">T5nObd7izdIfZIKPtYVX</guid>
       <enclosure url="https://egyketto.ro/img/bss_5743.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:43:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/A-Maros-Megyei-Tanacs-kozlemenye-X-12">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/A-Maros-Megyei-Tanacs-kozlemenye-X-12</source>
     </item>
     <item>
       <title>[Krónika] Megvédeni a gyermekkort: Brüsszel kész az életkori korlátozásokra</title>
@@ -4055,7 +4055,7 @@ The post Több fontos beruházásról döntöttek Székelyudvarhelyen appeared f
       <guid isPermaLink="false">MSNbtGCM845UWbvvM72A</guid>
       <enclosure url="https://egyketto.ro/img/nn_net_tinedzser.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:47:57 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/megvedeni-a-gyermekkort-brusszel-kesz-az-eletkori-korlatozasokra">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/megvedeni-a-gyermekkort-brusszel-kesz-az-eletkori-korlatozasokra</source>
     </item>
     <item>
       <title>[Maszol] Nemzetközi sikertörténet lett az oltszemi lovas fogathajtóverseny</title>
@@ -4073,7 +4073,7 @@ The post Több fontos beruházásról döntöttek Székelyudvarhelyen appeared f
       <guid isPermaLink="false">NEjLdEgMP02tijKcfugH</guid>
       <enclosure url="https://egyketto.ro/img/20260713_foto_csulakzoltan_fogathajtoverseny4.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:54:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny</source>
     </item>
     <item>
       <title>[Kolozsvári Rádio] Kilátástalan a romániai juhtenyésztők helyzete</title>
@@ -4096,7 +4096,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <category>Napirend,Vezető,juhtenyésztés</category>
       <enclosure url="https://egyketto.ro/img/sam-carter-ghoiyov2tsq-unsplash-300x225.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:54:45 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/13/kilatastalan-a-romaniai-juhtenyesztok-helyzete/">Kolozsvári Rádio</source>
+      <source url="Kolozsvári Rádio">https://www.kolozsvariradio.ro/2026/07/13/kilatastalan-a-romaniai-juhtenyesztok-helyzete/</source>
     </item>
     <item>
       <title>[Székelyhon] Nyári meleg, viharokkal tarkítva – itt a kéthetes előrejelzés</title>
@@ -4114,7 +4114,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">AxoW2lSVjmQ5oe2VavTT</guid>
       <enclosure url="https://egyketto.ro/img/nn_viharfelho1.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:55:47 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/nyari-meleg-viharokkal-tarkitva-n-itt-a-kethetes-elorejelzes">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/nyari-meleg-viharokkal-tarkitva-n-itt-a-kethetes-elorejelzes</source>
     </item>
     <item>
       <title>[Székelyhon] Gulyás Gergely lemond a Fidesz frakcióvezetői tisztségéről</title>
@@ -4132,7 +4132,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">GloXShc6RiIipcPe2rzg</guid>
       <enclosure url="https://egyketto.ro/img/nn_gulyas_gergely_frakciovezeto_fidesz_2026.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 11:56:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/gulyas-gergely-lemond-a-fidesz-frakciovezetoi-tisztsegerol">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/gulyas-gergely-lemond-a-fidesz-frakciovezetoi-tisztsegerol</source>
     </item>
     <item>
       <title>[Maszol] Zivataros két hét jöhet, de a végén kánikula vár</title>
@@ -4150,7 +4150,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">MH1L2yQrvZhwFOsmGp2U</guid>
       <enclosure url="https://egyketto.ro/img/pexels-egor-kunovsky-1199972-11569723.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Zivataros-ket-het-johet-de-a-vegen-kanikula-var">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Zivataros-ket-het-johet-de-a-vegen-kanikula-var</source>
     </item>
     <item>
       <title>[Székelyhon] Újabb fontos lépés történt Marosvásárhely körgyűrűjének megvalósítása felé</title>
@@ -4168,7 +4168,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">TWkQXExZLRJTFoktCGeq</guid>
       <enclosure url="https://egyketto.ro/img/nn_ms-juventus-korgyuru.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ujabb-fontos-lepes-tortent-marosvasarhely-korgyurujenek-megvalositasa-fele">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ujabb-fontos-lepes-tortent-marosvasarhely-korgyurujenek-megvalositasa-fele</source>
     </item>
     <item>
       <title>[Maszol] Magyar politikai vihar: lemondott Gulyás Gergely, alkotmányt módosít a Tisza</title>
@@ -4186,7 +4186,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">lp8ug1D7HiPXPfs15KfG</guid>
       <enclosure url="https://egyketto.ro/img/gulyas_gergely_fboldala.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:10:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Magyar-politikai-vihar-lemondott-Gulyas-Gergely-alkotmanyt-modosit-a-Tisza">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Magyar-politikai-vihar-lemondott-Gulyas-Gergely-alkotmanyt-modosit-a-Tisza</source>
     </item>
     <item>
       <title>[Transtelex] Bukarestben már okostelefon nélkül is lehet Boltot rendelni</title>
@@ -4207,7 +4207,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <category>Pénzcsinálók</category>
       <enclosure url="https://egyketto.ro/img/1783944488-temp-uv6gcp7sdsvf1jhdokb_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:11:31 +0000</pubDate>
-      <source url="https://transtelex.ro/penzcsinalok/2026/07/13/bolt-okostelefon-nelkul-szolgaltatas-romania">Transtelex</source>
+      <source url="Transtelex">https://transtelex.ro/penzcsinalok/2026/07/13/bolt-okostelefon-nelkul-szolgaltatas-romania</source>
     </item>
     <item>
       <title>[Székelyhon] Elkezdődik a Săvinești utca felújítása Marosvásárhelyen</title>
@@ -4225,7 +4225,7 @@ Articolul Kilátástalan a romániai juhtenyésztők helyzete apare prima dată 
       <guid isPermaLink="false">N7eGTFMlmciVyZBd6dIu</guid>
       <enclosure url="https://egyketto.ro/img/nn_varoshaza-foter-01-hv.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:15:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/elkezdodik-a-svineti-utca-felujitasa-marosvasarhelyen">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/elkezdodik-a-svineti-utca-felujitasa-marosvasarhelyen</source>
     </item>
     <item>
       <title>[Kolozsvári Rádio] Kelemen Hunor: fegyverszüneti kormány kellene</title>
@@ -4248,7 +4248,7 @@ Articolul Kelemen Hunor: fegyverszüneti kormány kellene apare prima dată în 
       <category>Napirend,Vezető,Kelemen Hunor,kormányalakítás</category>
       <enclosure url="https://egyketto.ro/img/730530345_4571355739857152_7664828350296675275_n-300x200.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:16:44 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/13/kelemen-hunor-fegyverszuneti-kormany-kellene/">Kolozsvári Rádio</source>
+      <source url="Kolozsvári Rádio">https://www.kolozsvariradio.ro/2026/07/13/kelemen-hunor-fegyverszuneti-kormany-kellene/</source>
     </item>
     <item>
       <title>[Krónika] Lemond a Fidesz-frakció vezetéséről Gulyás Gergely az alkotmánymódosítás elleni tiltakozásul</title>
@@ -4266,7 +4266,7 @@ Articolul Kelemen Hunor: fegyverszüneti kormány kellene apare prima dată în 
       <guid isPermaLink="false">N4tHIO9K8JLuP07p3Cqg</guid>
       <enclosure url="https://egyketto.ro/img/nn_gulyas-gergely.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:17:00 +0000</pubDate>
-      <source url="https://kronika.ro/kulfold/lemond-a-fidesz-frakcio-vezeteserol-gulyas-gergely-az-alkotmanymodositas-elleni-tiltakozasul">Krónika</source>
+      <source url="Krónika">https://kronika.ro/kulfold/lemond-a-fidesz-frakcio-vezeteserol-gulyas-gergely-az-alkotmanymodositas-elleni-tiltakozasul</source>
     </item>
     <item>
       <title>[Maszol] Nézeteltérések Sepsiszentgyörgyön: temetőrendezés vagy túlzott bokormetszés</title>
@@ -4284,7 +4284,7 @@ Articolul Kelemen Hunor: fegyverszüneti kormány kellene apare prima dată în 
       <guid isPermaLink="false">TEjT10ZqTw2hBBDAMmZn</guid>
       <enclosure url="https://egyketto.ro/img/20270713_foto_urbanlocato_sepsiszentgyorgyi_koztemeto.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:19:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Nezetelteresek-Sepsiszentgyorgyon-temetorendezes-vagy-tulzott-bokormetszes">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Nezetelteresek-Sepsiszentgyorgyon-temetorendezes-vagy-tulzott-bokormetszes</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Megszabadult a hatósági felügyelettől Viorel Pașca</title>
@@ -4304,7 +4304,7 @@ The post Megszabadult a hatósági felügyelettől Viorel Pașca appeared first 
       <guid isPermaLink="false">TiZulF4fCBCH8UthlSAN</guid>
       <enclosure url="https://egyketto.ro/img/agerpres_19455371.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:22:46 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/megszabadult-a-hatosagi-felugyelettol-viorel-pasca/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/megszabadult-a-hatosagi-felugyelettol-viorel-pasca/</source>
     </item>
     <item>
       <title>[Erdély FM] Románia határozottan elítéli az Oroszország által irányított csoportok ellenséges kibertevékenységeit</title>
@@ -4325,7 +4325,7 @@ The post Megszabadult a hatósági felügyelettől Viorel Pașca appeared first 
       <category>Hírek,kiberbiztonság,Nicușor Dan államfő</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:23:57 +0000</pubDate>
-      <source url="https://erdelyfm.ro/romania-hatarozottan-eliteli-az-oroszorszag-altal-iranyitott-csoportok-ellenseges-kibertevekenysegeit/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/romania-hatarozottan-eliteli-az-oroszorszag-altal-iranyitott-csoportok-ellenseges-kibertevekenysegeit/</source>
     </item>
     <item>
       <title>[Székelyhon] Újabb kudarc: eredménytelenül zárultak a kormányalakítási egyeztetések</title>
@@ -4343,7 +4343,7 @@ The post Megszabadult a hatósági felügyelettől Viorel Pașca appeared first 
       <guid isPermaLink="false">THoTtgelGDjTuSNpVDys</guid>
       <enclosure url="https://egyketto.ro/img/nn_kormany_miniszter_illusztracio.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:28:31 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/ujabb-kudarc-eredmenytelenul-zarultak-a-kormanyalakitasi-egyeztetesek">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/ujabb-kudarc-eredmenytelenul-zarultak-a-kormanyalakitasi-egyeztetesek</source>
     </item>
     <item>
       <title>[Maszol] Elkezdődött a felvételi a BBTE-n</title>
@@ -4361,7 +4361,7 @@ The post Megszabadult a hatósági felügyelettől Viorel Pașca appeared first 
       <guid isPermaLink="false">cZ6EBuCDPvWPxB2Atdc4</guid>
       <enclosure url="https://egyketto.ro/img/bbte_fb.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:35:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Elkezdodott-a-felveteli-a-BBTE-n">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Elkezdodott-a-felveteli-a-BBTE-n</source>
     </item>
     <item>
       <title>[Maszol] A metró miatt fúrnak Kolozsváron</title>
@@ -4379,7 +4379,7 @@ The post Megszabadult a hatósági felügyelettől Viorel Pașca appeared first 
       <guid isPermaLink="false">wVf9wZoq7MD1xqSmT42S</guid>
       <enclosure url="https://egyketto.ro/img/furas_silye_lorand.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:36:29 +0000</pubDate>
-      <source url="https://maszol.ro/gazdasag/A-metro-miatt-furnak-Kolozsvaron">Maszol</source>
+      <source url="Maszol">https://maszol.ro/gazdasag/A-metro-miatt-furnak-Kolozsvaron</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Nem nyugszik az időjárás: viharokkal érkezik a következő két hét</title>
@@ -4399,7 +4399,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">g7hOlrNATjLPQwDbY8l9</guid>
       <enclosure url="https://egyketto.ro/img/pexels-roacunha-2531709-scaled.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:37:54 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/nem-nyugszik-az-idojaras-viharokkal-erkezik-a-kovetkezo-ket-het/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/nem-nyugszik-az-idojaras-viharokkal-erkezik-a-kovetkezo-ket-het/</source>
     </item>
     <item>
       <title>[Maszol] Argentin zenekar lett a közönség kedvence a szatmári Utcazene Fesztiválon (VIDEÓ)</title>
@@ -4417,7 +4417,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">MclX1Tf5j7CNPEuqxreQ</guid>
       <enclosure url="https://egyketto.ro/img/20260710-czl_0379.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:41:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Artgentin-zenekar-lett-a-kozonseg-kedvence-a-szatmari-Utcazene-Fesztivalon-VIDEO">Maszol</source>
+      <source url="Maszol">https://maszol.ro/kultura/Artgentin-zenekar-lett-a-kozonseg-kedvence-a-szatmari-Utcazene-Fesztivalon-VIDEO</source>
     </item>
     <item>
       <title>[Székelyhon] Új látogatási rend a Szent Anna-tónál</title>
@@ -4435,7 +4435,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">npThl8tTyXH0eDhZJ2Hz</guid>
       <enclosure url="https://egyketto.ro/img/nn_szenta-26-06-01-2.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:41:59 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/uj-latogatasi-rend-a-szent-anna-tonal">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/uj-latogatasi-rend-a-szent-anna-tonal</source>
     </item>
     <item>
       <title>[Maszol] Ősszel megnyílhat a felújított Petőfi Emlékház Fehéregyházán</title>
@@ -4453,7 +4453,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">UZ36jpnZWnZcRwgxjiHH</guid>
       <enclosure url="https://egyketto.ro/img/tarlat.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:47:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Osszel-megnyilhat-a-felujitott-Petofi-Emlekhaz-Feheregyhazan">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Osszel-megnyilhat-a-felujitott-Petofi-Emlekhaz-Feheregyhazan</source>
     </item>
     <item>
       <title>[Székelyhon] Több évtizedre nyúlhat vissza a Szejkefürdői gázszivárgás rejtélye</title>
@@ -4471,7 +4471,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">3saCIAydr3oGAtrnGZdE</guid>
       <enclosure url="https://egyketto.ro/img/nn_szejke-gazfeltores-jul26-li-11.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 12:54:01 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/tobb-evtizedre-nyulhat-vissza-a-szejkefurdoi-gazszivargas-rejtelye">Székelyhon</source>
+      <source url="Székelyhon">https://szekelyhon.ro/aktualis/udvarhelyszek/tobb-evtizedre-nyulhat-vissza-a-szejkefurdoi-gazszivargas-rejtelye</source>
     </item>
     <item>
       <title>[Krónika] Ettől a héttől megváltozik a látogatási rendszer a Szent Anna-tónál</title>
@@ -4489,7 +4489,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">bX5CnVbtuAEGEPM3d4Ye</guid>
       <enclosure url="https://egyketto.ro/img/nn_szenta-26-06-01-5.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:03:41 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/ettol-a-hettol-megvaltozik-a-latogatasi-rendszer-a-szent-anna-tonal">Krónika</source>
+      <source url="Krónika">https://kronika.ro/erdelyi-hirek/ettol-a-hettol-megvaltozik-a-latogatasi-rendszer-a-szent-anna-tonal</source>
     </item>
     <item>
       <title>[Maszol] Megváltozott a Szent Anna-tó látogatási rendje: íme a legfontosabb újdonságok</title>
@@ -4507,7 +4507,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">ENdOaW6e9el8zmAQ7xqJ</guid>
       <enclosure url="https://egyketto.ro/img/481074465_1066591548848190_8012150552140897443_n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:05:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Megvaltozott-a-Szent-Anna-to-latogatasi-rendje-ime-a-legfontosabb-ujdonsagok">Maszol</source>
+      <source url="Maszol">https://maszol.ro/belfold/Megvaltozott-a-Szent-Anna-to-latogatasi-rendje-ime-a-legfontosabb-ujdonsagok</source>
     </item>
     <item>
       <title>[Maszol] A nagykárolyiaknak üzent Kovács István</title>
@@ -4525,7 +4525,25 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <guid isPermaLink="false">8FmbYRdH2GwiJw0Tc0AP</guid>
       <enclosure url="https://egyketto.ro/img/kovacs_istvan_labdarugas_1000dikvbmeccs_vilagbajnoksag_260620_agerpres_epa.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:16:00 +0000</pubDate>
-      <source url="https://maszol.ro/sport/A-nagykarolyiaknak-uzent-Kovacs-Istvan">Maszol</source>
+      <source url="Maszol">https://maszol.ro/sport/A-nagykarolyiaknak-uzent-Kovacs-Istvan</source>
+    </item>
+    <item>
+      <title>[Maszol] Otthoni ápolás: egyre több Hargita megyei beteg kap szakellátást saját lakásában</title>
+      <link>https://maszol.ro/belfold/Otthoni-apolas-egyre-tobb-Hargita-megyei-beteg-kap-szakellatast-sajat-lakasaban</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/idosgondozas_2_foto_pexels.webp" alt="Otthoni ápolás: egyre több Hargita megyei beteg kap szakellátást saját lakásában" /&gt;&lt;/p&gt;
+&lt;p&gt;Az elmúlt években látványosan nőtt az otthoni egészségügyi ellátás szerepe Hargita megyében.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Otthoni-apolas-egyre-tobb-Hargita-megyei-beteg-kap-szakellatast-sajat-lakasaban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/idosgondozas_2_foto_pexels.webp" alt="Otthoni ápolás: egyre több Hargita megyei beteg kap szakellátást saját lakásában" /&gt;&lt;/p&gt;
+&lt;p&gt;Az elmúlt években látványosan nőtt az otthoni egészségügyi ellátás szerepe Hargita megyében.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Otthoni-apolas-egyre-tobb-Hargita-megyei-beteg-kap-szakellatast-sajat-lakasaban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">2cFx2GKVG0PlfZXEjUsc</guid>
+      <enclosure url="https://egyketto.ro/img/idosgondozas_2_foto_pexels.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 13 Jul 2026 13:18:00 +0000</pubDate>
+      <source url="Maszol">https://maszol.ro/belfold/Otthoni-apolas-egyre-tobb-Hargita-megyei-beteg-kap-szakellatast-sajat-lakasaban</source>
     </item>
     <item>
       <title>[Erdély FM] Megkezdődött ma a felvételi időszak a Babeș–Bolyai Tudományegyetemen</title>
@@ -4546,7 +4564,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <category>Hírek,Babeș-Bolyai Tudományegyetem,felvételi</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:33:04 +0000</pubDate>
-      <source url="https://erdelyfm.ro/megkezdodott-ma-a-felveteli-idoszak-a-babes-bolyai-tudomanyegyetemen/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/megkezdodott-ma-a-felveteli-idoszak-a-babes-bolyai-tudomanyegyetemen/</source>
     </item>
     <item>
       <title>[Erdély FM] Viharok várhatók naponta a következő két hétben is</title>
@@ -4567,7 +4585,7 @@ The post Nem nyugszik az időjárás: viharokkal érkezik a következő két hé
       <category>Hírek,az Országos Meteorológiai Szolgálat,időjárás</category>
       <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:34:03 +0000</pubDate>
-      <source url="https://erdelyfm.ro/viharok-varhatok-naponta-a-kovetkezo-ket-hetben-is/">Erdély FM</source>
+      <source url="Erdély FM">https://erdelyfm.ro/viharok-varhatok-naponta-a-kovetkezo-ket-hetben-is/</source>
     </item>
     <item>
       <title>[Marosvásárhelyi Rádio] Az Alaptörvény 17. módosításáról dönt ma a magyar Országgyűlés</title>
@@ -4587,7 +4605,25 @@ The post Az Alaptörvény 17. módosításáról dönt ma a magyar Országgyűl�
       <guid isPermaLink="false">OWNrUVU6e8USMNwBe1zF</guid>
       <enclosure url="https://egyketto.ro/img/de98d706657cde2f7d091122ee548c6dbce3f61f_fhd_1920_w3h2-e1783949863719.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 13 Jul 2026 13:41:10 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/az-alaptorveny-17-modositasarol-dont-ma-a-magyar-orszaggyules/">Marosvásárhelyi Rádio</source>
+      <source url="Marosvásárhelyi Rádio">https://www.marosvasarhelyiradio.ro/hirek/az-alaptorveny-17-modositasarol-dont-ma-a-magyar-orszaggyules/</source>
+    </item>
+    <item>
+      <title>[Maszol] Motorbaleset Kolozs megyében: súlyosan megsérült egy 27 éves fiatalember</title>
+      <link>https://maszol.ro/belfold/Motorbaleset-Kolozs-megyeben-sulyosan-megserult-egy-27-eves-fiatalember</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/baleset-kolozs.webp" alt="Motorbaleset Kolozs megyében: súlyosan megsérült egy 27 éves fiatalember" /&gt;&lt;/p&gt;
+&lt;p&gt;Súlyos baleset történt hétfő délután a Kolozs megyei Szelicse (Sălicea) település közelében: egy kisteherautó és egy motorkerékpár ütközött össze.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Motorbaleset-Kolozs-megyeben-sulyosan-megserult-egy-27-eves-fiatalember"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/baleset-kolozs.webp" alt="Motorbaleset Kolozs megyében: súlyosan megsérült egy 27 éves fiatalember" /&gt;&lt;/p&gt;
+&lt;p&gt;Súlyos baleset történt hétfő délután a Kolozs megyei Szelicse (Sălicea) település közelében: egy kisteherautó és egy motorkerékpár ütközött össze.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Motorbaleset-Kolozs-megyeben-sulyosan-megserult-egy-27-eves-fiatalember"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">DsIUadyTGWOH1sbsiUZZ</guid>
+      <enclosure url="https://egyketto.ro/img/baleset-kolozs.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 13 Jul 2026 13:48:00 +0000</pubDate>
+      <source url="Maszol">https://maszol.ro/belfold/Motorbaleset-Kolozs-megyeben-sulyosan-megserult-egy-27-eves-fiatalember</source>
     </item>
   </channel>
 </rss>

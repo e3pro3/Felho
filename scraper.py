@@ -134,7 +134,7 @@ for article in recent:
         entry.category(term=category)
 
     if source:
-    entry.author(name=source)
+        entry.author(name=source)
 
     html = []
 

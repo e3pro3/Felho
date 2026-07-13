@@ -213,7 +213,7 @@ fg.updated(
 # Generator
 #
 fg.generator(
-    "EgyKettő RSS Generator"
+    "Erdély RSS Generator"
 )
 
 #

@@ -93,8 +93,8 @@ logging.info(
 fg = FeedGenerator()
 
 fg.id(SITE_URL)
-fg.title("RSS")
-fg.description("Erdélyi hírek")
+fg.title("Erdélyi hírek")
+fg.description("RSS")
 fg.language("hu")
 
 fg.link(

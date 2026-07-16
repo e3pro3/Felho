@@ -1,414 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>RSS</title>
+    <title>e-News</title>
     <link>https://egyketto.ro/feed.xml</link>
-    <description>RSS</description>
+    <description>Erdélyi Hírek</description>
     <atom:link href="https://egyketto.ro/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:10:51 +0000</lastBuildDate>
-    <item>
-      <title>[Székelyhon] Sürgősen véradókat keresnek egy gyergyószentmiklósi kórházban kezelt beteg számára</title>
-      <link>https://szekelyhon.ro/aktualis/gyergyoszek/surgosen-veradokat-keresnek-egy-gyergyoszentmiklosi-korhazban-kezelt-beteg-szamara</link>
-      <description>&lt;p&gt;Sürgős véradásra kérik a lakosságot egy gyergyószentmiklósi kórházban kezelt beteg megsegítése érdekében.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyergyoszek/surgosen-veradokat-keresnek-egy-gyergyoszentmiklosi-korhazban-kezelt-beteg-szamara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Sürgős véradásra kérik a lakosságot egy gyergyószentmiklósi kórházban kezelt beteg megsegítése érdekében.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyergyoszek/surgosen-veradokat-keresnek-egy-gyergyoszentmiklosi-korhazban-kezelt-beteg-szamara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">X3I1E0mCywHw74DwUH5O</guid>
-      <pubDate>Tue, 14 Jul 2026 10:20:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/gyergyoszek/surgosen-veradokat-keresnek-egy-gyergyoszentmiklosi-korhazban-kezelt-beteg-szamara">Székelyhon</source>
-    </item>
-    <item>
-      <title>[Maszol] Csaló SMS-ek terjednek: gyorshajtási bírsággal fenyegetik a sofőröket</title>
-      <link>https://maszol.ro/belfold/Csalo-SMS-ek-terjednek-gyorshajtasi-birsaggal-fenyegetik-a-soforoket</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/sms_auto_sofor_pexels.webp" alt="Csaló SMS-ek terjednek: gyorshajtási bírsággal fenyegetik a sofőröket" /&gt;&lt;/p&gt;
-&lt;p&gt;A közlekedési minisztérium nevével visszaélve küldenek adathalász SMS-eket a gyanútlan autósoknak.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Csalo-SMS-ek-terjednek-gyorshajtasi-birsaggal-fenyegetik-a-soforoket"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/sms_auto_sofor_pexels.webp" alt="Csaló SMS-ek terjednek: gyorshajtási bírsággal fenyegetik a sofőröket" /&gt;&lt;/p&gt;
-&lt;p&gt;A közlekedési minisztérium nevével visszaélve küldenek adathalász SMS-eket a gyanútlan autósoknak.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Csalo-SMS-ek-terjednek-gyorshajtasi-birsaggal-fenyegetik-a-soforoket"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">T9YuURuHePrhIwBtdE57</guid>
-      <enclosure url="https://egyketto.ro/img/sms_auto_sofor_pexels.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:24:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Csalo-SMS-ek-terjednek-gyorshajtasi-birsaggal-fenyegetik-a-soforoket">Maszol</source>
-    </item>
-    <item>
-      <title>[Kolozsvári Rádio] Felüljünk-e?</title>
-      <link>https://www.kolozsvariradio.ro/2026/07/14/feluljunk-e/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/knp-racz-eva-300x169.webp" alt="Felüljünk-e?" /&gt;&lt;/p&gt;
-&lt;p&gt;Az ügyvivő szállításügyi miniszter ugyanis eddig nem tudta, hogy nem működik a klíma-berendezés a vonatokon. Ő úgy tudta, az kötelező alapkövetelmény – mondta. A nyelvtan szabályai szerint, az előző mondat elején nagy ő lett a miniszter, pedig alapjában véve csak egy egyszerű ember volna, persze, a világról, annak működéséről többet tudó, a megoldásokra jobban felkészült […]
-Articolul Felüljünk-e? apare prima dată în Kolozsvári Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Kolozsvári Rádio&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kanapéfilozófia,Kanapéfilozófia - Rácz Éva&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.kolozsvariradio.ro/2026/07/14/feluljunk-e/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/knp-racz-eva-300x169.webp" alt="Felüljünk-e?" /&gt;&lt;/p&gt;
-&lt;p&gt;Az ügyvivő szállításügyi miniszter ugyanis eddig nem tudta, hogy nem működik a klíma-berendezés a vonatokon. Ő úgy tudta, az kötelező alapkövetelmény – mondta. A nyelvtan szabályai szerint, az előző mondat elején nagy ő lett a miniszter, pedig alapjában véve csak egy egyszerű ember volna, persze, a világról, annak működéséről többet tudó, a megoldásokra jobban felkészült […]
-Articolul Felüljünk-e? apare prima dată în Kolozsvári Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Kolozsvári Rádio&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kanapéfilozófia,Kanapéfilozófia - Rácz Éva&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.kolozsvariradio.ro/2026/07/14/feluljunk-e/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">PGfnb6AMqv2T7rWrcF26</guid>
-      <category>Kanapéfilozófia,Kanapéfilozófia - Rácz Éva</category>
-      <enclosure url="https://egyketto.ro/img/knp-racz-eva-300x169.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:27:27 +0000</pubDate>
-      <source url="https://www.kolozsvariradio.ro/2026/07/14/feluljunk-e/">Kolozsvári Rádio</source>
-    </item>
-    <item>
-      <title>[Marosvásárhelyi Rádio] Felvételit hirdet a Marosvásárhelyi Művészeti Egyetem</title>
-      <link>https://www.marosvasarhelyiradio.ro/hirek/felvetelit-hirdet-a-marosvasarhelyi-muveszeti-egyetem-4/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/555062139_1363470479115547_724582093125552073_n1.webp" alt="Felvételit hirdet a Marosvásárhelyi Művészeti Egyetem" /&gt;&lt;/p&gt;
-&lt;p&gt;Ezen a héten zajlik a beiratkozás felvételire a Marosvásárhelyi Művészeti Egyetemen alap- és magiszteri képzésekre, a felvételi július 20-24. között lesz. Kós Annát, a Művészeti Egyetem magyar művészeti karának dékánját kérdeztük arról, hogy melyek a megpályázható szakok és hogyan zajlik a felvételi folyamata. További információk az egyetem honlapján, illetve az egyetem hirdető felületein találhatók: www.szini.ro […]
-The post Felvételit hirdet a Marosvásárhelyi Művészeti Egyetem appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/felvetelit-hirdet-a-marosvasarhelyi-muveszeti-egyetem-4/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/555062139_1363470479115547_724582093125552073_n1.webp" alt="Felvételit hirdet a Marosvásárhelyi Művészeti Egyetem" /&gt;&lt;/p&gt;
-&lt;p&gt;Ezen a héten zajlik a beiratkozás felvételire a Marosvásárhelyi Művészeti Egyetemen alap- és magiszteri képzésekre, a felvételi július 20-24. között lesz. Kós Annát, a Művészeti Egyetem magyar művészeti karának dékánját kérdeztük arról, hogy melyek a megpályázható szakok és hogyan zajlik a felvételi folyamata. További információk az egyetem honlapján, illetve az egyetem hirdető felületein találhatók: www.szini.ro […]
-The post Felvételit hirdet a Marosvásárhelyi Művészeti Egyetem appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/felvetelit-hirdet-a-marosvasarhelyi-muveszeti-egyetem-4/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">cQyLIhBRfaU9aafD0xpC</guid>
-      <enclosure url="https://egyketto.ro/img/555062139_1363470479115547_724582093125552073_n1.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:31:29 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/felvetelit-hirdet-a-marosvasarhelyi-muveszeti-egyetem-4/">Marosvásárhelyi Rádio</source>
-    </item>
-    <item>
-      <title>[Transtelex] Picasso-kiállítással nyílik meg a temesvári Art Encounters új központja</title>
-      <link>https://transtelex.ro/kultura/2026/07/14/picasso-kiallitas-temesvar-art-encounters</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784025105-temp-0mqc5176jhb89mkpgcl_cimlap-normal.webp" alt="Picasso-kiállítással nyílik meg a temesvári Art Encounters új központja" /&gt;&lt;/p&gt;
-&lt;p&gt;A kiállítás kurátora Jean-Louis Andral, az antibes-i Musée Picasso igazgatója.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kultúra&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kultura/2026/07/14/picasso-kiallitas-temesvar-art-encounters"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784025105-temp-0mqc5176jhb89mkpgcl_cimlap-normal.webp" alt="Picasso-kiállítással nyílik meg a temesvári Art Encounters új központja" /&gt;&lt;/p&gt;
-&lt;p&gt;A kiállítás kurátora Jean-Louis Andral, az antibes-i Musée Picasso igazgatója.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kultúra&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kultura/2026/07/14/picasso-kiallitas-temesvar-art-encounters"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">rRaqSTAMhsViyW1LGnJM</guid>
-      <category>Kultúra</category>
-      <enclosure url="https://egyketto.ro/img/1784025105-temp-0mqc5176jhb89mkpgcl_cimlap-normal.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:32:11 +0000</pubDate>
-      <source url="https://transtelex.ro/kultura/2026/07/14/picasso-kiallitas-temesvar-art-encounters">Transtelex</source>
-    </item>
-    <item>
-      <title>[Maszol] Otthonai újranyitását kéri Viorel Pașca</title>
-      <link>https://maszol.ro/belfold/Otthonai-ujranyitasat-keri-Viorel-Pasca</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dumbrava_pasca_fb_2.webp" alt="Otthonai újranyitását kéri Viorel Pașca" /&gt;&lt;/p&gt;
-&lt;p&gt;Nyílt levelében közölte: törvényes keretek közé terelné tevékenységét.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Otthonai-ujranyitasat-keri-Viorel-Pasca"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dumbrava_pasca_fb_2.webp" alt="Otthonai újranyitását kéri Viorel Pașca" /&gt;&lt;/p&gt;
-&lt;p&gt;Nyílt levelében közölte: törvényes keretek közé terelné tevékenységét.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Otthonai-ujranyitasat-keri-Viorel-Pasca"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">xQhSRXEenjNmygikGLyl</guid>
-      <enclosure url="https://egyketto.ro/img/dumbrava_pasca_fb_2.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:43:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Otthonai-ujranyitasat-keri-Viorel-Pasca">Maszol</source>
-    </item>
-    <item>
-      <title>[Maszol] Új választások idén ősszel vagy jövő tavasszal?</title>
-      <link>https://maszol.ro/belfold/Uj-valasztasok-iden-osszel-vagy-jovo-tavasszal</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bolojan_fboldal.webp" alt="Új választások idén ősszel vagy jövő tavasszal?" /&gt;&lt;/p&gt;
-&lt;p&gt;Bolojan kifejtette, ha nem lehet feloldani a politikai patthelyzetet, az egyetlen megoldást az előre hozott választások megszervezése jelenti.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Uj-valasztasok-iden-osszel-vagy-jovo-tavasszal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bolojan_fboldal.webp" alt="Új választások idén ősszel vagy jövő tavasszal?" /&gt;&lt;/p&gt;
-&lt;p&gt;Bolojan kifejtette, ha nem lehet feloldani a politikai patthelyzetet, az egyetlen megoldást az előre hozott választások megszervezése jelenti.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Uj-valasztasok-iden-osszel-vagy-jovo-tavasszal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">Vssuony4JG5OkvBOgaYy</guid>
-      <enclosure url="https://egyketto.ro/img/bolojan_fboldal.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:44:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Uj-valasztasok-iden-osszel-vagy-jovo-tavasszal">Maszol</source>
-    </item>
-    <item>
-      <title>[Maszol] Az RMDSZ nem támogatja az előrehozott választásokat –„Sebezhetővé válna az ország”</title>
-      <link>https://maszol.ro/belfold/Az-RMDSZ-nem-tamogatja-az-elorehozott-valasztasokat-Sebezhetove-valna-az-orszag</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/parlament_koltsegvetes_agerpres2.webp" alt="Az RMDSZ nem támogatja az előrehozott választásokat –„Sebezhetővé válna az ország”" /&gt;&lt;/p&gt;
-&lt;p&gt;Az RMDSZ szenátusi frakcióvezetője, Turos Lóránd kedden a Digi24 hírtelevíziónak nyilatkozva kijelentette: az előrehozott választások kiírása rendkívül sebezhető helyzetbe sodorná Romániát.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Az-RMDSZ-nem-tamogatja-az-elorehozott-valasztasokat-Sebezhetove-valna-az-orszag"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/parlament_koltsegvetes_agerpres2.webp" alt="Az RMDSZ nem támogatja az előrehozott választásokat –„Sebezhetővé válna az ország”" /&gt;&lt;/p&gt;
-&lt;p&gt;Az RMDSZ szenátusi frakcióvezetője, Turos Lóránd kedden a Digi24 hírtelevíziónak nyilatkozva kijelentette: az előrehozott választások kiírása rendkívül sebezhető helyzetbe sodorná Romániát.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Az-RMDSZ-nem-tamogatja-az-elorehozott-valasztasokat-Sebezhetove-valna-az-orszag"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">EWInMvXU9bm7vXAL7Wqv</guid>
-      <enclosure url="https://egyketto.ro/img/parlament_koltsegvetes_agerpres2.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:51:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Az-RMDSZ-nem-tamogatja-az-elorehozott-valasztasokat-Sebezhetove-valna-az-orszag">Maszol</source>
-    </item>
-    <item>
-      <title>[Krónika] Bóvli kategória: drágább energia, kevesebb beruházás, lassuló gazdaság várhat Romániára</title>
-      <link>https://kronika.ro/gazdasag/bovli-kategoria-dragabb-energia-kevesebb-beruhazas-lassulo-gazdasag-varhat-romaniara</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_bovli-kategoria.webp" alt="Bóvli kategória: drágább energia, kevesebb beruházás, lassuló gazdaság várhat Romániára" /&gt;&lt;/p&gt;
-&lt;p&gt;Románia esetleges bóvli kategóriába történő leminősítése nemcsak az állami hitelfelvételt drágítaná meg, hanem az egész gazdaságot megrázná – figyelmeztet Dumitru Chisăliță energetikai szakértő.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://kronika.ro/gazdasag/bovli-kategoria-dragabb-energia-kevesebb-beruhazas-lassulo-gazdasag-varhat-romaniara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_bovli-kategoria.webp" alt="Bóvli kategória: drágább energia, kevesebb beruházás, lassuló gazdaság várhat Romániára" /&gt;&lt;/p&gt;
-&lt;p&gt;Románia esetleges bóvli kategóriába történő leminősítése nemcsak az állami hitelfelvételt drágítaná meg, hanem az egész gazdaságot megrázná – figyelmeztet Dumitru Chisăliță energetikai szakértő.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://kronika.ro/gazdasag/bovli-kategoria-dragabb-energia-kevesebb-beruhazas-lassulo-gazdasag-varhat-romaniara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">NeiWGn9RlzWlEIVBx6Eu</guid>
-      <enclosure url="https://egyketto.ro/img/nn_bovli-kategoria.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:51:36 +0000</pubDate>
-      <source url="https://kronika.ro/gazdasag/bovli-kategoria-dragabb-energia-kevesebb-beruhazas-lassulo-gazdasag-varhat-romaniara">Krónika</source>
-    </item>
-    <item>
-      <title>[Székelyhon] Szenvedélybetegeken segítenének</title>
-      <link>https://szekelyhon.ro/aktualis/marosszek/szenvedelybetegeken-segitenenek</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_dicso-korhaz-37-hv.webp" alt="Szenvedélybetegeken segítenének" /&gt;&lt;/p&gt;
-&lt;p&gt;Korszerű mentális egészségközpontot szeretne építtetni a dicsőszentmártoni városi kórház, ahol elsősorban szenvedélybetegeket kezelnének. A kórház vezetője szerint egyre több olyan ember kéri a segítségüket, aki valamilyen függőségtől szenved.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/szenvedelybetegeken-segitenenek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_dicso-korhaz-37-hv.webp" alt="Szenvedélybetegeken segítenének" /&gt;&lt;/p&gt;
-&lt;p&gt;Korszerű mentális egészségközpontot szeretne építtetni a dicsőszentmártoni városi kórház, ahol elsősorban szenvedélybetegeket kezelnének. A kórház vezetője szerint egyre több olyan ember kéri a segítségüket, aki valamilyen függőségtől szenved.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/szenvedelybetegeken-segitenenek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">FKLhXJUooouUbPhgN6n4</guid>
-      <enclosure url="https://egyketto.ro/img/nn_dicso-korhaz-37-hv.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 10:51:39 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/szenvedelybetegeken-segitenenek">Székelyhon</source>
-    </item>
-    <item>
-      <title>[Marosvásárhelyi Rádio] Az RMDSZ nem támogatja az előrehozott parlamenti választások kiírását</title>
-      <link>https://www.marosvasarhelyiradio.ro/hirek/az-rmdsz-nem-tamogatja-az-elorehozott-parlamenti-valasztasok-kiirasat/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/328484515_1138421543510315_7273874007435327830_n.webp" alt="Az RMDSZ nem támogatja az előrehozott parlamenti választások kiírását" /&gt;&lt;/p&gt;
-&lt;p&gt;Túrós Lóránd szenátor, a szövetség szenátusi frakcióvezetője a Digi24 hírtelevíziónak azt mondta: egy ilyen döntés rendkívüli politikai, gazdasági és biztonsági kockázatot jelentene Románia számára. A politikus szerint a parlament feloszlatásával hónapokra megszűnne a törvényhozás működése, miközben az országot ügyvivő kormány irányítaná, ami súlyosan korlátozná az állam működését. Túrós Lóránd úgy véli, az előrehozott választások nem […]
-The post Az RMDSZ nem támogatja az előrehozott parlamenti választások kiírását appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/az-rmdsz-nem-tamogatja-az-elorehozott-parlamenti-valasztasok-kiirasat/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/328484515_1138421543510315_7273874007435327830_n.webp" alt="Az RMDSZ nem támogatja az előrehozott parlamenti választások kiírását" /&gt;&lt;/p&gt;
-&lt;p&gt;Túrós Lóránd szenátor, a szövetség szenátusi frakcióvezetője a Digi24 hírtelevíziónak azt mondta: egy ilyen döntés rendkívüli politikai, gazdasági és biztonsági kockázatot jelentene Románia számára. A politikus szerint a parlament feloszlatásával hónapokra megszűnne a törvényhozás működése, miközben az országot ügyvivő kormány irányítaná, ami súlyosan korlátozná az állam működését. Túrós Lóránd úgy véli, az előrehozott választások nem […]
-The post Az RMDSZ nem támogatja az előrehozott parlamenti választások kiírását appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/az-rmdsz-nem-tamogatja-az-elorehozott-parlamenti-valasztasok-kiirasat/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">JKJHjoW7Ztlkh56ufvWe</guid>
-      <enclosure url="https://egyketto.ro/img/328484515_1138421543510315_7273874007435327830_n.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:18:30 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/az-rmdsz-nem-tamogatja-az-elorehozott-parlamenti-valasztasok-kiirasat/">Marosvásárhelyi Rádio</source>
-    </item>
-    <item>
-      <title>[Maszol] Csökken Hargita megye lakossága: másfélszer többen haltak meg, mint ahányan születtek</title>
-      <link>https://maszol.ro/belfold/Csokken-Hargita-megye-lakossaga-masfelszer-annyian-haltak-meg-mint-ahanyan-szulettek</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/csikszereda_varoshaza_fb.webp" alt="Csökken Hargita megye lakossága: másfélszer többen haltak meg, mint ahányan születtek" /&gt;&lt;/p&gt;
-&lt;p&gt;Tovább csökkent Hargita megye lakossága az év első öt hónapjában, amikor 1547 halálesetet és mindössze 985 születést jegyeztek fel.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Csokken-Hargita-megye-lakossaga-masfelszer-annyian-haltak-meg-mint-ahanyan-szulettek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/csikszereda_varoshaza_fb.webp" alt="Csökken Hargita megye lakossága: másfélszer többen haltak meg, mint ahányan születtek" /&gt;&lt;/p&gt;
-&lt;p&gt;Tovább csökkent Hargita megye lakossága az év első öt hónapjában, amikor 1547 halálesetet és mindössze 985 születést jegyeztek fel.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Csokken-Hargita-megye-lakossaga-masfelszer-annyian-haltak-meg-mint-ahanyan-szulettek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">BWbbmUtW04M8W1lgqCzr</guid>
-      <enclosure url="https://egyketto.ro/img/csikszereda_varoshaza_fb.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:19:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Csokken-Hargita-megye-lakossaga-masfelszer-annyian-haltak-meg-mint-ahanyan-szulettek">Maszol</source>
-    </item>
-    <item>
-      <title>[Marosvásárhelyi Rádio] Erasmus-botrány: visszavonul a közélettől Tornai Szilárd</title>
-      <link>https://www.marosvasarhelyiradio.ro/hirek/erasmus-botrany-visszavonul-a-kozelettol-tornai-szilard/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/715338465_1467584818744244_408488419013957417_n.webp" alt="Erasmus-botrány: visszavonul a közélettől Tornai Szilárd" /&gt;&lt;/p&gt;
-&lt;p&gt;Lemond székelyudvarhelyi önkormányzati képviselői mandátumáról, és visszavonul a közélettől Tornai Szilárd. Az Udvarhelyi Ifjúsági Egyeztető Tanács elnöki tisztségéről is távozik, ezt azonban csak szeptember végén, a folyamatban lévő Erasmus+ projekt lezárását követően teszi meg. Közleményében azt írta: a személye körül kialakult vita már nemcsak őt, hanem az RMDSZ és az ifjúsági tanács megítélését is érinti, […]
-The post Erasmus-botrány: visszavonul a közélettől Tornai Szilárd appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/erasmus-botrany-visszavonul-a-kozelettol-tornai-szilard/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/715338465_1467584818744244_408488419013957417_n.webp" alt="Erasmus-botrány: visszavonul a közélettől Tornai Szilárd" /&gt;&lt;/p&gt;
-&lt;p&gt;Lemond székelyudvarhelyi önkormányzati képviselői mandátumáról, és visszavonul a közélettől Tornai Szilárd. Az Udvarhelyi Ifjúsági Egyeztető Tanács elnöki tisztségéről is távozik, ezt azonban csak szeptember végén, a folyamatban lévő Erasmus+ projekt lezárását követően teszi meg. Közleményében azt írta: a személye körül kialakult vita már nemcsak őt, hanem az RMDSZ és az ifjúsági tanács megítélését is érinti, […]
-The post Erasmus-botrány: visszavonul a közélettől Tornai Szilárd appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/erasmus-botrany-visszavonul-a-kozelettol-tornai-szilard/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">pEeJvUKWvWo70tEAq84E</guid>
-      <enclosure url="https://egyketto.ro/img/715338465_1467584818744244_408488419013957417_n.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:24:02 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/erasmus-botrany-visszavonul-a-kozelettol-tornai-szilard/">Marosvásárhelyi Rádio</source>
-    </item>
-    <item>
-      <title>[Maszol] Zelenszkij meghívására Kijevbe utazik Nicușor Dan</title>
-      <link>https://maszol.ro/belfold/Zelenszkij-meghivasara-Kijevbe-utazik-Nicusor-Dan</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/agerpres_19144413.webp" alt="Zelenszkij meghívására Kijevbe utazik Nicușor Dan" /&gt;&lt;/p&gt;
-&lt;p&gt;Nicuşor Dan Volodimir Zelenszkij ukrán elnök meghívására megy Kijevbe.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Zelenszkij-meghivasara-Kijevbe-utazik-Nicusor-Dan"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/agerpres_19144413.webp" alt="Zelenszkij meghívására Kijevbe utazik Nicușor Dan" /&gt;&lt;/p&gt;
-&lt;p&gt;Nicuşor Dan Volodimir Zelenszkij ukrán elnök meghívására megy Kijevbe.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Zelenszkij-meghivasara-Kijevbe-utazik-Nicusor-Dan"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">vB0iXOY7G5xjjvciGNrb</guid>
-      <enclosure url="https://egyketto.ro/img/agerpres_19144413.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:27:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Zelenszkij-meghivasara-Kijevbe-utazik-Nicusor-Dan">Maszol</source>
-    </item>
-    <item>
-      <title>[Marosvásárhelyi Rádio] Új látogatási rend lépett életbe a Szent Anna-tónál</title>
-      <link>https://www.marosvasarhelyiradio.ro/hirek/uj-latogatasi-rend-lepett-eletbe-a-szent-anna-tonal/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/481023674_1066000885573923_4468001537803567374_n-e1783941764425.webp" alt="Új látogatási rend lépett életbe a Szent Anna-tónál" /&gt;&lt;/p&gt;
-&lt;p&gt;A látogatóknak ezentúl napijegyet kell váltaniuk, amely magában foglalja a látogatóközpont belépőjét, a Mohos-tőzegláp látogatását és három óra ingyenes parkolást. A Pro Szent Anna Egyesület igazgatója, Dósa Elek Levente elmondta, hogy a jegyek a helyszínen és online is megvásárolhatók. A háromórás ingyenes parkolási idő letelte után minden megkezdett félóráért 3 lejt kell fizetni. Felnőtt-, diák-, […]
-The post Új látogatási rend lépett életbe a Szent Anna-tónál appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/uj-latogatasi-rend-lepett-eletbe-a-szent-anna-tonal/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/481023674_1066000885573923_4468001537803567374_n-e1783941764425.webp" alt="Új látogatási rend lépett életbe a Szent Anna-tónál" /&gt;&lt;/p&gt;
-&lt;p&gt;A látogatóknak ezentúl napijegyet kell váltaniuk, amely magában foglalja a látogatóközpont belépőjét, a Mohos-tőzegláp látogatását és három óra ingyenes parkolást. A Pro Szent Anna Egyesület igazgatója, Dósa Elek Levente elmondta, hogy a jegyek a helyszínen és online is megvásárolhatók. A háromórás ingyenes parkolási idő letelte után minden megkezdett félóráért 3 lejt kell fizetni. Felnőtt-, diák-, […]
-The post Új látogatási rend lépett életbe a Szent Anna-tónál appeared first on Marosvásáhelyi Rádió Románia.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Marosvásárhelyi Rádio&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.marosvasarhelyiradio.ro/hirek/uj-latogatasi-rend-lepett-eletbe-a-szent-anna-tonal/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">bjXTCmmF9nVUY5JzMqQ6</guid>
-      <enclosure url="https://egyketto.ro/img/481023674_1066000885573923_4468001537803567374_n-e1783941764425.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:27:54 +0000</pubDate>
-      <source url="https://www.marosvasarhelyiradio.ro/hirek/uj-latogatasi-rend-lepett-eletbe-a-szent-anna-tonal/">Marosvásárhelyi Rádio</source>
-    </item>
-    <item>
-      <title>[Maszol] Visszahívtak egy terméket a Lidl polcairól</title>
-      <link>https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/lidl.webp" alt="Visszahívtak egy terméket a Lidl polcairól" /&gt;&lt;/p&gt;
-&lt;p&gt;A Gelatelli Dubaj stílusú fagylaltjának egyik tételét hívták vissza.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/lidl.webp" alt="Visszahívtak egy terméket a Lidl polcairól" /&gt;&lt;/p&gt;
-&lt;p&gt;A Gelatelli Dubaj stílusú fagylaltjának egyik tételét hívták vissza.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">xhgnmFn2LGUmUIeTbLnH</guid>
-      <enclosure url="https://egyketto.ro/img/lidl.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:31:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol">Maszol</source>
-    </item>
-    <item>
-      <title>[Krónika] Negyedmillió lejt csaltak ki egy idős nőtől Kolozsváron</title>
-      <link>https://kronika.ro/erdelyi-hirek/negyedmillio-lejt-csaltak-ki-egy-idos-notol-kolozsvaron</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_letartoztatott-csalo.webp" alt="Negyedmillió lejt csaltak ki egy idős nőtől Kolozsváron" /&gt;&lt;/p&gt;
-&lt;p&gt;Több mint 100 ezer lejjel és csaknem 30 ezer euróval károsítottak meg egy 73 éves Kolozs megyei nőt azok a csalók, akik telefonon rendőröknek és a Román Nemzeti Bank alkalmazottainak adták ki magukat.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/negyedmillio-lejt-csaltak-ki-egy-idos-notol-kolozsvaron"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_letartoztatott-csalo.webp" alt="Negyedmillió lejt csaltak ki egy idős nőtől Kolozsváron" /&gt;&lt;/p&gt;
-&lt;p&gt;Több mint 100 ezer lejjel és csaknem 30 ezer euróval károsítottak meg egy 73 éves Kolozs megyei nőt azok a csalók, akik telefonon rendőröknek és a Román Nemzeti Bank alkalmazottainak adták ki magukat.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/negyedmillio-lejt-csaltak-ki-egy-idos-notol-kolozsvaron"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">crSoj2FbaTJXQ8IQGdAj</guid>
-      <enclosure url="https://egyketto.ro/img/nn_letartoztatott-csalo.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:37:31 +0000</pubDate>
-      <source url="https://kronika.ro/erdelyi-hirek/negyedmillio-lejt-csaltak-ki-egy-idos-notol-kolozsvaron">Krónika</source>
-    </item>
-    <item>
-      <title>[Erdély FM] Kijevbe utazik holnap Nicusor Dan</title>
-      <link>https://erdelyfm.ro/kijevbe-utazik-holnap-nicusor-dan/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Kijevbe utazik holnap Nicusor Dan" /&gt;&lt;/p&gt;
-&lt;p&gt;Az Ukrajna-Délkelet-Európa ötödik csúcstalálkozóján vesz részt holnap Nicușor Dan államfő Kijevben – tájékoztatott ma az államelnöki hivatal. A közlemény szerint Nicușor Dan Volodimir Zelenszkij ukrán elnök meghívására utazik az Ukrán fővárosba. Az Ukrajna-Délkelet-Európa csúcstalálkozót 2023-ban szervezték meg először Oroszország Ukrajna elleni agressziós háborújának kontextusában. Ez egy regionális platform, amelynek célja Ukrajna támogatása, valamint a háború […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,Kijev,Nicușor Dan,Volodimir Zelenszkij&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/kijevbe-utazik-holnap-nicusor-dan/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Kijevbe utazik holnap Nicusor Dan" /&gt;&lt;/p&gt;
-&lt;p&gt;Az Ukrajna-Délkelet-Európa ötödik csúcstalálkozóján vesz részt holnap Nicușor Dan államfő Kijevben – tájékoztatott ma az államelnöki hivatal. A közlemény szerint Nicușor Dan Volodimir Zelenszkij ukrán elnök meghívására utazik az Ukrán fővárosba. Az Ukrajna-Délkelet-Európa csúcstalálkozót 2023-ban szervezték meg először Oroszország Ukrajna elleni agressziós háborújának kontextusában. Ez egy regionális platform, amelynek célja Ukrajna támogatása, valamint a háború […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,Kijev,Nicușor Dan,Volodimir Zelenszkij&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/kijevbe-utazik-holnap-nicusor-dan/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">6TYLcHGIDgctZoGwgvep</guid>
-      <category>Hírek,Kijev,Nicușor Dan,Volodimir Zelenszkij</category>
-      <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:42:59 +0000</pubDate>
-      <source url="https://erdelyfm.ro/kijevbe-utazik-holnap-nicusor-dan/">Erdély FM</source>
-    </item>
-    <item>
-      <title>[Maszol] Kinek kedveznének az előrehozott választások?</title>
-      <link>https://maszol.ro/belfold/Kinek-kedveznenek-az-elorehozott-valasztasok</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/aur_fboldala.webp" alt="Kinek kedveznének az előrehozott választások?" /&gt;&lt;/p&gt;
-&lt;p&gt;Ha a választásokat a következő vasárnap tartanák, az AUR támogatottsága megduplázódna, a PNL erősödne, míg a PSD, az USR és az RMDSZ legjobb esetben is stagnálna.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Kinek-kedveznenek-az-elorehozott-valasztasok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/aur_fboldala.webp" alt="Kinek kedveznének az előrehozott választások?" /&gt;&lt;/p&gt;
-&lt;p&gt;Ha a választásokat a következő vasárnap tartanák, az AUR támogatottsága megduplázódna, a PNL erősödne, míg a PSD, az USR és az RMDSZ legjobb esetben is stagnálna.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Kinek-kedveznenek-az-elorehozott-valasztasok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">Q3Jp9KRaOTE4Iw8mMMkh</guid>
-      <enclosure url="https://egyketto.ro/img/aur_fboldala.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:43:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Kinek-kedveznenek-az-elorehozott-valasztasok">Maszol</source>
-    </item>
-    <item>
-      <title>[Erdély FM] Több mint 6 kilométernyi vasúti alagút készült el a Brassó–Segesvár vasútvonalon</title>
-      <link>https://erdelyfm.ro/tobb-mint-6-kilometernyi-vasuti-alagut-keszult-el-a-brasso-segesvar-vasutvonalon/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Több mint 6 kilométernyi vasúti alagút készült el a Brassó–Segesvár vasútvonalon" /&gt;&lt;/p&gt;
-&lt;p&gt;Jelentős előrehaladást értek el a Brassó–Segesvár vasútvonal korszerűsítésének részeként épülő Ürmösés Homoród vasúti alagutaknál. A legfrissebb adatok szerint a négy alagútfúró gép (TBM) eddig összesen 6,64 kilométernyi alagutat vájt ki. A beruházás a Brassó és Segesvár közötti vasútvonal teljes korszerűsítésének része, amelynek célja a vasúti közlekedés gyorsabbá és biztonságosabbá tétele, valamint a Segesvár felé vezető […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,alagút,Segesvár-Brassó,vasútvonal&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/tobb-mint-6-kilometernyi-vasuti-alagut-keszult-el-a-brasso-segesvar-vasutvonalon/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Több mint 6 kilométernyi vasúti alagút készült el a Brassó–Segesvár vasútvonalon" /&gt;&lt;/p&gt;
-&lt;p&gt;Jelentős előrehaladást értek el a Brassó–Segesvár vasútvonal korszerűsítésének részeként épülő Ürmösés Homoród vasúti alagutaknál. A legfrissebb adatok szerint a négy alagútfúró gép (TBM) eddig összesen 6,64 kilométernyi alagutat vájt ki. A beruházás a Brassó és Segesvár közötti vasútvonal teljes korszerűsítésének része, amelynek célja a vasúti közlekedés gyorsabbá és biztonságosabbá tétele, valamint a Segesvár felé vezető […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,alagút,Segesvár-Brassó,vasútvonal&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/tobb-mint-6-kilometernyi-vasuti-alagut-keszult-el-a-brasso-segesvar-vasutvonalon/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">QJL1tPhJAO0CGPfML1Hl</guid>
-      <category>Hírek,alagút,Segesvár-Brassó,vasútvonal</category>
-      <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:43:52 +0000</pubDate>
-      <source url="https://erdelyfm.ro/tobb-mint-6-kilometernyi-vasuti-alagut-keszult-el-a-brasso-segesvar-vasutvonalon/">Erdély FM</source>
-    </item>
-    <item>
-      <title>[Erdély FM] Több ezer napelemes lámpaoszlopot szerelnek fel az országutakon</title>
-      <link>https://erdelyfm.ro/tobb-ezer-napelemes-lampaoszlopot-szerelnek-fel-az-orszagutakon/</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Több ezer napelemes lámpaoszlopot szerelnek fel az országutakon" /&gt;&lt;/p&gt;
-&lt;p&gt;Több ezer napelemes lámpaoszlopot szerelnek fel az országutakon a közlekedésboztonság javítása érdekében. A közúti infrastruktúráért felelős vállalat egy új, nagyszabású projektet indított az országutak biztonságosabbá tételére. Az országos helyreállítási terv (PNRR) forrásaiból finanszírozott beruházás keretében több mint 2200 autonóm, irányított LED-lámpával és napelemmel felszerelt világítóoszlopot helyeznek ki a kijelölt gyalogosátkelőkhöz, emellett speciális útburkolati jeleket is […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,gyalogátkelő,közlekedésbiztonság,lámpaoszlop,ledvilágítás&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/tobb-ezer-napelemes-lampaoszlopot-szerelnek-fel-az-orszagutakon/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/static/erdelyFM.webp" alt="Több ezer napelemes lámpaoszlopot szerelnek fel az országutakon" /&gt;&lt;/p&gt;
-&lt;p&gt;Több ezer napelemes lámpaoszlopot szerelnek fel az országutakon a közlekedésboztonság javítása érdekében. A közúti infrastruktúráért felelős vállalat egy új, nagyszabású projektet indított az országutak biztonságosabbá tételére. Az országos helyreállítási terv (PNRR) forrásaiból finanszírozott beruházás keretében több mint 2200 autonóm, irányított LED-lámpával és napelemmel felszerelt világítóoszlopot helyeznek ki a kijelölt gyalogosátkelőkhöz, emellett speciális útburkolati jeleket is […]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Erdély FM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Hírek,gyalogátkelő,közlekedésbiztonság,lámpaoszlop,ledvilágítás&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://erdelyfm.ro/tobb-ezer-napelemes-lampaoszlopot-szerelnek-fel-az-orszagutakon/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">Ge8kvTRMluru0LIb9lSb</guid>
-      <category>Hírek,gyalogátkelő,közlekedésbiztonság,lámpaoszlop,ledvilágítás</category>
-      <enclosure url="https://egyketto.ro/img/static/erdelyFM.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:45:17 +0000</pubDate>
-      <source url="https://erdelyfm.ro/tobb-ezer-napelemes-lampaoszlopot-szerelnek-fel-az-orszagutakon/">Erdély FM</source>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 11:48:58 +0000</lastBuildDate>
     <item>
       <title>[Maszol] Hetvennégy lejért Európába? Egyetemistákra is épít a Transilvania repülőtér</title>
       <link>https://maszol.ro/belfold/Hetvennegy-lejert-Europaba-Egyetemistakra-is-epit-a-Transilvania-repuloter</link>
@@ -4628,6 +4228,60 @@ The post Közvitán a vasúti infrastruktúra fejlesztési stratégiája appeare
       <source url="https://szabadsag.ro/article/vb-2026-cimvedo-argentina-hajraban-forditott-az-angolok-ellen-es-dontobe-jutott">Szabadság</source>
     </item>
     <item>
+      <title>[Szabadság] Nicușor Dan Kijevben: Ukrajna és a Fekete-tenger biztonsága összefügg</title>
+      <link>https://szabadsag.ro/article/nicusor-dan-kijevben-ukrajna-es-fekete-tenger-biztonsaga-osszefugg</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/targyalas.webp" alt="Nicușor Dan Kijevben: Ukrajna és a Fekete-tenger biztonsága összefügg" /&gt;&lt;/p&gt;
+&lt;p&gt;Ukrajna biztonsága szorosan összefügg Délkelet-Európa, illetve a Fekete-tenger térségének biztonságával, ami Románia számára kiemelt jelentőségű – szögezte le Nicuşor Dan államfő szerdán, Kijevben, az Ukrajna-Délkelet-Európa csúcstalálkozó után tartott sajtótájékoztatóján. A tanácskozáson elhangzottakat összegző elnök rámutatott: a résztvevők ismét megerősítették Ukrajna iránti szolidaritásukat, valamint azt, hogy fenn kell tartani az Oroszországra gyakorolt nyomást – ennek megfelelően, az Európai Unió a 21. szankciós csomagot készíti elő, amelyet Románia is támogat. A romániai belpolitikai helyzetet illetően Nicușor Dan kijelentette: az emberek a bizonytalanság mielőbbi megszűnését és teljes jogkörű kormány felállását várják. Mint mondta, reméli, hogy még a nyár folyamán sikerül megoldani a kormányalakítás körüli helyzetet, ugyanakkor újra hangsúlyozta, hogy a megoldás a pártok kezében van.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/nicusor-dan-kijevben-ukrajna-es-fekete-tenger-biztonsaga-osszefugg"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/targyalas.webp" alt="Nicușor Dan Kijevben: Ukrajna és a Fekete-tenger biztonsága összefügg" /&gt;&lt;/p&gt;
+&lt;p&gt;Ukrajna biztonsága szorosan összefügg Délkelet-Európa, illetve a Fekete-tenger térségének biztonságával, ami Románia számára kiemelt jelentőségű – szögezte le Nicuşor Dan államfő szerdán, Kijevben, az Ukrajna-Délkelet-Európa csúcstalálkozó után tartott sajtótájékoztatóján. A tanácskozáson elhangzottakat összegző elnök rámutatott: a résztvevők ismét megerősítették Ukrajna iránti szolidaritásukat, valamint azt, hogy fenn kell tartani az Oroszországra gyakorolt nyomást – ennek megfelelően, az Európai Unió a 21. szankciós csomagot készíti elő, amelyet Románia is támogat. A romániai belpolitikai helyzetet illetően Nicușor Dan kijelentette: az emberek a bizonytalanság mielőbbi megszűnését és teljes jogkörű kormány felállását várják. Mint mondta, reméli, hogy még a nyár folyamán sikerül megoldani a kormányalakítás körüli helyzetet, ugyanakkor újra hangsúlyozta, hogy a megoldás a pártok kezében van.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/nicusor-dan-kijevben-ukrajna-es-fekete-tenger-biztonsaga-osszefugg"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">PKJ8Ak85z6jmYVytKvRt</guid>
+      <enclosure url="https://egyketto.ro/img/targyalas.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/nicusor-dan-kijevben-ukrajna-es-fekete-tenger-biztonsaga-osszefugg">Szabadság</source>
+    </item>
+    <item>
+      <title>[Szabadság] A hóolvadás után sem találják a novemberben a Bucsecs-hegységben eltűnt brit fiatalembert</title>
+      <link>https://szabadsag.ro/article/hoolvadas-utan-sem-talaljak-novemberben-bucsecs-hegysegben-eltunt-brit-fiatalembert</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/kicsi_3.webp" alt="A hóolvadás után sem találják a novemberben a Bucsecs-hegységben eltűnt brit fiatalembert" /&gt;&lt;/p&gt;
+&lt;p&gt;Továbbra is keresik a hegyimentők a tavaly novemberben a Bucsecs-hegységbeli Țigănești-völgy térségében eltűnt brit fiatalembert - közölte csütörtökön a Brassó megyei Salvamont.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/hoolvadas-utan-sem-talaljak-novemberben-bucsecs-hegysegben-eltunt-brit-fiatalembert"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/kicsi_3.webp" alt="A hóolvadás után sem találják a novemberben a Bucsecs-hegységben eltűnt brit fiatalembert" /&gt;&lt;/p&gt;
+&lt;p&gt;Továbbra is keresik a hegyimentők a tavaly novemberben a Bucsecs-hegységbeli Țigănești-völgy térségében eltűnt brit fiatalembert - közölte csütörtökön a Brassó megyei Salvamont.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/hoolvadas-utan-sem-talaljak-novemberben-bucsecs-hegysegben-eltunt-brit-fiatalembert"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">MKN18q8CA9UVJvoypNZ0</guid>
+      <enclosure url="https://egyketto.ro/img/kicsi_3.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/hoolvadas-utan-sem-talaljak-novemberben-bucsecs-hegysegben-eltunt-brit-fiatalembert">Szabadság</source>
+    </item>
+    <item>
+      <title>[Szabadság] Nehéz helyzetben vannak a vidéki könyvtárak</title>
+      <link>https://szabadsag.ro/article/nehez-helyzetben-vannak-videki-konyvtarak</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/fejlec_2.webp" alt="Nehéz helyzetben vannak a vidéki könyvtárak" /&gt;&lt;/p&gt;
+&lt;p&gt;Nehéz helyzetben vannak a vidéken – községekben, falvakban – működő könyvtárak. Ennek oka egyrészt a lakosok érdektelensége, másrészt, hogy a vidéki önkormányzatok nem alkalmazhatnak könyvtári személyzetet. Az általunk megkérdezett községvezetők azt válaszolták: ha mégis akad könyv iránt érdeklődő, az bemegy a polgármesteri hivatalba, ahonnan az egyik alkalmazott átmegy a könyvtárba, és odaadja a könyvet. Nehezen hihető, de mindez igaz Kolozs megyére is, ahol rengeteg színvonalas kulturális esemény van, amely nagyszámú résztvevővel zajlik. Póka András György, Kalotaszentkirály polgármestere lapunknak azt nyilatkozta: az alig egy éve átadott modern kultúrotthonban alakítottak ki korszerű könyvtárat, olvasótermet, de az érdeklődés roppant csekély. Balázs János, Kisbács polgármestere pedig azt mondta: a lakosok körében nincs igény könyvtárra, de személyzet sincs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/nehez-helyzetben-vannak-videki-konyvtarak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/fejlec_2.webp" alt="Nehéz helyzetben vannak a vidéki könyvtárak" /&gt;&lt;/p&gt;
+&lt;p&gt;Nehéz helyzetben vannak a vidéken – községekben, falvakban – működő könyvtárak. Ennek oka egyrészt a lakosok érdektelensége, másrészt, hogy a vidéki önkormányzatok nem alkalmazhatnak könyvtári személyzetet. Az általunk megkérdezett községvezetők azt válaszolták: ha mégis akad könyv iránt érdeklődő, az bemegy a polgármesteri hivatalba, ahonnan az egyik alkalmazott átmegy a könyvtárba, és odaadja a könyvet. Nehezen hihető, de mindez igaz Kolozs megyére is, ahol rengeteg színvonalas kulturális esemény van, amely nagyszámú résztvevővel zajlik. Póka András György, Kalotaszentkirály polgármestere lapunknak azt nyilatkozta: az alig egy éve átadott modern kultúrotthonban alakítottak ki korszerű könyvtárat, olvasótermet, de az érdeklődés roppant csekély. Balázs János, Kisbács polgármestere pedig azt mondta: a lakosok körében nincs igény könyvtárra, de személyzet sincs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/nehez-helyzetben-vannak-videki-konyvtarak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">IE7EUh1DTRihsKhCe7tP</guid>
+      <enclosure url="https://egyketto.ro/img/fejlec_2.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/nehez-helyzetben-vannak-videki-konyvtarak">Szabadság</source>
+    </item>
+    <item>
       <title>[Szabadság] Megszavazta az ukrán parlament az új kormányfőt</title>
       <link>https://szabadsag.ro/article/megszavazta-az-ukran-parlament-az-uj-kormanyfot</link>
       <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/szerhijk.webp" alt="Megszavazta az ukrán parlament az új kormányfőt" /&gt;&lt;/p&gt;
@@ -5662,15 +5316,18 @@ Articolul Futballvébé: finálé előtt apare prima dată în Kolozsvári Rádi
     <item>
       <title>[Krónika] Csótányokat és súlyos higiéniai hiányosságokat találtak ételfutárok hőtartó táskáiban</title>
       <link>https://kronika.ro/belfold/csotanyokat-es-sulyos-higieniai-hianyossagokat-talaltak-etelfutarok-hotarto-taskaiban</link>
-      <description>&lt;p&gt;Az Országos Fogyasztóvédelmi Hatóság (ANCP) több ételkiszállító cég működését is felfüggesztette, miután az ellenőrök csótányokat és súlyosan kifogásolható higiéniai állapotokat találtak a futárok által használt hőtartó szállítótáskákban.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_biciklis-futar-pixabay.webp" alt="Csótányokat és súlyos higiéniai hiányosságokat találtak ételfutárok hőtartó táskáiban" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Országos Fogyasztóvédelmi Hatóság (ANCP) több ételkiszállító cég működését is felfüggesztette, miután az ellenőrök csótányokat és súlyosan kifogásolható higiéniai állapotokat találtak a futárok által használt hőtartó szállítótáskákban.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://kronika.ro/belfold/csotanyokat-es-sulyos-higieniai-hianyossagokat-talaltak-etelfutarok-hotarto-taskaiban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Az Országos Fogyasztóvédelmi Hatóság (ANCP) több ételkiszállító cég működését is felfüggesztette, miután az ellenőrök csótányokat és súlyosan kifogásolható higiéniai állapotokat találtak a futárok által használt hőtartó szállítótáskákban.&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_biciklis-futar-pixabay.webp" alt="Csótányokat és súlyos higiéniai hiányosságokat találtak ételfutárok hőtartó táskáiban" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Országos Fogyasztóvédelmi Hatóság (ANCP) több ételkiszállító cég működését is felfüggesztette, miután az ellenőrök csótányokat és súlyosan kifogásolható higiéniai állapotokat találtak a futárok által használt hőtartó szállítótáskákban.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://kronika.ro/belfold/csotanyokat-es-sulyos-higieniai-hianyossagokat-talaltak-etelfutarok-hotarto-taskaiban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">cKVnpO4snc2wP3hxorwD</guid>
+      <enclosure url="https://egyketto.ro/img/nn_biciklis-futar-pixabay.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 16 Jul 2026 09:27:56 +0000</pubDate>
       <source url="https://kronika.ro/belfold/csotanyokat-es-sulyos-higieniai-hianyossagokat-talaltak-etelfutarok-hotarto-taskaiban">Krónika</source>
     </item>
@@ -5729,6 +5386,24 @@ Articolul Futballvébé: finálé előtt apare prima dată în Kolozsvári Rádi
       <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/csempeszet-miatt-tartottak-hazkutatasokat-hargita-megyeben">Székelyhon</source>
     </item>
     <item>
+      <title>[Maszol] Csempészett cigaretta a román furgonban – A pénzügyőrök bevetették Totot, a keresőkutyát (VIDEÓ)</title>
+      <link>https://maszol.ro/kulfold/Csempeszett-cigaretta-a-roman-furgonban-A-penzugyorok-bevetettek-Totot-a-keresokutyat-VIDEO</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/csempesz_cigi_nav.webp" alt="Csempészett cigaretta a román furgonban – A pénzügyőrök bevetették Totot, a keresőkutyát (VIDEÓ)" /&gt;&lt;/p&gt;
+&lt;p&gt;A magyar pénzügyőrök 4550 doboz csempészcigarettát találtak egy román furgonban, amelyet az M1-es autópálya Győr-Moson-Sopron vármegye szakaszán ellenőriztek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Csempeszett-cigaretta-a-roman-furgonban-A-penzugyorok-bevetettek-Totot-a-keresokutyat-VIDEO"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/csempesz_cigi_nav.webp" alt="Csempészett cigaretta a román furgonban – A pénzügyőrök bevetették Totot, a keresőkutyát (VIDEÓ)" /&gt;&lt;/p&gt;
+&lt;p&gt;A magyar pénzügyőrök 4550 doboz csempészcigarettát találtak egy román furgonban, amelyet az M1-es autópálya Győr-Moson-Sopron vármegye szakaszán ellenőriztek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Csempeszett-cigaretta-a-roman-furgonban-A-penzugyorok-bevetettek-Totot-a-keresokutyat-VIDEO"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">v1ozi9pKlDBnLvbTBZOy</guid>
+      <enclosure url="https://egyketto.ro/img/csempesz_cigi_nav.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:07:00 +0000</pubDate>
+      <source url="https://maszol.ro/kulfold/Csempeszett-cigaretta-a-roman-furgonban-A-penzugyorok-bevetettek-Totot-a-keresokutyat-VIDEO">Maszol</source>
+    </item>
+    <item>
       <title>[Krónika] Európa legnagyobb energiatároló létesítményén ügyködnek a románok és a szerbek</title>
       <link>https://kronika.ro/gazdasag/europa-legnagyobb-energiatarolo-letesitmenyen-ugykodnek-a-romanok-es-a-szerbek</link>
       <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_danube_near_iron_gate_2006.webp" alt="Európa legnagyobb energiatároló létesítményén ügyködnek a románok és a szerbek" /&gt;&lt;/p&gt;
@@ -5745,6 +5420,267 @@ Articolul Futballvébé: finálé előtt apare prima dată în Kolozsvári Rádi
       <enclosure url="https://egyketto.ro/img/nn_danube_near_iron_gate_2006.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 16 Jul 2026 10:08:18 +0000</pubDate>
       <source url="https://kronika.ro/gazdasag/europa-legnagyobb-energiatarolo-letesitmenyen-ugykodnek-a-romanok-es-a-szerbek">Krónika</source>
+    </item>
+    <item>
+      <title>[Transtelex] A Tisza kultúráért felelős államtitkára feljelentést tesz Orbán János Dénes ügyében</title>
+      <link>https://transtelex.ro/kulfold/2026/07/16/nagy-ervin-feljelentes-orban-janos-denes-kmtg-jogdijak</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784196575-temp-3ua6rku5t3tgfnjncmj_cimlap-normal.webp" alt="A Tisza kultúráért felelős államtitkára feljelentést tesz Orbán János Dénes ügyében" /&gt;&lt;/p&gt;
+&lt;p&gt;Nagy Ervin szerint hűtlen kezelés gyanúja merül fel amiatt, hogy az Orbán János Dénes szakmai irányítása alatt működő állami cég több százmillió forintért vásárolta meg előre az író műveinek jogait.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/07/16/nagy-ervin-feljelentes-orban-janos-denes-kmtg-jogdijak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784196575-temp-3ua6rku5t3tgfnjncmj_cimlap-normal.webp" alt="A Tisza kultúráért felelős államtitkára feljelentést tesz Orbán János Dénes ügyében" /&gt;&lt;/p&gt;
+&lt;p&gt;Nagy Ervin szerint hűtlen kezelés gyanúja merül fel amiatt, hogy az Orbán János Dénes szakmai irányítása alatt működő állami cég több százmillió forintért vásárolta meg előre az író műveinek jogait.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/07/16/nagy-ervin-feljelentes-orban-janos-denes-kmtg-jogdijak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Kro4vn9so79cVR4Y934V</guid>
+      <category>Külföld</category>
+      <enclosure url="https://egyketto.ro/img/1784196575-temp-3ua6rku5t3tgfnjncmj_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:11:44 +0000</pubDate>
+      <source url="https://transtelex.ro/kulfold/2026/07/16/nagy-ervin-feljelentes-orban-janos-denes-kmtg-jogdijak">Transtelex</source>
+    </item>
+    <item>
+      <title>[Maszol] Hivatalos klikkesedés: konzervatív platformmal osztja meg a liberálisokat Alin Tișe</title>
+      <link>https://maszol.ro/belfold/Hivatalos-klikkesedes-konzervativ-platformmal-osztja-meg-a-liberalisokat-Alin-Tise</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/719507944_2270891050318986_5271045229848358703_n.webp" alt="Hivatalos klikkesedés: konzervatív platformmal osztja meg a liberálisokat Alin Tișe" /&gt;&lt;/p&gt;
+&lt;p&gt;Kolozs megye tanácselnöke a „lázadók” élére állt, párton belüli tömörülést hozott létre.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Hivatalos-klikkesedes-konzervativ-platformmal-osztja-meg-a-liberalisokat-Alin-Tise"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/719507944_2270891050318986_5271045229848358703_n.webp" alt="Hivatalos klikkesedés: konzervatív platformmal osztja meg a liberálisokat Alin Tișe" /&gt;&lt;/p&gt;
+&lt;p&gt;Kolozs megye tanácselnöke a „lázadók” élére állt, párton belüli tömörülést hozott létre.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Hivatalos-klikkesedes-konzervativ-platformmal-osztja-meg-a-liberalisokat-Alin-Tise"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">tygvvoIwP2PKuGBEybbc</guid>
+      <enclosure url="https://egyketto.ro/img/719507944_2270891050318986_5271045229848358703_n.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:17:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Hivatalos-klikkesedes-konzervativ-platformmal-osztja-meg-a-liberalisokat-Alin-Tise">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Szeptemberben ismét 10 lej fölé emelkedhet a gázolaj ára</title>
+      <link>https://maszol.ro/gazdasag/Szeptemberben-ismet-10-lej-fole-emelkedhet-a-gazolaj-ara</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.webp" alt="Szeptemberben ismét 10 lej fölé emelkedhet a gázolaj ára" /&gt;&lt;/p&gt;
+&lt;p&gt;A legrosszabb forgatókönyv esetén az üzemanyag literje 10,25 lejnél is többe kerülhet majd.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/gazdasag/Szeptemberben-ismet-10-lej-fole-emelkedhet-a-gazolaj-ara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.webp" alt="Szeptemberben ismét 10 lej fölé emelkedhet a gázolaj ára" /&gt;&lt;/p&gt;
+&lt;p&gt;A legrosszabb forgatókönyv esetén az üzemanyag literje 10,25 lejnél is többe kerülhet majd.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/gazdasag/Szeptemberben-ismet-10-lej-fole-emelkedhet-a-gazolaj-ara"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Wc1vkge7rGTXL50HHiZo</guid>
+      <enclosure url="https://egyketto.ro/img/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:22:00 +0000</pubDate>
+      <source url="https://maszol.ro/gazdasag/Szeptemberben-ismet-10-lej-fole-emelkedhet-a-gazolaj-ara">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Tragédia: 19 éves fiatal gázolt halálra egy gyalogost</title>
+      <link>https://maszol.ro/belfold/Tragedia-19-eves-fiatal-gazolt-halalra-egy-gyalogost</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/baleset-neamt.webp" alt="Tragédia: 19 éves fiatal gázolt halálra egy gyalogost" /&gt;&lt;/p&gt;
+&lt;p&gt;Életét vesztette egy 62 éves nő, miután egy személyautó elütötte a Neamț megyei Almásmező településen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Tragedia-19-eves-fiatal-gazolt-halalra-egy-gyalogost"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/baleset-neamt.webp" alt="Tragédia: 19 éves fiatal gázolt halálra egy gyalogost" /&gt;&lt;/p&gt;
+&lt;p&gt;Életét vesztette egy 62 éves nő, miután egy személyautó elütötte a Neamț megyei Almásmező településen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Tragedia-19-eves-fiatal-gazolt-halalra-egy-gyalogost"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">vfuolQJ9g7ZTq1yDA2FS</guid>
+      <enclosure url="https://egyketto.ro/img/baleset-neamt.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:25:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Tragedia-19-eves-fiatal-gazolt-halalra-egy-gyalogost">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Zene, közösség és hajnali kerékpártúrák Sepsiszentgyörgyön</title>
+      <link>https://maszol.ro/belfold/Zene-kozosseg-es-hajnali-kerekparturak-Sepsiszentgyorgyon</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tabor01.webp" alt="Zene, közösség és hajnali kerékpártúrák Sepsiszentgyörgyön" /&gt;&lt;/p&gt;
+&lt;p&gt;A nyári szünet sok diák számára a pihenés időszaka, Sepsiszentgyörgyön azonban július elején ismét a tanulás, a közösségépítés és a zene iránti elkötelezettség került a középpontba.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Zene-kozosseg-es-hajnali-kerekparturak-Sepsiszentgyorgyon"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tabor01.webp" alt="Zene, közösség és hajnali kerékpártúrák Sepsiszentgyörgyön" /&gt;&lt;/p&gt;
+&lt;p&gt;A nyári szünet sok diák számára a pihenés időszaka, Sepsiszentgyörgyön azonban július elején ismét a tanulás, a közösségépítés és a zene iránti elkötelezettség került a középpontba.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Zene-kozosseg-es-hajnali-kerekparturak-Sepsiszentgyorgyon"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">iaOAnvvFIhEnP3LNIQkn</guid>
+      <enclosure url="https://egyketto.ro/img/tabor01.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:32:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Zene-kozosseg-es-hajnali-kerekparturak-Sepsiszentgyorgyon">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Új kutatás: A magány ugyanolyan veszélyes lehet, mint a napi 15 szál cigaretta</title>
+      <link>https://maszol.ro/eletmod/Uj-kutatas-A-magany-ugyanolyan-veszelyes-lehet-mint-a-napi-15-szal-cigaretta</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dohanyzas_cigaretta_ablak_no_pexels.webp" alt="Új kutatás: A magány ugyanolyan veszélyes lehet, mint a napi 15 szál cigaretta" /&gt;&lt;/p&gt;
+&lt;p&gt;A magányosság szó szerint megbetegít bennünket, de az orvosok egyedül nem képesek meggyógyítani.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/eletmod/Uj-kutatas-A-magany-ugyanolyan-veszelyes-lehet-mint-a-napi-15-szal-cigaretta"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dohanyzas_cigaretta_ablak_no_pexels.webp" alt="Új kutatás: A magány ugyanolyan veszélyes lehet, mint a napi 15 szál cigaretta" /&gt;&lt;/p&gt;
+&lt;p&gt;A magányosság szó szerint megbetegít bennünket, de az orvosok egyedül nem képesek meggyógyítani.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/eletmod/Uj-kutatas-A-magany-ugyanolyan-veszelyes-lehet-mint-a-napi-15-szal-cigaretta"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">pun9vxbRQSElXdydkycT</guid>
+      <enclosure url="https://egyketto.ro/img/dohanyzas_cigaretta_ablak_no_pexels.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:38:00 +0000</pubDate>
+      <source url="https://maszol.ro/eletmod/Uj-kutatas-A-magany-ugyanolyan-veszelyes-lehet-mint-a-napi-15-szal-cigaretta">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Négy év börtönt kapott a pedofil, akinek az állam megengedte, hogy gyermekvédő egyesületet működtessen</title>
+      <link>https://maszol.ro/belfold/Negy-ev-bortont-kapott-a-pedofil-akinek-az-allam-megengedte-hogy-gyermekvedo-egyesuletet-mukodtessen</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tingey-injury-law-firm-dzpc4uy8zty-unsplash_(1).webp" alt="Négy év börtönt kapott a pedofil, akinek az állam megengedte, hogy gyermekvédő egyesületet működtessen" /&gt;&lt;/p&gt;
+&lt;p&gt;Korábban már többször elítélték gyermekpornográfiáért, ami miatt bekerült a szexuális bűnelkövetők országos nyilvántartásába, de sikerült elérnie, hogy töröljék onnan.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Negy-ev-bortont-kapott-a-pedofil-akinek-az-allam-megengedte-hogy-gyermekvedo-egyesuletet-mukodtessen"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tingey-injury-law-firm-dzpc4uy8zty-unsplash_(1).webp" alt="Négy év börtönt kapott a pedofil, akinek az állam megengedte, hogy gyermekvédő egyesületet működtessen" /&gt;&lt;/p&gt;
+&lt;p&gt;Korábban már többször elítélték gyermekpornográfiáért, ami miatt bekerült a szexuális bűnelkövetők országos nyilvántartásába, de sikerült elérnie, hogy töröljék onnan.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Negy-ev-bortont-kapott-a-pedofil-akinek-az-allam-megengedte-hogy-gyermekvedo-egyesuletet-mukodtessen"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">c08w0xMOTDogbLGgMOQm</guid>
+      <enclosure url="https://egyketto.ro/img/tingey-injury-law-firm-dzpc4uy8zty-unsplash_(1).webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:45:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Negy-ev-bortont-kapott-a-pedofil-akinek-az-allam-megengedte-hogy-gyermekvedo-egyesuletet-mukodtessen">Maszol</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Három tényező emelheti ismét 10 lej fölé a gázolaj árát</title>
+      <link>https://szekelyhon.ro/aktualis/harom-tenyezo-emelheti-ismet-10-lej-fole-a-gazolaj-arat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_uzemanyag-benzinkut-kzn.webp" alt="Három tényező emelheti ismét 10 lej fölé a gázolaj árát" /&gt;&lt;/p&gt;
+&lt;p&gt;Szeptemberre meghaladhatja a 10 lejt a gázolaj literenkénti ára Romániában, ha tovább súlyosbodik a Perzsa-öböl térségében kialakult konfliktus, emelkedik a kőolaj világpiaci ára, és erősödik a dollár a lejjel szemben.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/harom-tenyezo-emelheti-ismet-10-lej-fole-a-gazolaj-arat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_uzemanyag-benzinkut-kzn.webp" alt="Három tényező emelheti ismét 10 lej fölé a gázolaj árát" /&gt;&lt;/p&gt;
+&lt;p&gt;Szeptemberre meghaladhatja a 10 lejt a gázolaj literenkénti ára Romániában, ha tovább súlyosbodik a Perzsa-öböl térségében kialakult konfliktus, emelkedik a kőolaj világpiaci ára, és erősödik a dollár a lejjel szemben.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/harom-tenyezo-emelheti-ismet-10-lej-fole-a-gazolaj-arat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">koj2EnK9vRdCdTc5vKnK</guid>
+      <enclosure url="https://egyketto.ro/img/nn_uzemanyag-benzinkut-kzn.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:55:28 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/harom-tenyezo-emelheti-ismet-10-lej-fole-a-gazolaj-arat">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Krónika] Megszorításokat kér a lakosságtól, de a kormány titkolja az Ukrajnának nyújtott támogatásokat</title>
+      <link>https://kronika.ro/belfold/megszoritasokat-ker-a-lakossagtol-de-a-kormany-titkolja-az-ukrananak-nyujtott-tamogatasokat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_apador.webp" alt="Megszorításokat kér a lakosságtól, de a kormány titkolja az Ukrajnának nyújtott támogatásokat" /&gt;&lt;/p&gt;
+&lt;p&gt;Első fokon pert nyert a román kormánnyal szemben a Romániai Emberi Jogok Védelméért – Helsinki Bizottság Egyesület (APADOR-CH), amely közérdekű adatok kiadását követelte az Ukrajnának nyújtott román katonai támogatások ügyében.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/megszoritasokat-ker-a-lakossagtol-de-a-kormany-titkolja-az-ukrananak-nyujtott-tamogatasokat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_apador.webp" alt="Megszorításokat kér a lakosságtól, de a kormány titkolja az Ukrajnának nyújtott támogatásokat" /&gt;&lt;/p&gt;
+&lt;p&gt;Első fokon pert nyert a román kormánnyal szemben a Romániai Emberi Jogok Védelméért – Helsinki Bizottság Egyesület (APADOR-CH), amely közérdekű adatok kiadását követelte az Ukrajnának nyújtott román katonai támogatások ügyében.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/megszoritasokat-ker-a-lakossagtol-de-a-kormany-titkolja-az-ukrananak-nyujtott-tamogatasokat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">l9r88XwPjMEjK6gXdzTQ</guid>
+      <enclosure url="https://egyketto.ro/img/nn_apador.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 10:59:00 +0000</pubDate>
+      <source url="https://kronika.ro/belfold/megszoritasokat-ker-a-lakossagtol-de-a-kormany-titkolja-az-ukrananak-nyujtott-tamogatasokat">Krónika</source>
+    </item>
+    <item>
+      <title>[Transtelex] Egy PSD-s polgármester szerint 13–14 százalékra zuhant a Szociáldemokrata Párt, Grindeanuéknak pedig távoznia kellene</title>
+      <link>https://transtelex.ro/kozelet/2026/07/16/constantin-toma-psd-grindeanu-craiovai-hazaspar-lemondas-koalicio</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784199656-temp-5miaiftiooqj5plbkjo_cimlap-normal.webp" alt="Egy PSD-s polgármester szerint 13–14 százalékra zuhant a Szociáldemokrata Párt, Grindeanuéknak pedig távoznia kellene" /&gt;&lt;/p&gt;
+&lt;p&gt;Buzău PSD-s polgármestere szerint a szociáldemokraták jelenlegi vezetése politikai zsákutcába juttatta a pártot és az országot. Úgy véli, vezetőváltás után újra kellene tárgyalni a koalíciót a PNL-lel, az USR-vel és az RMDSZ-szel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/16/constantin-toma-psd-grindeanu-craiovai-hazaspar-lemondas-koalicio"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784199656-temp-5miaiftiooqj5plbkjo_cimlap-normal.webp" alt="Egy PSD-s polgármester szerint 13–14 százalékra zuhant a Szociáldemokrata Párt, Grindeanuéknak pedig távoznia kellene" /&gt;&lt;/p&gt;
+&lt;p&gt;Buzău PSD-s polgármestere szerint a szociáldemokraták jelenlegi vezetése politikai zsákutcába juttatta a pártot és az országot. Úgy véli, vezetőváltás után újra kellene tárgyalni a koalíciót a PNL-lel, az USR-vel és az RMDSZ-szel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/16/constantin-toma-psd-grindeanu-craiovai-hazaspar-lemondas-koalicio"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">j9a024joVkDryB13aSQ4</guid>
+      <category>Közélet</category>
+      <enclosure url="https://egyketto.ro/img/1784199656-temp-5miaiftiooqj5plbkjo_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:01:14 +0000</pubDate>
+      <source url="https://transtelex.ro/kozelet/2026/07/16/constantin-toma-psd-grindeanu-craiovai-hazaspar-lemondas-koalicio">Transtelex</source>
+    </item>
+    <item>
+      <title>[Maszol] Meghökkentő különbség: egy holland átlagosan egy évtizeddel tovább dolgozik, mint egy romániai</title>
+      <link>https://maszol.ro/gazdasag/Meghokkento-kulonbseg-egy-holland-atlagosan-egy-evtizeddel-tovabb-dolgozik-mint-egy-romaniai</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/idos_munkavallalo_pexels.webp" alt="Meghökkentő különbség: egy holland átlagosan egy évtizeddel tovább dolgozik, mint egy romániai" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Európai Unió statisztikai hivatala (Eurostat) közzétette a legfrissebb jelentését az aktív munkaévek várható időtartamáról. Miközben a hollandok és a svédek már több mint 41 évet töltenek a munkaerőpiacon, Románia a lista legvégén kullog mindössze 32,7 évvel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/gazdasag/Meghokkento-kulonbseg-egy-holland-atlagosan-egy-evtizeddel-tovabb-dolgozik-mint-egy-romaniai"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/idos_munkavallalo_pexels.webp" alt="Meghökkentő különbség: egy holland átlagosan egy évtizeddel tovább dolgozik, mint egy romániai" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Európai Unió statisztikai hivatala (Eurostat) közzétette a legfrissebb jelentését az aktív munkaévek várható időtartamáról. Miközben a hollandok és a svédek már több mint 41 évet töltenek a munkaerőpiacon, Románia a lista legvégén kullog mindössze 32,7 évvel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/gazdasag/Meghokkento-kulonbseg-egy-holland-atlagosan-egy-evtizeddel-tovabb-dolgozik-mint-egy-romaniai"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">qt9vigggq7fhOa1G1KPu</guid>
+      <enclosure url="https://egyketto.ro/img/idos_munkavallalo_pexels.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:10:00 +0000</pubDate>
+      <source url="https://maszol.ro/gazdasag/Meghokkento-kulonbseg-egy-holland-atlagosan-egy-evtizeddel-tovabb-dolgozik-mint-egy-romaniai">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Kormányhatározattal segíti a kormány a bukaresti EL-pályázatot</title>
+      <link>https://maszol.ro/sport/Kormanyhatarozattal-segiti-a-kormany-a-bukaresti-EL-palyazatot</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/europa_liga_konferencia_liga_serleg_sorsolas_foci_labdarugas_uefa_250829_agerpres.webp" alt="Kormányhatározattal segíti a kormány a bukaresti EL-pályázatot" /&gt;&lt;/p&gt;
+&lt;p&gt;Országos jelentőségű közérdekké nyilvánították Románia pályázatát az Európa Liga 2028-as vagy 2029-es döntőjének a megrendezésére Bukarestben.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/sport/Kormanyhatarozattal-segiti-a-kormany-a-bukaresti-EL-palyazatot"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/europa_liga_konferencia_liga_serleg_sorsolas_foci_labdarugas_uefa_250829_agerpres.webp" alt="Kormányhatározattal segíti a kormány a bukaresti EL-pályázatot" /&gt;&lt;/p&gt;
+&lt;p&gt;Országos jelentőségű közérdekké nyilvánították Románia pályázatát az Európa Liga 2028-as vagy 2029-es döntőjének a megrendezésére Bukarestben.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/sport/Kormanyhatarozattal-segiti-a-kormany-a-bukaresti-EL-palyazatot"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">gm4Xzxk0HbncanxLPWUl</guid>
+      <enclosure url="https://egyketto.ro/img/europa_liga_konferencia_liga_serleg_sorsolas_foci_labdarugas_uefa_250829_agerpres.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:15:00 +0000</pubDate>
+      <source url="https://maszol.ro/sport/Kormanyhatarozattal-segiti-a-kormany-a-bukaresti-EL-palyazatot">Maszol</source>
+    </item>
+    <item>
+      <title>[Uh] Master of puppets a politikában: a „rendszer” foglya Románia?</title>
+      <link>https://www.uh.ro/master-of-puppets-a-politikaban-a-rendszer-foglya-romania/</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/rendszer-ok-cseke.webp" alt="Master of puppets a politikában: a „rendszer” foglya Románia?" /&gt;&lt;/p&gt;
+&lt;p&gt;Sokan beszélnek róla, többen küzdenek is ellene, de ez a küzdelem egyelőre csak árnyékbokszolás.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Uh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Országos&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.uh.ro/master-of-puppets-a-politikaban-a-rendszer-foglya-romania/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/rendszer-ok-cseke.webp" alt="Master of puppets a politikában: a „rendszer” foglya Románia?" /&gt;&lt;/p&gt;
+&lt;p&gt;Sokan beszélnek róla, többen küzdenek is ellene, de ez a küzdelem egyelőre csak árnyékbokszolás.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Uh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Országos&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.uh.ro/master-of-puppets-a-politikaban-a-rendszer-foglya-romania/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Htn1vAjz82spFvTdRCEy</guid>
+      <category>Országos</category>
+      <enclosure url="https://egyketto.ro/img/rendszer-ok-cseke.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:24:23 +0000</pubDate>
+      <source url="https://www.uh.ro/master-of-puppets-a-politikaban-a-rendszer-foglya-romania/">Uh</source>
+    </item>
+    <item>
+      <title>[Maszol] Román-szerb megállapodás született Európa talán legnagyobb energiatároló létesítményéről</title>
+      <link>https://maszol.ro/belfold/Roman-szerb-megallapodas-szuletett-Europa-talan-legnagyobb-energiatarolo-letesitmenyerol</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vizieromu.webp" alt="Román-szerb megállapodás született Európa talán legnagyobb energiatároló létesítményéről" /&gt;&lt;/p&gt;
+&lt;p&gt;Bolojan a Románia és Szerbia közötti, a Vaskapu III. (Djerdap 3.) szivattyús-tározós vízerőmű projektjéről szóló egyetértési megállapodást írt alá a szerb bányászati és energiaügyi miniszterrel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Roman-szerb-megallapodas-szuletett-Europa-talan-legnagyobb-energiatarolo-letesitmenyerol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vizieromu.webp" alt="Román-szerb megállapodás született Európa talán legnagyobb energiatároló létesítményéről" /&gt;&lt;/p&gt;
+&lt;p&gt;Bolojan a Románia és Szerbia közötti, a Vaskapu III. (Djerdap 3.) szivattyús-tározós vízerőmű projektjéről szóló egyetértési megállapodást írt alá a szerb bányászati és energiaügyi miniszterrel.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Roman-szerb-megallapodas-szuletett-Europa-talan-legnagyobb-energiatarolo-letesitmenyerol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Gk4JblOYQmvuugZVEjwJ</guid>
+      <enclosure url="https://egyketto.ro/img/vizieromu.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:26:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Roman-szerb-megallapodas-szuletett-Europa-talan-legnagyobb-energiatarolo-letesitmenyerol">Maszol</source>
     </item>
   </channel>
 </rss>

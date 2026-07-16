@@ -94,7 +94,7 @@ fg = FeedGenerator()
 
 fg.id(SITE_URL)
 fg.title("e-News")
-fg.description("Erdélyi Hírek")
+fg.description("e-News")
 fg.language("hu")
 
 fg.link(

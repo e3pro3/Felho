@@ -3,87 +3,12 @@
   <channel>
     <title>e-News</title>
     <link>https://egyketto.ro/feed.xml</link>
-    <description>Erdélyi Hírek</description>
+    <description>e-News</description>
     <atom:link href="https://egyketto.ro/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:48:58 +0000</lastBuildDate>
-    <item>
-      <title>[Maszol] Hetvennégy lejért Európába? Egyetemistákra is épít a Transilvania repülőtér</title>
-      <link>https://maszol.ro/belfold/Hetvennegy-lejert-Europaba-Egyetemistakra-is-epit-a-Transilvania-repuloter</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/peti_andras.webp" alt="Hetvennégy lejért Európába? Egyetemistákra is épít a Transilvania repülőtér" /&gt;&lt;/p&gt;
-&lt;p&gt;Együttműködik a marosvásárhelyi repülőtér és az orvosi egyetem – a cél, hogy minél többen a helyi légikikötőt válasszák.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Hetvennegy-lejert-Europaba-Egyetemistakra-is-epit-a-Transilvania-repuloter"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/peti_andras.webp" alt="Hetvennégy lejért Európába? Egyetemistákra is épít a Transilvania repülőtér" /&gt;&lt;/p&gt;
-&lt;p&gt;Együttműködik a marosvásárhelyi repülőtér és az orvosi egyetem – a cél, hogy minél többen a helyi légikikötőt válasszák.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Hetvennegy-lejert-Europaba-Egyetemistakra-is-epit-a-Transilvania-repuloter"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">RxG1CyIKlJuPQtoiOdMB</guid>
-      <enclosure url="https://egyketto.ro/img/peti_andras.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:54:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Hetvennegy-lejert-Europaba-Egyetemistakra-is-epit-a-Transilvania-repuloter">Maszol</source>
-    </item>
-    <item>
-      <title>[Maszol] Öt éven át szivárogtatott – Őrizetbe vettek egy munkaügyi ellenőrt</title>
-      <link>https://maszol.ro/belfold/Ot-even-at-szivarogtatott-Orizetbe-vettek-egy-munkaugyi-ellenort</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bilincs_alina_gorghiu_facebook.webp" alt="Öt éven át szivárogtatott – Őrizetbe vettek egy munkaügyi ellenőrt" /&gt;&lt;/p&gt;
-&lt;p&gt;Huszonnégy órára őrizetbe vettek egy Fehér megyei munkaügyi ellenőrt. A vád szerint a köztisztviselő az elmúlt öt évben tucatnyi alkalommal figyelmeztetett különböző cégeket a kollégái által tervezett váratlan ellenőrzésekről.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Ot-even-at-szivarogtatott-Orizetbe-vettek-egy-munkaugyi-ellenort"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bilincs_alina_gorghiu_facebook.webp" alt="Öt éven át szivárogtatott – Őrizetbe vettek egy munkaügyi ellenőrt" /&gt;&lt;/p&gt;
-&lt;p&gt;Huszonnégy órára őrizetbe vettek egy Fehér megyei munkaügyi ellenőrt. A vád szerint a köztisztviselő az elmúlt öt évben tucatnyi alkalommal figyelmeztetett különböző cégeket a kollégái által tervezett váratlan ellenőrzésekről.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Ot-even-at-szivarogtatott-Orizetbe-vettek-egy-munkaugyi-ellenort"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">FLed4HqUhaG9wE7A0YOz</guid>
-      <enclosure url="https://egyketto.ro/img/bilincs_alina_gorghiu_facebook.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 11:59:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Ot-even-at-szivarogtatott-Orizetbe-vettek-egy-munkaugyi-ellenort">Maszol</source>
-    </item>
-    <item>
-      <title>[Transtelex] Nicușor Dan: Nem zárom ki az előrehozott választásokat, bár semmi értelme nem lenne megszervezni</title>
-      <link>https://transtelex.ro/kozelet/2026/07/14/nicusor-dan-patthelyzet-kormanyalakitas-elorehozott-valasztasok</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784030827-temp-1o7ui86vq5498cigjbj_cimlap-normal.webp" alt="Nicușor Dan: Nem zárom ki az előrehozott választásokat, bár semmi értelme nem lenne megszervezni" /&gt;&lt;/p&gt;
-&lt;p&gt;Az államfő a hétfői eredménytelen tárgyalást követően úgy nyilatkozott, hogy még lát esélyt egy parlamenti többség kialakítására.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/14/nicusor-dan-patthelyzet-kormanyalakitas-elorehozott-valasztasok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784030827-temp-1o7ui86vq5498cigjbj_cimlap-normal.webp" alt="Nicușor Dan: Nem zárom ki az előrehozott választásokat, bár semmi értelme nem lenne megszervezni" /&gt;&lt;/p&gt;
-&lt;p&gt;Az államfő a hétfői eredménytelen tárgyalást követően úgy nyilatkozott, hogy még lát esélyt egy parlamenti többség kialakítására.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/14/nicusor-dan-patthelyzet-kormanyalakitas-elorehozott-valasztasok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">TUy7m5gAw7IBljWTUiCA</guid>
-      <category>Közélet</category>
-      <enclosure url="https://egyketto.ro/img/1784030827-temp-1o7ui86vq5498cigjbj_cimlap-normal.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 12:07:23 +0000</pubDate>
-      <source url="https://transtelex.ro/kozelet/2026/07/14/nicusor-dan-patthelyzet-kormanyalakitas-elorehozott-valasztasok">Transtelex</source>
-    </item>
-    <item>
-      <title>[Székelyhon] Regionális innovációs projektben vesz részt Maros megye</title>
-      <link>https://szekelyhon.ro/aktualis/marosszek/regionalis-innovacios-projektben-vesz-reszt-maros-megye</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_megyei-tanacsules-13-hv.webp" alt="Regionális innovációs projektben vesz részt Maros megye" /&gt;&lt;/p&gt;
-&lt;p&gt;Csatlakozott Maros megye a Brassóból indult regionális innovációs projekthez, amelyben több erdélyi és egy görögországi partner vesz részt. A kezdeményezés részeként a megyében elsőként autóipari és mechatronikai szakértői közösséget hoznak létre.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/regionalis-innovacios-projektben-vesz-reszt-maros-megye"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_megyei-tanacsules-13-hv.webp" alt="Regionális innovációs projektben vesz részt Maros megye" /&gt;&lt;/p&gt;
-&lt;p&gt;Csatlakozott Maros megye a Brassóból indult regionális innovációs projekthez, amelyben több erdélyi és egy görögországi partner vesz részt. A kezdeményezés részeként a megyében elsőként autóipari és mechatronikai szakértői közösséget hoznak létre.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/regionalis-innovacios-projektben-vesz-reszt-maros-megye"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">QLJFZ5eEO6nqz8lUWvb2</guid>
-      <enclosure url="https://egyketto.ro/img/nn_megyei-tanacsules-13-hv.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 14 Jul 2026 12:11:05 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/marosszek/regionalis-innovacios-projektben-vesz-reszt-maros-megye">Székelyhon</source>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 12:13:58 +0000</lastBuildDate>
     <item>
       <title>[Krónika] Óvatosabbak az ingatlant vásárlók, a régi építésű, kétszobás lakások a legkeresettebbek továbbra is</title>
       <link>https://kronika.ro/gazdasag/ovatosabbak-az-ingatlant-vasarlok-a-regi-epitesu-ketszobas-lakasok-a-legkeresettebbek-tovabbra-is</link>
@@ -5681,6 +5606,122 @@ Articolul Futballvébé: finálé előtt apare prima dată în Kolozsvári Rádi
       <enclosure url="https://egyketto.ro/img/vizieromu.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 16 Jul 2026 11:26:00 +0000</pubDate>
       <source url="https://maszol.ro/belfold/Roman-szerb-megallapodas-szuletett-Europa-talan-legnagyobb-energiatarolo-letesitmenyerol">Maszol</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Egyértelmű és elgondolkodtató eredmény a Drakula Park-névszavazásról</title>
+      <link>https://szekelyhon.ro/aktualis/csikszek/egyertelmu-es-elgondolkodtato-eredmeny-a-drakula-park-nevszavazasrol</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_drakula_park_honlap_tervezes.webp" alt="Egyértelmű és elgondolkodtató eredmény a Drakula Park-névszavazásról" /&gt;&lt;/p&gt;
+&lt;p&gt;Lezárult a tervezett csíkszeredai vidámpark új nevére kiírt közönségszavazás. A Drakula Park toronymagasan végzett az élen, azonban a névválasztás még nem véglegesen eldöntött, figyelembe fogják venni, hogy a többi javaslatra összesítve többen szavaztak.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/csikszek/egyertelmu-es-elgondolkodtato-eredmeny-a-drakula-park-nevszavazasrol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_drakula_park_honlap_tervezes.webp" alt="Egyértelmű és elgondolkodtató eredmény a Drakula Park-névszavazásról" /&gt;&lt;/p&gt;
+&lt;p&gt;Lezárult a tervezett csíkszeredai vidámpark új nevére kiírt közönségszavazás. A Drakula Park toronymagasan végzett az élen, azonban a névválasztás még nem véglegesen eldöntött, figyelembe fogják venni, hogy a többi javaslatra összesítve többen szavaztak.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/csikszek/egyertelmu-es-elgondolkodtato-eredmeny-a-drakula-park-nevszavazasrol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">EvQmnrZI7zVpIjktJVI9</guid>
+      <enclosure url="https://egyketto.ro/img/nn_drakula_park_honlap_tervezes.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:29:04 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/csikszek/egyertelmu-es-elgondolkodtato-eredmeny-a-drakula-park-nevszavazasrol">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] Antal Lóránt: Parajd és Sóvidék támogatása továbbra is kiemelt feladat</title>
+      <link>https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/udv-loci-szenatori-beszamolo3.webp" alt="Antal Lóránt: Parajd és Sóvidék támogatása továbbra is kiemelt feladat" /&gt;&lt;/p&gt;
+&lt;p&gt;A parlament tavaszi ülésszakának eredményeiről, az energiaügyi törvénykezésről, az udvarhelyszéki beruházásokról és a parajdi helyreállítás állásáról számolt be.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/udv-loci-szenatori-beszamolo3.webp" alt="Antal Lóránt: Parajd és Sóvidék támogatása továbbra is kiemelt feladat" /&gt;&lt;/p&gt;
+&lt;p&gt;A parlament tavaszi ülésszakának eredményeiről, az energiaügyi törvénykezésről, az udvarhelyszéki beruházásokról és a parajdi helyreállítás állásáról számolt be.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">4XzkEfvPTc8UJU73S4a3</guid>
+      <enclosure url="https://egyketto.ro/img/udv-loci-szenatori-beszamolo3.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:31:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat">Maszol</source>
+    </item>
+    <item>
+      <title>[Krónika] Szállodában akartak fogászati tevékenységet végezni, nyomozás indult az egyik erdélyi városban</title>
+      <link>https://kronika.ro/erdelyi-hirek/szallodaban-akartak-fogaszati-tevekenyseget-vegezni-nyomozas-indult-az-egyik-erdelyi-varosban</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_fogorvosirendelo-31jan25-oo-5.webp" alt="Szállodában akartak fogászati tevékenységet végezni, nyomozás indult az egyik erdélyi városban" /&gt;&lt;/p&gt;
+&lt;p&gt;Nyomozás indult Kolozsváron, miután egy törökországi fogászati klinika egy szállodában akart fogászati tevékenységet végezni.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/szallodaban-akartak-fogaszati-tevekenyseget-vegezni-nyomozas-indult-az-egyik-erdelyi-varosban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_fogorvosirendelo-31jan25-oo-5.webp" alt="Szállodában akartak fogászati tevékenységet végezni, nyomozás indult az egyik erdélyi városban" /&gt;&lt;/p&gt;
+&lt;p&gt;Nyomozás indult Kolozsváron, miután egy törökországi fogászati klinika egy szállodában akart fogászati tevékenységet végezni.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/szallodaban-akartak-fogaszati-tevekenyseget-vegezni-nyomozas-indult-az-egyik-erdelyi-varosban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">7lKCth6cyWtxARS1kkyZ</guid>
+      <enclosure url="https://egyketto.ro/img/nn_fogorvosirendelo-31jan25-oo-5.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:39:10 +0000</pubDate>
+      <source url="https://kronika.ro/erdelyi-hirek/szallodaban-akartak-fogaszati-tevekenyseget-vegezni-nyomozas-indult-az-egyik-erdelyi-varosban">Krónika</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Két éve pontosan ebben az időszakban volt az emlékezetesen nagy kánikula</title>
+      <link>https://szekelyhon.ro/aktualis/ket-eve-pontosan-ekkor-volt-az-emlekezetesen-nagy-kanikula</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_hoseg-kanikula-08jul24-pnt-6.webp" alt="Két éve pontosan ebben az időszakban volt az emlékezetesen nagy kánikula" /&gt;&lt;/p&gt;
+&lt;p&gt;Két évvel ezelőtt, pontosan ebben az időszakban volt az egyik leghosszabb és legintenzívebb hőhullám Romániában, az időjárási feljegyzések óta – emlékeztet a Meteoplus.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/ket-eve-pontosan-ekkor-volt-az-emlekezetesen-nagy-kanikula"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_hoseg-kanikula-08jul24-pnt-6.webp" alt="Két éve pontosan ebben az időszakban volt az emlékezetesen nagy kánikula" /&gt;&lt;/p&gt;
+&lt;p&gt;Két évvel ezelőtt, pontosan ebben az időszakban volt az egyik leghosszabb és legintenzívebb hőhullám Romániában, az időjárási feljegyzések óta – emlékeztet a Meteoplus.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/ket-eve-pontosan-ekkor-volt-az-emlekezetesen-nagy-kanikula"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">t43fuCBNmyP3ODxjaWve</guid>
+      <enclosure url="https://egyketto.ro/img/nn_hoseg-kanikula-08jul24-pnt-6.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 11:54:30 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/ket-eve-pontosan-ekkor-volt-az-emlekezetesen-nagy-kanikula">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Kolozsvári Rádio] Ismeretlen ismerősünk: Bogi és Boti a Refo Caféból</title>
+      <link>https://www.kolozsvariradio.ro/2026/07/16/ismeretlen-ismerosunk-bogi-es-boti-a-refo-cafebol/</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/knp-ferencz-zsolt-300x169.webp" alt="Ismeretlen ismerősünk: Bogi és Boti a Refo Caféból" /&gt;&lt;/p&gt;
+&lt;p&gt;A Refo Café három éve nyitotta meg kapuit a Bocskai/Avram Iancu téren, a Kolozsvári Protestáns Teológiai Intézet épületében. Úgy is jellemezték: találkozási pont az irodalomkedvelők és a pihenni vágyók számára. Itt találkoztunk Bálint Boglárkával és Kacsó Botonddal, akik baristaként dolgoznak a kávézóban. Ferencz Zsoltnak azt is elmondták, hogy főként a hely nyugodtsága, hangulata vonzza ide […]
+Articolul Ismeretlen ismerősünk: Bogi és Boti a Refo Caféból apare prima dată în Kolozsvári Rádió Románia.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Kolozsvári Rádio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kanapéfilozófia,Kanapéfilozófia - Ferencz Zsolt&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.kolozsvariradio.ro/2026/07/16/ismeretlen-ismerosunk-bogi-es-boti-a-refo-cafebol/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/knp-ferencz-zsolt-300x169.webp" alt="Ismeretlen ismerősünk: Bogi és Boti a Refo Caféból" /&gt;&lt;/p&gt;
+&lt;p&gt;A Refo Café három éve nyitotta meg kapuit a Bocskai/Avram Iancu téren, a Kolozsvári Protestáns Teológiai Intézet épületében. Úgy is jellemezték: találkozási pont az irodalomkedvelők és a pihenni vágyók számára. Itt találkoztunk Bálint Boglárkával és Kacsó Botonddal, akik baristaként dolgoznak a kávézóban. Ferencz Zsoltnak azt is elmondták, hogy főként a hely nyugodtsága, hangulata vonzza ide […]
+Articolul Ismeretlen ismerősünk: Bogi és Boti a Refo Caféból apare prima dată în Kolozsvári Rádió Románia.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Kolozsvári Rádio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Kanapéfilozófia,Kanapéfilozófia - Ferencz Zsolt&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.kolozsvariradio.ro/2026/07/16/ismeretlen-ismerosunk-bogi-es-boti-a-refo-cafebol/"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">ScsFW4jdjkSlFodDCZS0</guid>
+      <category>Kanapéfilozófia,Kanapéfilozófia - Ferencz Zsolt</category>
+      <enclosure url="https://egyketto.ro/img/knp-ferencz-zsolt-300x169.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 12:07:29 +0000</pubDate>
+      <source url="https://www.kolozsvariradio.ro/2026/07/16/ismeretlen-ismerosunk-bogi-es-boti-a-refo-cafebol/">Kolozsvári Rádio</source>
+    </item>
+    <item>
+      <title>[Transtelex] Toronymagasan nyert a Drakula Park a csíkszeredai vidámpark névszavazásán, mégsem biztos, hogy ez lesz a neve</title>
+      <link>https://transtelex.ro/kozelet/2026/07/16/drakula-park-csikszereda-nevszavazas-lenard-andras</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784203399-temp-1lkqhb0jrl1ifknkhag_cimlap-normal.webp" alt="Toronymagasan nyert a Drakula Park a csíkszeredai vidámpark névszavazásán, mégsem biztos, hogy ez lesz a neve" /&gt;&lt;/p&gt;
+&lt;p&gt;Több mint hatezren szavaztak a Zsögödfürdőre tervezett élménypark nevéről. A Drakula Park Transylvania messze megelőzte az összes vetélytársát, Lénárd András azonban még nem tekinti lezártnak a névválasztást.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/16/drakula-park-csikszereda-nevszavazas-lenard-andras"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784203399-temp-1lkqhb0jrl1ifknkhag_cimlap-normal.webp" alt="Toronymagasan nyert a Drakula Park a csíkszeredai vidámpark névszavazásán, mégsem biztos, hogy ez lesz a neve" /&gt;&lt;/p&gt;
+&lt;p&gt;Több mint hatezren szavaztak a Zsögödfürdőre tervezett élménypark nevéről. A Drakula Park Transylvania messze megelőzte az összes vetélytársát, Lénárd András azonban még nem tekinti lezártnak a névválasztást.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/16/drakula-park-csikszereda-nevszavazas-lenard-andras"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">6D9Q7kCM2kMGWAwrd9pk</guid>
+      <category>Közélet</category>
+      <enclosure url="https://egyketto.ro/img/1784203399-temp-1lkqhb0jrl1ifknkhag_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 16 Jul 2026 12:09:18 +0000</pubDate>
+      <source url="https://transtelex.ro/kozelet/2026/07/16/drakula-park-csikszereda-nevszavazas-lenard-andras">Transtelex</source>
     </item>
   </channel>
 </rss>

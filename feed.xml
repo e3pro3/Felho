@@ -8,43 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:23:45 +0000</lastBuildDate>
-    <item>
-      <title>[Maszol] Norris nyerte a Magyar Nagydíjat, Verstappen és Antonelli is dobogós</title>
-      <link>https://maszol.ro/sport/Norris-nyerte-a-Magyar-Nagydijat-Verstappen-es-Antonelli-is-dobogos</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/agerpres_19522571.webp" alt="Norris nyerte a Magyar Nagydíjat, Verstappen és Antonelli is dobogós" /&gt;&lt;/p&gt;
-&lt;p&gt;A világbajnoki címvédő Lando Norris, a McLaren brit versenyzője nyerte a 41. Forma-1-es Magyar Nagydíjat vasárnap a Hungaroringen – írja az MTI.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/sport/Norris-nyerte-a-Magyar-Nagydijat-Verstappen-es-Antonelli-is-dobogos"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/agerpres_19522571.webp" alt="Norris nyerte a Magyar Nagydíjat, Verstappen és Antonelli is dobogós" /&gt;&lt;/p&gt;
-&lt;p&gt;A világbajnoki címvédő Lando Norris, a McLaren brit versenyzője nyerte a 41. Forma-1-es Magyar Nagydíjat vasárnap a Hungaroringen – írja az MTI.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/sport/Norris-nyerte-a-Magyar-Nagydijat-Verstappen-es-Antonelli-is-dobogos"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">k3bZLLzcy6usaVkF9e99</guid>
-      <enclosure url="https://egyketto.ro/img/agerpres_19522571.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 26 Jul 2026 16:27:00 +0000</pubDate>
-      <source url="https://maszol.ro/sport/Norris-nyerte-a-Magyar-Nagydijat-Verstappen-es-Antonelli-is-dobogos">Maszol</source>
-    </item>
-    <item>
-      <title>[Maszol] Az egyperceseket hozza újra a köztudatba a szatmári rajzfilmkészítő (INTERJÚ)</title>
-      <link>https://maszol.ro/kultura/Az-egyperceseket-hozza-ujra-a-koztudatba-a-szatmari-rajzfilmkeszito-INTERJU</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tadam.webp" alt="Az egyperceseket hozza újra a köztudatba a szatmári rajzfilmkészítő (INTERJÚ)" /&gt;&lt;/p&gt;
-&lt;p&gt;A vetítés után készítettünk interjút a tehetséges szatmári animációs filmessel, aki Örkény István műveinek feldolgozásával lett ismert a Youtube-on.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/kultura/Az-egyperceseket-hozza-ujra-a-koztudatba-a-szatmari-rajzfilmkeszito-INTERJU"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/tadam.webp" alt="Az egyperceseket hozza újra a köztudatba a szatmári rajzfilmkészítő (INTERJÚ)" /&gt;&lt;/p&gt;
-&lt;p&gt;A vetítés után készítettünk interjút a tehetséges szatmári animációs filmessel, aki Örkény István műveinek feldolgozásával lett ismert a Youtube-on.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/kultura/Az-egyperceseket-hozza-ujra-a-koztudatba-a-szatmari-rajzfilmkeszito-INTERJU"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">TyBPBPC7oT1xVcH4n2En</guid>
-      <enclosure url="https://egyketto.ro/img/tadam.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 26 Jul 2026 16:50:00 +0000</pubDate>
-      <source url="https://maszol.ro/kultura/Az-egyperceseket-hozza-ujra-a-koztudatba-a-szatmari-rajzfilmkeszito-INTERJU">Maszol</source>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 17:36:51 +0000</lastBuildDate>
     <item>
       <title>[Transtelex] Késsel rontott rájuk, lelőtték a rendőrök a férfit, aki a gyanú szerint kisbusszal hajtott a tömegbe a berlini Pride-on</title>
       <link>https://transtelex.ro/kulfold/2026/07/26/nemetorszag-berlin-pride-tamadas-gazolas-halal-rendorseg</link>
@@ -3915,6 +3879,42 @@ The post Ideiglenesen csökkentenék a gázolaj jövedéki adóját az országba
       <source url="https://transtelex.ro/kulfold/2026/07/27/a-tate-fiverek-meg-ket-hetig-biztosan-bortonben-maradnak">Transtelex</source>
     </item>
     <item>
+      <title>[Szabadság] Földrengés Japánban: sokan egy felrobbant bevásárlóközpont romjai alatt rekedtek</title>
+      <link>https://szabadsag.ro/article/foldrenges-japanban-sokan-egy-felrobbant-bevasarlokozpont-romjai-alatt-rekedtek</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/foldrenges-4.webp" alt="Földrengés Japánban: sokan egy felrobbant bevásárlóközpont romjai alatt rekedtek" /&gt;&lt;/p&gt;
+&lt;p&gt;Erőteljes, 7,1-es magnitúdójú földrengés rázta meg kedden a Japán déli részén fekvő Kumamoto prefektúrát. A rengés több ezer háztartásban áramkimaradást okozott, utakat szakított fel, valamint robbanás történt egy bevásárlóközpontban is, ahol a rendőrség közlése szerint többen feltehetően életüket vesztették, mások pedig a romok alatt rekedtek. A hatóságok erős utórengések veszélyére figyelmeztettek – tudósított az Al Jazeera hírportál.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/foldrenges-japanban-sokan-egy-felrobbant-bevasarlokozpont-romjai-alatt-rekedtek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/foldrenges-4.webp" alt="Földrengés Japánban: sokan egy felrobbant bevásárlóközpont romjai alatt rekedtek" /&gt;&lt;/p&gt;
+&lt;p&gt;Erőteljes, 7,1-es magnitúdójú földrengés rázta meg kedden a Japán déli részén fekvő Kumamoto prefektúrát. A rengés több ezer háztartásban áramkimaradást okozott, utakat szakított fel, valamint robbanás történt egy bevásárlóközpontban is, ahol a rendőrség közlése szerint többen feltehetően életüket vesztették, mások pedig a romok alatt rekedtek. A hatóságok erős utórengések veszélyére figyelmeztettek – tudósított az Al Jazeera hírportál.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/foldrenges-japanban-sokan-egy-felrobbant-bevasarlokozpont-romjai-alatt-rekedtek"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">jMy2sDESdGuq2c0zsVqv</guid>
+      <enclosure url="https://egyketto.ro/img/foldrenges-4.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/foldrenges-japanban-sokan-egy-felrobbant-bevasarlokozpont-romjai-alatt-rekedtek">Szabadság</source>
+    </item>
+    <item>
+      <title>[Szabadság] Lakást vásárolna a pataréti családok számára az önkormányzat</title>
+      <link>https://szabadsag.ro/article/lakast-vasarolna-patareti-csaladok-szamara-az-onkormanyzat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/fejlec_0.webp" alt="Lakást vásárolna a pataréti családok számára az önkormányzat" /&gt;&lt;/p&gt;
+&lt;p&gt;A kolozsvári tanács keddi rendkívüli ülésén hagyta jóvá azt a tervezetet miszerint a Kolozsvári Polgármesteri Hivatal uniós forrásra pályázik, hogy ötven szociális lakást vásárolhasson a megyeközpont metropoliszövezetében élő pataréti romák számára. A pályázat benyújtási határidejének – július 31-nek – a közeledése miatt volt szükség a rendkívüli tanácsülésre. A pályázatot az Észak-Nyugati Regionális Fejlesztési Ügynökségnél kell benyújtani. Amennyiben nyertesnek nyilvánítják, a következő lépés a szerződés aláírása lesz. Oláh Emese alpolgármester meglátása szerint a vásárlás és a jövendőbeli bérlők felkészítése jövő márciusban kezdődhet el. Emil Boc polgármester hangsúlyozta: a szociális lakások tulajdonosai nem a bérlők lesznek, hanem a kolozsvári önkormányzat. A projekt összértéke közel harmincmillió lej (közel 5,8 millió euró), ennek az összegnek a 98%-a vissza nem térítendő európai forrás.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/lakast-vasarolna-patareti-csaladok-szamara-az-onkormanyzat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/fejlec_0.webp" alt="Lakást vásárolna a pataréti családok számára az önkormányzat" /&gt;&lt;/p&gt;
+&lt;p&gt;A kolozsvári tanács keddi rendkívüli ülésén hagyta jóvá azt a tervezetet miszerint a Kolozsvári Polgármesteri Hivatal uniós forrásra pályázik, hogy ötven szociális lakást vásárolhasson a megyeközpont metropoliszövezetében élő pataréti romák számára. A pályázat benyújtási határidejének – július 31-nek – a közeledése miatt volt szükség a rendkívüli tanácsülésre. A pályázatot az Észak-Nyugati Regionális Fejlesztési Ügynökségnél kell benyújtani. Amennyiben nyertesnek nyilvánítják, a következő lépés a szerződés aláírása lesz. Oláh Emese alpolgármester meglátása szerint a vásárlás és a jövendőbeli bérlők felkészítése jövő márciusban kezdődhet el. Emil Boc polgármester hangsúlyozta: a szociális lakások tulajdonosai nem a bérlők lesznek, hanem a kolozsvári önkormányzat. A projekt összértéke közel harmincmillió lej (közel 5,8 millió euró), ennek az összegnek a 98%-a vissza nem térítendő európai forrás.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/lakast-vasarolna-patareti-csaladok-szamara-az-onkormanyzat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">2dAOVdmSOQxzPaDjib1j</guid>
+      <enclosure url="https://egyketto.ro/img/fejlec_0.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/lakast-vasarolna-patareti-csaladok-szamara-az-onkormanyzat">Szabadság</source>
+    </item>
+    <item>
       <title>[Szabadság] Meggyalázták a medjugorjei Mária-szobrot</title>
       <link>https://szabadsag.ro/article/meggyalaztak-medjugorjei-maria-szobrot</link>
       <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/mary-4.webp" alt="Meggyalázták a medjugorjei Mária-szobrot" /&gt;&lt;/p&gt;
@@ -6526,6 +6526,27 @@ Articolul Idén is lesz prímásverseny Mérában apare prima dată în Kolozsv�
       <source url="https://szekelyhon.ro/aktualis/az-eu-bekerette-oroszorszag-brusszeli-ugyvivojet-a-romaniai-dronincidensek-ugyeben">Székelyhon</source>
     </item>
     <item>
+      <title>[Transtelex] Agresszívabb, szempillantás alatt lép, de megosztottabb: ilyen az új iráni rezsim</title>
+      <link>https://transtelex.ro/kulfold/2026/07/28/iran-rezsim-nem-egyseges-belso-feszultsegek-kemenyvonalasok-mersekeltek-haboru-hormuzi-szors</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784636097-temp-gnbnkhcepjppcnhgoem_cimlap-normal.webp" alt="Agresszívabb, szempillantás alatt lép, de megosztottabb: ilyen az új iráni rezsim" /&gt;&lt;/p&gt;
+&lt;p&gt;Az iráni háború elejétől mindent felülírt a Forradalmi Gárda befolyása, ami a hozzájuk közel álló új legfelsőbb vezető megválasztása óta is kitart. A megállapodást szorgalmazó politikusok újra és újra háttérbe szorulnak. Az eredmény egy keményebb, de kevésbé dogmatikus vezetés lett, amely nem riad vissza a katonai eszközöktől és a hormuzi csuklóztatástól.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/07/28/iran-rezsim-nem-egyseges-belso-feszultsegek-kemenyvonalasok-mersekeltek-haboru-hormuzi-szors"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1784636097-temp-gnbnkhcepjppcnhgoem_cimlap-normal.webp" alt="Agresszívabb, szempillantás alatt lép, de megosztottabb: ilyen az új iráni rezsim" /&gt;&lt;/p&gt;
+&lt;p&gt;Az iráni háború elejétől mindent felülírt a Forradalmi Gárda befolyása, ami a hozzájuk közel álló új legfelsőbb vezető megválasztása óta is kitart. A megállapodást szorgalmazó politikusok újra és újra háttérbe szorulnak. Az eredmény egy keményebb, de kevésbé dogmatikus vezetés lett, amely nem riad vissza a katonai eszközöktől és a hormuzi csuklóztatástól.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/07/28/iran-rezsim-nem-egyseges-belso-feszultsegek-kemenyvonalasok-mersekeltek-haboru-hormuzi-szors"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Pgy3GpgDv3RoAuAKZpdb</guid>
+      <category>Külföld</category>
+      <enclosure url="https://egyketto.ro/img/1784636097-temp-gnbnkhcepjppcnhgoem_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 14:14:29 +0000</pubDate>
+      <source url="https://transtelex.ro/kulfold/2026/07/28/iran-rezsim-nem-egyseges-belso-feszultsegek-kemenyvonalasok-mersekeltek-haboru-hormuzi-szors">Transtelex</source>
+    </item>
+    <item>
       <title>[Maszol] Búcsút intenek a régi típusú személyi igazolványoknak</title>
       <link>https://maszol.ro/belfold/Bucsut-intenek-a-regi-tipusu-szemelyi-igazolvanyoknak</link>
       <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/szemelyi_igazolvany_spclep-arad.webp" alt="Búcsút intenek a régi típusú személyi igazolványoknak" /&gt;&lt;/p&gt;
@@ -6542,6 +6563,27 @@ Articolul Idén is lesz prímásverseny Mérában apare prima dată în Kolozsv�
       <enclosure url="https://egyketto.ro/img/szemelyi_igazolvany_spclep-arad.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 28 Jul 2026 14:17:00 +0000</pubDate>
       <source url="https://maszol.ro/belfold/Bucsut-intenek-a-regi-tipusu-szemelyi-igazolvanyoknak">Maszol</source>
+    </item>
+    <item>
+      <title>[Transtelex] Trump új Európa-vámja a jogászkodás csúcsa</title>
+      <link>https://transtelex.ro/g7/vilag/2026/07/28/trump-uj-europa-vam-jogaszkodas</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1785246164-temp-thet2rusk3b1bbkkgkg_cimlap-normal.webp" alt="Trump új Európa-vámja a jogászkodás csúcsa" /&gt;&lt;/p&gt;
+&lt;p&gt;Miután elmeszelte a bíróság az intézkedést, kerestek egy kiskaput és átcímkézve ránk húzták ugyanazt.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Világ&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/g7/vilag/2026/07/28/trump-uj-europa-vam-jogaszkodas"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1785246164-temp-thet2rusk3b1bbkkgkg_cimlap-normal.webp" alt="Trump új Európa-vámja a jogászkodás csúcsa" /&gt;&lt;/p&gt;
+&lt;p&gt;Miután elmeszelte a bíróság az intézkedést, kerestek egy kiskaput és átcímkézve ránk húzták ugyanazt.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Világ&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/g7/vilag/2026/07/28/trump-uj-europa-vam-jogaszkodas"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">5rxEPA7sPFsUhaevVo3i</guid>
+      <category>Világ</category>
+      <enclosure url="https://egyketto.ro/img/1785246164-temp-thet2rusk3b1bbkkgkg_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 14:23:01 +0000</pubDate>
+      <source url="https://transtelex.ro/g7/vilag/2026/07/28/trump-uj-europa-vam-jogaszkodas">Transtelex</source>
     </item>
     <item>
       <title>[Transtelex] Bekérette Oroszország brüsszeli ügyvivőjét az EU a romániai légtér sorozatos megsértése miatt</title>
@@ -6711,6 +6753,276 @@ The post A kormány szerint valamennyi határozatát törvényes és alkotmányo
       <enclosure url="https://egyketto.ro/img/486545028_975016471449267_222158788917714148_n-e1785251668624.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 28 Jul 2026 15:14:30 +0000</pubDate>
       <source url="https://www.marosvasarhelyiradio.ro/hirek/a-kormany-szerint-valamennyi-hatarozatat-torvenyes-es-alkotmanyos-eljaras-szerint-fogadta-el/">Marosvásárhelyi Rádio</source>
+    </item>
+    <item>
+      <title>[Krónika] Nizzában törték fel egy szatmári diákcsoport autóbuszát: a tanulók személyi okmányok, pénz, poggyász nélkül maradtak</title>
+      <link>https://kronika.ro/erdelyi-hirek/nizzaban-tortek-fel-egy-szatmari-diakcsoport-autobuszat</link>
+      <description>&lt;p&gt;Rémálommá vált egy Szatmár megyei diákcsoport franciaországi kirándulása: a Nizzában nyaraló tanulók személyi okmányok, pénz és poggyász nélkül maradtak, miután ismeretlenek feltörték az autóbuszukat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/nizzaban-tortek-fel-egy-szatmari-diakcsoport-autobuszat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Rémálommá vált egy Szatmár megyei diákcsoport franciaországi kirándulása: a Nizzában nyaraló tanulók személyi okmányok, pénz és poggyász nélkül maradtak, miután ismeretlenek feltörték az autóbuszukat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/nizzaban-tortek-fel-egy-szatmari-diakcsoport-autobuszat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">m6xVn5NzqxgZ1buDsYW0</guid>
+      <pubDate>Tue, 28 Jul 2026 15:14:38 +0000</pubDate>
+      <source url="https://kronika.ro/erdelyi-hirek/nizzaban-tortek-fel-egy-szatmari-diakcsoport-autobuszat">Krónika</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Motorkerékpár és személyautó ütközött Csíkdelne közelében</title>
+      <link>https://szekelyhon.ro/aktualis/motorkerekpar-es-szemelyauto-utkozott-csikdelne-kozeleben</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_motorosbaleset-12a-28jul26-pnt-4.webp" alt="Motorkerékpár és személyautó ütközött Csíkdelne közelében" /&gt;&lt;/p&gt;
+&lt;p&gt;Közlekedési baleset történt kedd délután a 12A jelzésű országúton, Csíkszereda és Delne között: egy motorkerékpár és egy személygépkocsi ütközött össze. A motorost kórházba szállították.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/motorkerekpar-es-szemelyauto-utkozott-csikdelne-kozeleben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_motorosbaleset-12a-28jul26-pnt-4.webp" alt="Motorkerékpár és személyautó ütközött Csíkdelne közelében" /&gt;&lt;/p&gt;
+&lt;p&gt;Közlekedési baleset történt kedd délután a 12A jelzésű országúton, Csíkszereda és Delne között: egy motorkerékpár és egy személygépkocsi ütközött össze. A motorost kórházba szállították.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/motorkerekpar-es-szemelyauto-utkozott-csikdelne-kozeleben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">HETUbY0CmUCxbix6pJy5</guid>
+      <enclosure url="https://egyketto.ro/img/nn_motorosbaleset-12a-28jul26-pnt-4.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 15:23:32 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/motorkerekpar-es-szemelyauto-utkozott-csikdelne-kozeleben">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] Földrengés rázta meg Japánt: összeomlott egy bevásárlóközpont (VIDEÓ)</title>
+      <link>https://maszol.ro/kulfold/Foldrenges-razta-meg-Japant-osszeomlott-egy-bevasarlokozpont-VIDEO</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/foldrenges_ai_feljavitva.webp" alt="Földrengés rázta meg Japánt: összeomlott egy bevásárlóközpont (VIDEÓ)" /&gt;&lt;/p&gt;
+&lt;p&gt;A mentőcsapatok több eltűnt dolgozót keresnek a romok alatt, a hatóságok újabb erős utórengésekre figyelmeztetnek .&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Foldrenges-razta-meg-Japant-osszeomlott-egy-bevasarlokozpont-VIDEO"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/foldrenges_ai_feljavitva.webp" alt="Földrengés rázta meg Japánt: összeomlott egy bevásárlóközpont (VIDEÓ)" /&gt;&lt;/p&gt;
+&lt;p&gt;A mentőcsapatok több eltűnt dolgozót keresnek a romok alatt, a hatóságok újabb erős utórengésekre figyelmeztetnek .&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Foldrenges-razta-meg-Japant-osszeomlott-egy-bevasarlokozpont-VIDEO"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">PRLlq4fN00y7nba8E4Xy</guid>
+      <enclosure url="https://egyketto.ro/img/foldrenges_ai_feljavitva.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 15:28:00 +0000</pubDate>
+      <source url="https://maszol.ro/kulfold/Foldrenges-razta-meg-Japant-osszeomlott-egy-bevasarlokozpont-VIDEO">Maszol</source>
+    </item>
+    <item>
+      <title>[Transtelex] Bíróságon támadta meg a PSD az ügyvivő kormány határozatait, egymilliárd euró múlik rajtuk</title>
+      <link>https://transtelex.ro/kozelet/2026/07/28/pnrr-vita-psd-usr-pnl-kormanyhatarozat-birosag</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1785252975-temp-q2p293oecaiv8gohbgh_cimlap-normal.webp" alt="Bíróságon támadta meg a PSD az ügyvivő kormány határozatait, egymilliárd euró múlik rajtuk" /&gt;&lt;/p&gt;
+&lt;p&gt;Az ügyvivő kormány zaklatásnak és a nemzeti érdekek veszélyeztetésének minősítette a PSD akcióját, Grindeanu viszont Bolojanra kenné az uniós pénz elvesztését.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/28/pnrr-vita-psd-usr-pnl-kormanyhatarozat-birosag"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1785252975-temp-q2p293oecaiv8gohbgh_cimlap-normal.webp" alt="Bíróságon támadta meg a PSD az ügyvivő kormány határozatait, egymilliárd euró múlik rajtuk" /&gt;&lt;/p&gt;
+&lt;p&gt;Az ügyvivő kormány zaklatásnak és a nemzeti érdekek veszélyeztetésének minősítette a PSD akcióját, Grindeanu viszont Bolojanra kenné az uniós pénz elvesztését.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Közélet&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://transtelex.ro/kozelet/2026/07/28/pnrr-vita-psd-usr-pnl-kormanyhatarozat-birosag"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">6TF8oWi7hdYrNhsecvWK</guid>
+      <category>Közélet</category>
+      <enclosure url="https://egyketto.ro/img/1785252975-temp-q2p293oecaiv8gohbgh_cimlap-normal.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 15:37:05 +0000</pubDate>
+      <source url="https://transtelex.ro/kozelet/2026/07/28/pnrr-vita-psd-usr-pnl-kormanyhatarozat-birosag">Transtelex</source>
+    </item>
+    <item>
+      <title>[Krónika] Közösségi térként született újjá az aranyosgyéresi Szentkereszty–Bethlen kúria</title>
+      <link>https://kronika.ro/erdelyi-hirek/kozossegi-terkent-szuletett-ujja-az-aranyosgyeresi-szentkeresztynbethlen-kuria</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_kuria-6.webp" alt="Közösségi térként született újjá az aranyosgyéresi Szentkereszty–Bethlen kúria" /&gt;&lt;/p&gt;
+&lt;p&gt;Nemesi rezidenciából hadikórház, majd iskola lett, most pedig ismét a közösséget szolgálja az aranyosgyéresi Szentkereszty–Bethlen kúria. A műemlék felújítása nemcsak egy építészeti értéket mentett meg, hanem a helyi magyarság identitását is őrzi.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/kozossegi-terkent-szuletett-ujja-az-aranyosgyeresi-szentkeresztynbethlen-kuria"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_kuria-6.webp" alt="Közösségi térként született újjá az aranyosgyéresi Szentkereszty–Bethlen kúria" /&gt;&lt;/p&gt;
+&lt;p&gt;Nemesi rezidenciából hadikórház, majd iskola lett, most pedig ismét a közösséget szolgálja az aranyosgyéresi Szentkereszty–Bethlen kúria. A műemlék felújítása nemcsak egy építészeti értéket mentett meg, hanem a helyi magyarság identitását is őrzi.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/kozossegi-terkent-szuletett-ujja-az-aranyosgyeresi-szentkeresztynbethlen-kuria"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">jVJj9yxthj9GqtHdmUuV</guid>
+      <enclosure url="https://egyketto.ro/img/nn_kuria-6.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 15:45:26 +0000</pubDate>
+      <source url="https://kronika.ro/erdelyi-hirek/kozossegi-terkent-szuletett-ujja-az-aranyosgyeresi-szentkeresztynbethlen-kuria">Krónika</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Elektromos autó ütközött egy kisteherautóval Marosvásárhelyen</title>
+      <link>https://szekelyhon.ro/aktualis/marosszek/elektromos-auto-utkozott-egy-kisteherautoval-marosvasarhelyen</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-26-07-14-19.webp" alt="Elektromos autó ütközött egy kisteherautóval Marosvásárhelyen" /&gt;&lt;/p&gt;
+&lt;p&gt;Közlekedési baleset történt Marosvásárhelyen kedden, ahol egy elektromos személygépkocsi és egy furgon ütközött össze. A balesetet szenvedett elektromos autó sofőrjét kórházba is szállították.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/elektromos-auto-utkozott-egy-kisteherautoval-marosvasarhelyen"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-26-07-14-19.webp" alt="Elektromos autó ütközött egy kisteherautóval Marosvásárhelyen" /&gt;&lt;/p&gt;
+&lt;p&gt;Közlekedési baleset történt Marosvásárhelyen kedden, ahol egy elektromos személygépkocsi és egy furgon ütközött össze. A balesetet szenvedett elektromos autó sofőrjét kórházba is szállították.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/marosszek/elektromos-auto-utkozott-egy-kisteherautoval-marosvasarhelyen"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">tCWRUFyELDDMOZzcNpub</guid>
+      <enclosure url="https://egyketto.ro/img/nn_baleset-26-07-14-19.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 15:53:52 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/marosszek/elektromos-auto-utkozott-egy-kisteherautoval-marosvasarhelyen">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Hárman is megsérültek a csíkszentsimoni tűzesetnél</title>
+      <link>https://szekelyhon.ro/aktualis/harman-is-megserultek-a-csikszentsimoni-tuzesetnel</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_simoni-tuz-tuzoltok-2.webp" alt="Hárman is megsérültek a csíkszentsimoni tűzesetnél" /&gt;&lt;/p&gt;
+&lt;p&gt;Tűz ütött ki egy gazdasági épületben és egy raktárban Csíkszentsimon községben kedden, ahol fennállt annak a veszélye, hogy átterjed a tűz két lakóházra is. Többen megsérültek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/harman-is-megserultek-a-csikszentsimoni-tuzesetnel"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_simoni-tuz-tuzoltok-2.webp" alt="Hárman is megsérültek a csíkszentsimoni tűzesetnél" /&gt;&lt;/p&gt;
+&lt;p&gt;Tűz ütött ki egy gazdasági épületben és egy raktárban Csíkszentsimon községben kedden, ahol fennállt annak a veszélye, hogy átterjed a tűz két lakóházra is. Többen megsérültek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/harman-is-megserultek-a-csikszentsimoni-tuzesetnel"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">myKCJf7ANaU526hPQxep</guid>
+      <enclosure url="https://egyketto.ro/img/nn_simoni-tuz-tuzoltok-2.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:10:00 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/harman-is-megserultek-a-csikszentsimoni-tuzesetnel">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] A PSD a bíróságon támadja meg az ügyvivő kormány döntéseit – milliárdos veszteség forog kockán</title>
+      <link>https://maszol.ro/belfold/A-PSD-a-birosagon-tamadja-meg-az-ugyvivo-kormany-donteseit-milliardos-veszteseg-forog-kockan</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/kormany.webp" alt="A PSD a bíróságon támadja meg az ügyvivő kormány döntéseit – milliárdos veszteség forog kockán" /&gt;&lt;/p&gt;
+&lt;p&gt;Tovább éleződik a konfliktus a Szociáldemokrata Párt (PSD) és az ügyvivő Bolojan-kabinet között.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/A-PSD-a-birosagon-tamadja-meg-az-ugyvivo-kormany-donteseit-milliardos-veszteseg-forog-kockan"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/kormany.webp" alt="A PSD a bíróságon támadja meg az ügyvivő kormány döntéseit – milliárdos veszteség forog kockán" /&gt;&lt;/p&gt;
+&lt;p&gt;Tovább éleződik a konfliktus a Szociáldemokrata Párt (PSD) és az ügyvivő Bolojan-kabinet között.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/A-PSD-a-birosagon-tamadja-meg-az-ugyvivo-kormany-donteseit-milliardos-veszteseg-forog-kockan"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">7D7qavTU4GihOFGGpnQw</guid>
+      <enclosure url="https://egyketto.ro/img/kormany.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:16:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/A-PSD-a-birosagon-tamadja-meg-az-ugyvivo-kormany-donteseit-milliardos-veszteseg-forog-kockan">Maszol</source>
+    </item>
+    <item>
+      <title>[Krónika] Folytatódik az általános sztrájk az egészségügyben</title>
+      <link>https://kronika.ro/belfold/folytatodik-az-altalanos-sztrajk-az-egeszsegugyben</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul266.webp" alt="Folytatódik az általános sztrájk az egészségügyben" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán is folytatódik az általános sztrájk az egészségügyben – jelentette be a Sanitas Szakszervezeti Szövetség elnöke, Iulian Pope kedden, miután az új bértörvényről egyeztettek az egészségügyi minisztériumban.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/folytatodik-az-altalanos-sztrajk-az-egeszsegugyben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul266.webp" alt="Folytatódik az általános sztrájk az egészségügyben" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán is folytatódik az általános sztrájk az egészségügyben – jelentette be a Sanitas Szakszervezeti Szövetség elnöke, Iulian Pope kedden, miután az új bértörvényről egyeztettek az egészségügyi minisztériumban.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/folytatodik-az-altalanos-sztrajk-az-egeszsegugyben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">bZibLNwjdWCDYE4LHZQr</guid>
+      <enclosure url="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul266.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:22:34 +0000</pubDate>
+      <source url="https://kronika.ro/belfold/folytatodik-az-altalanos-sztrajk-az-egeszsegugyben">Krónika</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Sanitas-vezető: szerdán is folytatódik a sztrájk az egészségügyben</title>
+      <link>https://szekelyhon.ro/aktualis/sanitas-vezeto-szerdan-is-folytatodik-a-sztrajk-az-egeszsegugyben</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul263.webp" alt="Sanitas-vezető: szerdán is folytatódik a sztrájk az egészségügyben" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán is folytatódik az általános sztrájk az egészségügyben – jelentette be a Sanitas Szakszervezeti Szövetség elnöke, Iulian Pope kedden, miután az új bértörvényről egyeztettek az egészségügyi minisztériumban.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/sanitas-vezeto-szerdan-is-folytatodik-a-sztrajk-az-egeszsegugyben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul263.webp" alt="Sanitas-vezető: szerdán is folytatódik a sztrájk az egészségügyben" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán is folytatódik az általános sztrájk az egészségügyben – jelentette be a Sanitas Szakszervezeti Szövetség elnöke, Iulian Pope kedden, miután az új bértörvényről egyeztettek az egészségügyi minisztériumban.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/sanitas-vezeto-szerdan-is-folytatodik-a-sztrajk-az-egeszsegugyben"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">jsI3KUz8SZpKWFuJzBba</guid>
+      <enclosure url="https://egyketto.ro/img/nn_udvarhely-korhaz-tuntetes-oa-jul263.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:34:04 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/sanitas-vezeto-szerdan-is-folytatodik-a-sztrajk-az-egeszsegugyben">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] Folytatódik az egészségügyi sztrájk</title>
+      <link>https://maszol.ro/belfold/Folytatodik-az-egeszsegugyi-sztrajk</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/pope_-_fb.webp" alt="Folytatódik az egészségügyi sztrájk" /&gt;&lt;/p&gt;
+&lt;p&gt;Nem sikerült megegyezni az új bértörvényről az egészségügyi minisztériumban tartott keddi tárgyaláson.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Folytatodik-az-egeszsegugyi-sztrajk"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/pope_-_fb.webp" alt="Folytatódik az egészségügyi sztrájk" /&gt;&lt;/p&gt;
+&lt;p&gt;Nem sikerült megegyezni az új bértörvényről az egészségügyi minisztériumban tartott keddi tárgyaláson.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Folytatodik-az-egeszsegugyi-sztrajk"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">EpwvAQkjeNRGrwZzbHvI</guid>
+      <enclosure url="https://egyketto.ro/img/pope_-_fb.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:35:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Folytatodik-az-egeszsegugyi-sztrajk">Maszol</source>
+    </item>
+    <item>
+      <title>[Krónika] Megnyitnák a látogatók előtt Erdély egyik leglátványosabb barlangját</title>
+      <link>https://kronika.ro/erdelyi-hirek/megnyitnak-a-latogatok-elott-erdely-egyik-leglatvanyosabb-barlangjat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_pestera-humpleu-1-.webp" alt="Megnyitnák a látogatók előtt Erdély egyik leglátványosabb barlangját" /&gt;&lt;/p&gt;
+&lt;p&gt;Megnyitná a látogatók előtt Erdély egyik leglátványosabb barlangját, a Humpleu-barlangot (más néven Firei-völgyi Nagy-barlang) a Kolozs megyei önkormányzat – írta kedden a Monitorulcj.ro hírportál.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/megnyitnak-a-latogatok-elott-erdely-egyik-leglatvanyosabb-barlangjat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_pestera-humpleu-1-.webp" alt="Megnyitnák a látogatók előtt Erdély egyik leglátványosabb barlangját" /&gt;&lt;/p&gt;
+&lt;p&gt;Megnyitná a látogatók előtt Erdély egyik leglátványosabb barlangját, a Humpleu-barlangot (más néven Firei-völgyi Nagy-barlang) a Kolozs megyei önkormányzat – írta kedden a Monitorulcj.ro hírportál.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/erdelyi-hirek/megnyitnak-a-latogatok-elott-erdely-egyik-leglatvanyosabb-barlangjat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">DXzuygNWUQscwFVQYp1F</guid>
+      <enclosure url="https://egyketto.ro/img/nn_pestera-humpleu-1-.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:48:20 +0000</pubDate>
+      <source url="https://kronika.ro/erdelyi-hirek/megnyitnak-a-latogatok-elott-erdely-egyik-leglatvanyosabb-barlangjat">Krónika</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Tizennégy fenyőt vágtak ki a lombsétány közelében, és nem is fogják pótolni</title>
+      <link>https://szekelyhon.ro/aktualis/udvarhelyszek/tizennegy-fenyot-vagtak-ki-a-lombsetany-kozeleben-es-nem-is-fogjak-potolni</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_lombkorona-setany-csillagvizsgalo-oa-jul2623.webp" alt="Tizennégy fenyőt vágtak ki a lombsétány közelében, és nem is fogják pótolni" /&gt;&lt;/p&gt;
+&lt;p&gt;Kivágtak tizennégy fenyőt a székelyudvarhelyi lombsétány közelében, miután a környéken élők attól tartottak, hogy egy viharban a magasra nőtt vagy kiszáradt fák a házaikra dőlhetnek. A fákat nem kell pótolni, mert van természetes megújulás a területen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/udvarhelyszek/tizennegy-fenyot-vagtak-ki-a-lombsetany-kozeleben-es-nem-is-fogjak-potolni"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_lombkorona-setany-csillagvizsgalo-oa-jul2623.webp" alt="Tizennégy fenyőt vágtak ki a lombsétány közelében, és nem is fogják pótolni" /&gt;&lt;/p&gt;
+&lt;p&gt;Kivágtak tizennégy fenyőt a székelyudvarhelyi lombsétány közelében, miután a környéken élők attól tartottak, hogy egy viharban a magasra nőtt vagy kiszáradt fák a házaikra dőlhetnek. A fákat nem kell pótolni, mert van természetes megújulás a területen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/udvarhelyszek/tizennegy-fenyot-vagtak-ki-a-lombsetany-kozeleben-es-nem-is-fogjak-potolni"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">40slFAyuhQDPKrLzy6UW</guid>
+      <enclosure url="https://egyketto.ro/img/nn_lombkorona-setany-csillagvizsgalo-oa-jul2623.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 16:56:09 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/udvarhelyszek/tizennegy-fenyot-vagtak-ki-a-lombsetany-kozeleben-es-nem-is-fogjak-potolni">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] Második alkalommal találkoznak a székelyföldi vándorbölcső-lakók</title>
+      <link>https://maszol.ro/eletmod/Masodik-alkalommal-talalkoznak-a-szekelyfoldi-vandorbolcso-lakok</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vandorbolcsotalalkozo.webp" alt="Második alkalommal találkoznak a székelyföldi vándorbölcső-lakók" /&gt;&lt;/p&gt;
+&lt;p&gt;Ismét találkozóra hívják a Sepsiszéki Nagy Balázs által létrehozott Vándorbölcső Program résztvevőit, valamint azokat, akik a jövőben szeretnének részesei lenni a kezdeményezésnek. Idén az udvarhelyszéki Oroszhegy ad otthon az eseménynek augusztus 8-án.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/eletmod/Masodik-alkalommal-talalkoznak-a-szekelyfoldi-vandorbolcso-lakok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vandorbolcsotalalkozo.webp" alt="Második alkalommal találkoznak a székelyföldi vándorbölcső-lakók" /&gt;&lt;/p&gt;
+&lt;p&gt;Ismét találkozóra hívják a Sepsiszéki Nagy Balázs által létrehozott Vándorbölcső Program résztvevőit, valamint azokat, akik a jövőben szeretnének részesei lenni a kezdeményezésnek. Idén az udvarhelyszéki Oroszhegy ad otthon az eseménynek augusztus 8-án.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/eletmod/Masodik-alkalommal-talalkoznak-a-szekelyfoldi-vandorbolcso-lakok"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">DTA7vxEYtnca8OyciII4</guid>
+      <enclosure url="https://egyketto.ro/img/vandorbolcsotalalkozo.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 +0000</pubDate>
+      <source url="https://maszol.ro/eletmod/Masodik-alkalommal-talalkoznak-a-szekelyfoldi-vandorbolcso-lakok">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] SMS-csalással próbálják átverni a szatmáriakat</title>
+      <link>https://maszol.ro/belfold/SMS-csalassal-probaljak-atverni-a-szatmariakat</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/sms.webp" alt="SMS-csalással próbálják átverni a szatmáriakat" /&gt;&lt;/p&gt;
+&lt;p&gt;A Szatmárnémeti Polgármesteri Hivatal nevében üzennek a csalók, hogy az áldozat fizesse be a közlekedési bírságot.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/SMS-csalassal-probaljak-atverni-a-szatmariakat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/sms.webp" alt="SMS-csalással próbálják átverni a szatmáriakat" /&gt;&lt;/p&gt;
+&lt;p&gt;A Szatmárnémeti Polgármesteri Hivatal nevében üzennek a csalók, hogy az áldozat fizesse be a közlekedési bírságot.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/SMS-csalassal-probaljak-atverni-a-szatmariakat"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">VcA45KUzft6cYnFVdMsk</guid>
+      <enclosure url="https://egyketto.ro/img/sms.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 28 Jul 2026 17:22:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/SMS-csalassal-probaljak-atverni-a-szatmariakat">Maszol</source>
     </item>
   </channel>
 </rss>

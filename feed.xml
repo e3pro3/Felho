@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Sat, 08 Aug 2026 01:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:27:57 +0000</lastBuildDate>
     <item>
       <title>[Marosvásárhelyi Rádio] A polgármesteri hivatalok több mint egynegyede még nem regisztrált a Ghiseul.ro platformon</title>
       <link>https://www.marosvasarhelyiradio.ro/hirek/a-polgarmesteri-hivatalok-tobb-mint-egynegyede-meg-nem-regisztralt-a-ghiseul-ro-platformon/</link>
@@ -5116,6 +5116,24 @@ The post Videósorozattal népszerűsíti Marosvásárhelyt a Visit Maros appear
       <enclosure url="https://egyketto.ro/img/nn_aramtakaraekossag2.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 07 Aug 2026 18:44:43 +0000</pubDate>
       <source url="https://szekelyhon.ro/aktualis/a-kozvilagitason-sporol-a-sepsiszentgyorgyi-onkormanyzat">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Szabadság] Vasárnapi harangszó</title>
+      <link>https://szabadsag.ro/article/vasarnapi-harangszo-7</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nagyharang1.webp" alt="Vasárnapi harangszó" /&gt;&lt;/p&gt;
+&lt;p&gt;Református egyházFar­­kas utcai templom: 10 óra – Faze­kas Zsolt, du. 6 óra – Füstös Tóth Paul;Györgyfalvi úti templom: 10 óra – Füstös Tóth Beatrix;Kétágú templom: 10 óra – Székely József, du. 6 óra – Batíz Andrea;Napkelet utcai imaház:  10 óra – Batíz Andrea;Hidelvei templom: 10 óra és du. 6 óra – Szőllősi János;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vasarnapi-harangszo-7"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nagyharang1.webp" alt="Vasárnapi harangszó" /&gt;&lt;/p&gt;
+&lt;p&gt;Református egyházFar­­kas utcai templom: 10 óra – Faze­kas Zsolt, du. 6 óra – Füstös Tóth Paul;Györgyfalvi úti templom: 10 óra – Füstös Tóth Beatrix;Kétágú templom: 10 óra – Székely József, du. 6 óra – Batíz Andrea;Napkelet utcai imaház:  10 óra – Batíz Andrea;Hidelvei templom: 10 óra és du. 6 óra – Szőllősi János;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vasarnapi-harangszo-7"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">xXFqInItBexODm5NxWFk</guid>
+      <enclosure url="https://egyketto.ro/img/nagyharang1.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/vasarnapi-harangszo-7">Szabadság</source>
     </item>
   </channel>
 </rss>

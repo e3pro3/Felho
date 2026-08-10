@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:42:49 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Nagytakarítás a CFR-nél. Új edző a kispadon</title>
       <link>https://szabadsag.ro/article/nagytakaritas-cfr-nel-uj-edzo-kispadon</link>
@@ -4511,6 +4511,24 @@ The post Nagykoalíciót tartana a legjobb megoldásnak az RMDSZ appeared first 
       <enclosure url="https://egyketto.ro/img/772760190_2195219731045821_6672209960115596539_n.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Aug 2026 18:45:00 +0000</pubDate>
       <source url="https://maszol.ro/belfold/Merfoldko-a-bolcsodeepitesi-programban-Kolozsvaron-adtak-at-a-100-uj-intezmenyt">Maszol</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Megtámadta az alkotmánybíróságon az államfő az új feddhetetlenségi törvényt</title>
+      <link>https://szekelyhon.ro/aktualis/megtamadta-az-alkotmanybirosagon-az-allamfo-az-uj-feddhetetlensegi-torvenyt</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_nicusor-dan.webp" alt="Megtámadta az alkotmánybíróságon az államfő az új feddhetetlenségi törvényt" /&gt;&lt;/p&gt;
+&lt;p&gt;Nicușor Dan megtámadta az alkotmánybíróságon a parlamentben múlt héten elfogadott új feddhetetlenségi törvényt – közölte hétfőn az elnöki hivatal.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/megtamadta-az-alkotmanybirosagon-az-allamfo-az-uj-feddhetetlensegi-torvenyt"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_nicusor-dan.webp" alt="Megtámadta az alkotmánybíróságon az államfő az új feddhetetlenségi törvényt" /&gt;&lt;/p&gt;
+&lt;p&gt;Nicușor Dan megtámadta az alkotmánybíróságon a parlamentben múlt héten elfogadott új feddhetetlenségi törvényt – közölte hétfőn az elnöki hivatal.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/megtamadta-az-alkotmanybirosagon-az-allamfo-az-uj-feddhetetlensegi-torvenyt"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">Q5abPiuPl86c11E1BWxf</guid>
+      <enclosure url="https://egyketto.ro/img/nn_nicusor-dan.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 10 Aug 2026 20:30:29 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/megtamadta-az-alkotmanybirosagon-az-allamfo-az-uj-feddhetetlensegi-torvenyt">Székelyhon</source>
     </item>
   </channel>
 </rss>

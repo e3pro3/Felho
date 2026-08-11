@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:48:13 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Jakab Gábor méltatása és új plébános beiktatása a kerekdombi egyházközségben</title>
       <link>https://szabadsag.ro/article/jakab-gabor-meltatasa-es-uj-plebanos-beiktatasa-kerekdombi-egyhazkozsegben</link>
@@ -6419,6 +6419,24 @@ The post Megválasztották Baka Andrást Magyarország köztársasági elnökén
       <enclosure url="https://egyketto.ro/img/nn_foldrenges-26aug11.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 11 Aug 2026 18:38:21 +0000</pubDate>
       <source url="https://szekelyhon.ro/aktualis/esti-foldrenges-sepsiszentgyorgy-kozeleben">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Székelyhon] Gyalogosokat gázolt halálra egy autó Brassó központjában</title>
+      <link>https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" alt="Gyalogosokat gázolt halálra egy autó Brassó központjában" /&gt;&lt;/p&gt;
+&lt;p&gt;Két személy meghalt kedd este, miután egy személygépkocsi járdán tartózkodó gyalogosokba hajtott Brassóban – közölte a Brassó megyei katasztrófavédelmi felügyelőség (ISU).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" alt="Gyalogosokat gázolt halálra egy autó Brassó központjában" /&gt;&lt;/p&gt;
+&lt;p&gt;Két személy meghalt kedd este, miután egy személygépkocsi járdán tartózkodó gyalogosokba hajtott Brassóban – közölte a Brassó megyei katasztrófavédelmi felügyelőség (ISU).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">nNMfeBSbe8HUUMSmzIgf</guid>
+      <enclosure url="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 11 Aug 2026 19:23:00 +0000</pubDate>
+      <source url="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak">Székelyhon</source>
     </item>
   </channel>
 </rss>

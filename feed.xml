@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:42:36 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Atlétikai Eb: A kalapácsvető Halász Bence országos csúccsal aranyérmes</title>
       <link>https://szabadsag.ro/article/atletikai-eb-kalapacsveto-halasz-bence-orszagos-csuccsal-aranyermes</link>
@@ -6573,6 +6573,24 @@ Articolul Elkerülhetetlennek látszik a cernavodai 2-es blokk leállítása apa
       <enclosure url="https://egyketto.ro/img/nn_lelott-dron.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 12 Aug 2026 19:03:23 +0000</pubDate>
       <source url="https://kronika.ro/kulfold/a-lengyelorszagi-es-romaniai-legtersertesekrol-tanacskoztak-a-nato-tagallamok-nagykovetei">Krónika</source>
+    </item>
+    <item>
+      <title>[Szabadság] Vizes Eb: Kós Hubert és David Popovici aranya, két további magyar bronzzal</title>
+      <link>https://szabadsag.ro/article/vizes-eb-kos-hubert-es-david-popovici-aranya-ket-tovabbi-magyar-bronzzal</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dhr20260812357.webp" alt="Vizes Eb: Kós Hubert és David Popovici aranya, két további magyar bronzzal" /&gt;&lt;/p&gt;
+&lt;p&gt;Három érmet szerzett a magyar csapat a szerdai versenynapon a párizsi kontinensviadalon, Kós Hubert 200 méter háton diadalmaskodott, Milák Kristóf 100 méter gyorson országos csúccsal harmadik lett, és Sárkány Zalán – szintén megdöntve a legjobb magyar eredményt – hasonlóképpen a dobogó legalsó fokára kapaszkodhatott fel 800 méteres gyorsúszásban. David Popovici érte le a román küldöttség első medencés aranyát, Eb-csúccsal nyerte a 100 méteres gyorsot.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vizes-eb-kos-hubert-es-david-popovici-aranya-ket-tovabbi-magyar-bronzzal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dhr20260812357.webp" alt="Vizes Eb: Kós Hubert és David Popovici aranya, két további magyar bronzzal" /&gt;&lt;/p&gt;
+&lt;p&gt;Három érmet szerzett a magyar csapat a szerdai versenynapon a párizsi kontinensviadalon, Kós Hubert 200 méter háton diadalmaskodott, Milák Kristóf 100 méter gyorson országos csúccsal harmadik lett, és Sárkány Zalán – szintén megdöntve a legjobb magyar eredményt – hasonlóképpen a dobogó legalsó fokára kapaszkodhatott fel 800 méteres gyorsúszásban. David Popovici érte le a román küldöttség első medencés aranyát, Eb-csúccsal nyerte a 100 méteres gyorsot.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vizes-eb-kos-hubert-es-david-popovici-aranya-ket-tovabbi-magyar-bronzzal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">EdbrjSWEQyF4rQPd7imc</guid>
+      <enclosure url="https://egyketto.ro/img/dhr20260812357.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 12 Aug 2026 22:01:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/vizes-eb-kos-hubert-es-david-popovici-aranya-ket-tovabbi-magyar-bronzzal">Szabadság</source>
     </item>
   </channel>
 </rss>

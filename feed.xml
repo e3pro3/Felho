@@ -8,46 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Thu, 13 Aug 2026 19:13:49 +0000</lastBuildDate>
-    <item>
-      <title>[Székelyhon] Gyalogosokat gázolt halálra egy autó Brassó központjában</title>
-      <link>https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" alt="Gyalogosokat gázolt halálra egy autó Brassó központjában" /&gt;&lt;/p&gt;
-&lt;p&gt;Két személy meghalt kedd este, miután egy személygépkocsi járdán tartózkodó gyalogosokba hajtott Brassóban – közölte a Brassó megyei katasztrófavédelmi felügyelőség (ISU).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" alt="Gyalogosokat gázolt halálra egy autó Brassó központjában" /&gt;&lt;/p&gt;
-&lt;p&gt;Két személy meghalt kedd este, miután egy személygépkocsi járdán tartózkodó gyalogosokba hajtott Brassóban – közölte a Brassó megyei katasztrófavédelmi felügyelőség (ISU).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Székelyhon&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">nNMfeBSbe8HUUMSmzIgf</guid>
-      <enclosure url="https://egyketto.ro/img/nn_baleset-brasso-bizbrasov.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 11 Aug 2026 19:23:00 +0000</pubDate>
-      <source url="https://szekelyhon.ro/aktualis/gyalogosok-koze-hajtott-egy-auto-brassoban-ketten-meghaltak">Székelyhon</source>
-    </item>
-    <item>
-      <title>[Transtelex] A Fekete-tengeren sodródó orosz drónokat robbantott fel a román parti őrség</title>
-      <link>https://transtelex.ro/kulfold/2026/08/11/a-fekete-tengeren-sodrodo-orosz-dronokat-robbantott-fel-a-roman-parti-orseg</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1786479712-temp-1sihgb8l3k134pgnood_cimlap-normal.webp" alt="A Fekete-tengeren sodródó orosz drónokat robbantott fel a román parti őrség" /&gt;&lt;/p&gt;
-&lt;p&gt;A Gerbera típusú drónokat a Neptun Deep gázmező közelében találták meg.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/08/11/a-fekete-tengeren-sodrodo-orosz-dronokat-robbantott-fel-a-roman-parti-orseg"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/1786479712-temp-1sihgb8l3k134pgnood_cimlap-normal.webp" alt="A Fekete-tengeren sodródó orosz drónokat robbantott fel a román parti őrség" /&gt;&lt;/p&gt;
-&lt;p&gt;A Gerbera típusú drónokat a Neptun Deep gázmező közelében találták meg.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Transtelex&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kategória:&lt;/strong&gt; Külföld&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transtelex.ro/kulfold/2026/08/11/a-fekete-tengeren-sodrodo-orosz-dronokat-robbantott-fel-a-roman-parti-orseg"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">ay5XgPfBjuVG1pmASHDy</guid>
-      <category>Külföld</category>
-      <enclosure url="https://egyketto.ro/img/1786479712-temp-1sihgb8l3k134pgnood_cimlap-normal.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 11 Aug 2026 20:24:22 +0000</pubDate>
-      <source url="https://transtelex.ro/kulfold/2026/08/11/a-fekete-tengeren-sodrodo-orosz-dronokat-robbantott-fel-a-roman-parti-orseg">Transtelex</source>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 20:45:29 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Megnyitották a Szamoson átvezető ideiglenes hidat Kolozsváron</title>
       <link>https://szabadsag.ro/article/megnyitottak-szamoson-atvezeto-ideiglenes-hidat-kolozsvaron</link>

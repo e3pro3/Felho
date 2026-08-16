@@ -8,43 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Sun, 16 Aug 2026 03:02:16 +0000</lastBuildDate>
-    <item>
-      <title>[Maszol] Történelmi hosszúságú a jelenlegi kánikula Franciaországban</title>
-      <link>https://maszol.ro/kulfold/Tortenelmi-hosszusagu-a-jelenlegi-kanikula-Franciaorszagban</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/hoseg_adobestock.webp" alt="Történelmi hosszúságú a jelenlegi kánikula Franciaországban" /&gt;&lt;/p&gt;
-&lt;p&gt;A Franciaországot harmadik hete sújtó hőhullám időtartama csütörtökig meghaladta a 2003-as történelmi hőhullámét.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Tortenelmi-hosszusagu-a-jelenlegi-kanikula-Franciaorszagban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/hoseg_adobestock.webp" alt="Történelmi hosszúságú a jelenlegi kánikula Franciaországban" /&gt;&lt;/p&gt;
-&lt;p&gt;A Franciaországot harmadik hete sújtó hőhullám időtartama csütörtökig meghaladta a 2003-as történelmi hőhullámét.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/kulfold/Tortenelmi-hosszusagu-a-jelenlegi-kanikula-Franciaorszagban"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">tIW3Sri5KlLgTxx5ZFqz</guid>
-      <enclosure url="https://egyketto.ro/img/hoseg_adobestock.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 14 Aug 2026 04:09:30 +0000</pubDate>
-      <source url="https://maszol.ro/kulfold/Tortenelmi-hosszusagu-a-jelenlegi-kanikula-Franciaorszagban">Maszol</source>
-    </item>
-    <item>
-      <title>[Maszol] Egyre többen halasztják őszre a nyaralást: olcsóbb és kellemesebb is lehet</title>
-      <link>https://maszol.ro/belfold/Egyre-tobben-halasztjak-oszre-a-nyaralast-olcsobb-es-kellemesebb-is-lehet</link>
-      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/gorog_tengerpart_pexels.webp" alt="Egyre többen halasztják őszre a nyaralást: olcsóbb és kellemesebb is lehet" /&gt;&lt;/p&gt;
-&lt;p&gt;Egyre többen halasztják szeptemberre vagy októberre a hosszabb nyaralást. Az elmúlt két évben akár 30 százalékkal is nőtt azok száma, akik a főszezon helyett az utószezonban utaznak.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Egyre-tobben-halasztjak-oszre-a-nyaralast-olcsobb-es-kellemesebb-is-lehet"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/gorog_tengerpart_pexels.webp" alt="Egyre többen halasztják őszre a nyaralást: olcsóbb és kellemesebb is lehet" /&gt;&lt;/p&gt;
-&lt;p&gt;Egyre többen halasztják szeptemberre vagy októberre a hosszabb nyaralást. Az elmúlt két évben akár 30 százalékkal is nőtt azok száma, akik a főszezon helyett az utószezonban utaznak.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Egyre-tobben-halasztjak-oszre-a-nyaralast-olcsobb-es-kellemesebb-is-lehet"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">dvTtEWwHIJKJlFPf2fiH</guid>
-      <enclosure url="https://egyketto.ro/img/gorog_tengerpart_pexels.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 14 Aug 2026 04:30:00 +0000</pubDate>
-      <source url="https://maszol.ro/belfold/Egyre-tobben-halasztjak-oszre-a-nyaralast-olcsobb-es-kellemesebb-is-lehet">Maszol</source>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 04:37:40 +0000</lastBuildDate>
     <item>
       <title>[Maszol] Augusztus végén rendezik meg a sztánai Nemzetközi Népismereti Filmszemlét</title>
       <link>https://maszol.ro/kultura/Augusztus-vegen-rendezik-meg-a-sztanai-Nemzetkozi-Nepismereti-Filmszemlet</link>

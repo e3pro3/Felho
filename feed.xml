@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 17 Aug 2026 03:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:44:03 +0000</lastBuildDate>
     <item>
       <title>[Transtelex] Drakula igazából székely volt, és nem is véletlenül</title>
       <link>https://transtelex.ro/eletmod/2026/08/15/drakula-irodalom-szekely-csikszereda</link>
@@ -2578,6 +2578,42 @@ Articolul Felemelő és megható apare prima dată în Kolozsvári Rádió Romá
       <enclosure url="https://egyketto.ro/img/nn_roman-tengerpart-22aug24-pnt-36.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 16 Aug 2026 18:51:41 +0000</pubDate>
       <source url="https://szekelyhon.ro/aktualis/egymas-utan-talaltak-meg-a-tizeneves-testverpart-a-tengerben-de-mar-egyikuket-sem-tudtak-ujraeleszteni">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Maszol] Egy testvérpár fulladt a tengerbe Olimpnál</title>
+      <link>https://maszol.ro/belfold/Egy-testverpar-fulladt-a-tengerbe-Olimpnal</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vizimentok.webp" alt="Egy testvérpár fulladt a tengerbe Olimpnál" /&gt;&lt;/p&gt;
+&lt;p&gt;A katasztrófavédőket eredetileg azért riasztották, mert két személy eltűnt a tengerben az Olimp–Steaua de Mare partszakaszon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Egy-testverpar-fulladt-a-tengerbe-Olimpnal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/vizimentok.webp" alt="Egy testvérpár fulladt a tengerbe Olimpnál" /&gt;&lt;/p&gt;
+&lt;p&gt;A katasztrófavédőket eredetileg azért riasztották, mert két személy eltűnt a tengerben az Olimp–Steaua de Mare partszakaszon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Egy-testverpar-fulladt-a-tengerbe-Olimpnal"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">YRB2QV7ZdWMPQ1bRDj8C</guid>
+      <enclosure url="https://egyketto.ro/img/vizimentok.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 17 Aug 2026 04:19:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Egy-testverpar-fulladt-a-tengerbe-Olimpnal">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Paptól püspökig: három kiállítás mutatja be Márton Áron életét Kolozsváron</title>
+      <link>https://maszol.ro/kultura/Paptol-puspokig-harom-kiallitas-mutatja-be-Marton-Aron-eletet-Kolozsvaron</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dkiga20260816072.webp" alt="Paptól püspökig: három kiállítás mutatja be Márton Áron életét Kolozsváron" /&gt;&lt;/p&gt;
+&lt;p&gt;A kiállításokat az egykori főpásztor születésének 130. évfordulója alkalmából hirdetett meg a Gyulafehérvári Római Katolikus Főegyházmegye.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kultura/Paptol-puspokig-harom-kiallitas-mutatja-be-Marton-Aron-eletet-Kolozsvaron"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/dkiga20260816072.webp" alt="Paptól püspökig: három kiállítás mutatja be Márton Áron életét Kolozsváron" /&gt;&lt;/p&gt;
+&lt;p&gt;A kiállításokat az egykori főpásztor születésének 130. évfordulója alkalmából hirdetett meg a Gyulafehérvári Római Katolikus Főegyházmegye.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/kultura/Paptol-puspokig-harom-kiallitas-mutatja-be-Marton-Aron-eletet-Kolozsvaron"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">0vhLMfwwp3z6wHoRZgqF</guid>
+      <enclosure url="https://egyketto.ro/img/dkiga20260816072.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 17 Aug 2026 04:43:00 +0000</pubDate>
+      <source url="https://maszol.ro/kultura/Paptol-puspokig-harom-kiallitas-mutatja-be-Marton-Aron-eletet-Kolozsvaron">Maszol</source>
     </item>
   </channel>
 </rss>

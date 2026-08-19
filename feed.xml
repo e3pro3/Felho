@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:29:58 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] „El kell magyarázni a határon túl, mi is történt valójában Magyarországon”</title>
       <link>https://szabadsag.ro/article/el-kell-magyarazni-hataron-tul-mi-tortent-valojaban-magyarorszagon</link>
@@ -5949,7 +5949,7 @@ The post Romániában továbbra is a legmagasabb az infláció az EU-ban appeare
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://maszol.ro/belfold/Szent-Istvan-napi-Perkoi-bucsu-es-a-Perko-Neptancegyuttes-50-eves-jubileum"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">O1094MoGQLNkIKW6xTFw</guid>
+      <guid isPermaLink="false">S0JP5dG8SDYi0wP1jw65</guid>
       <enclosure url="https://egyketto.ro/img/augusztus_20_-1.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 19 Aug 2026 19:02:00 +0000</pubDate>
       <source url="https://maszol.ro/belfold/Szent-Istvan-napi-Perkoi-bucsu-es-a-Perko-Neptancegyuttes-50-eves-jubileum">Maszol</source>
@@ -5989,6 +5989,24 @@ The post Romániában továbbra is a legmagasabb az infláció az EU-ban appeare
       <enclosure url="https://egyketto.ro/img/filmtanfolyam.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 19 Aug 2026 19:18:00 +0000</pubDate>
       <source url="https://maszol.ro/kultura/Nyolc-honapos-filmmuveszeti-kepzes-indul-Sepsiszentgyorgyon">Maszol</source>
+    </item>
+    <item>
+      <title>[Maszol] Bolojan: közvita után döntenek az oktatásügyi kérdésekről</title>
+      <link>https://maszol.ro/belfold/Bolojan-kozvita-utan-dontenek-az-oktatasugyi-kerdesekrol</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bolojan_govro_260806_2.webp" alt="Bolojan: közvita után döntenek az oktatásügyi kérdésekről" /&gt;&lt;/p&gt;
+&lt;p&gt;A kormány a közvita lezárása után dönt az országos vizsgák megszervezésére és a tanulók szociális ösztöndíjára vonatkozó oktatási minisztériumi javaslatokról – jelentette ki Ilie Bolojan ügyvivő miniszterelnök szerda este a B1 TV műsorában.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Bolojan-kozvita-utan-dontenek-az-oktatasugyi-kerdesekrol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/bolojan_govro_260806_2.webp" alt="Bolojan: közvita után döntenek az oktatásügyi kérdésekről" /&gt;&lt;/p&gt;
+&lt;p&gt;A kormány a közvita lezárása után dönt az országos vizsgák megszervezésére és a tanulók szociális ösztöndíjára vonatkozó oktatási minisztériumi javaslatokról – jelentette ki Ilie Bolojan ügyvivő miniszterelnök szerda este a B1 TV műsorában.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Maszol&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://maszol.ro/belfold/Bolojan-kozvita-utan-dontenek-az-oktatasugyi-kerdesekrol"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">J3DsNPJERH6sizMYGcUR</guid>
+      <enclosure url="https://egyketto.ro/img/bolojan_govro_260806_2.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 19 Aug 2026 19:22:00 +0000</pubDate>
+      <source url="https://maszol.ro/belfold/Bolojan-kozvita-utan-dontenek-az-oktatasugyi-kerdesekrol">Maszol</source>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:44:35 +0000</lastBuildDate>
     <item>
       <title>[Maszol] Augusztus 20. – A partiumi és erdélyi városokban is megünneplik az államalapítást</title>
       <link>https://maszol.ro/belfold/Augusztus-20-A-partiumi-es-erdelyi-varosokban-is-megunneplik-az-allamalapitast</link>
@@ -5676,6 +5676,24 @@ The post A Sanitas elutasítja a közalkalmazotti bértörvény legújabb válto
       <enclosure url="https://egyketto.ro/img/hamburger_pixabay.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 21 Aug 2026 18:57:00 +0000</pubDate>
       <source url="https://maszol.ro/gazdasag/Tobb-szazezer-tonna-marhahus-vammentes-behozatalarrol-szolo-megallapodast-jelentett-Trump">Maszol</source>
+    </item>
+    <item>
+      <title>[Szabadság] Vasárnapi harangszó</title>
+      <link>https://szabadsag.ro/article/vasarnapi-harangszo-9</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nagyharang1_1.webp" alt="Vasárnapi harangszó" /&gt;&lt;/p&gt;
+&lt;p&gt;Református EgyházFarkas utcai templom: 10 óra – Fazekas Zsolt, du. 6 óra – Füstös Tóth Paul;Györgyfalvi úti templom: 10 óra – Füstös Tóth Paul;Kétágú templom: 10 óra – Batíz Andrea, du. 6 óra – Pap Ákos;Napkelet utcai imaház: 10 óra – Batíz Andrea;Hidelvei templom: 10 óra és du. 6 óra – Szőllősi János;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vasarnapi-harangszo-9"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nagyharang1_1.webp" alt="Vasárnapi harangszó" /&gt;&lt;/p&gt;
+&lt;p&gt;Református EgyházFarkas utcai templom: 10 óra – Fazekas Zsolt, du. 6 óra – Füstös Tóth Paul;Györgyfalvi úti templom: 10 óra – Füstös Tóth Paul;Kétágú templom: 10 óra – Batíz Andrea, du. 6 óra – Pap Ákos;Napkelet utcai imaház: 10 óra – Batíz Andrea;Hidelvei templom: 10 óra és du. 6 óra – Szőllősi János;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/vasarnapi-harangszo-9"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">QQiBFrmHCA3sbUEKhAlg</guid>
+      <enclosure url="https://egyketto.ro/img/nagyharang1_1.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/vasarnapi-harangszo-9">Szabadság</source>
     </item>
   </channel>
 </rss>

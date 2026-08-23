@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:04:10 +0000</lastBuildDate>
     <item>
       <title>[Maszol] Uniós finanszírozás nélkül, állami pénzekből folytatódik a bölcsődeépítési program</title>
       <link>https://maszol.ro/belfold/Unios-finanszirozas-nelkul-allami-penzekbol-folytatodik-a-bolcsodeepitesi-program</link>
@@ -3961,6 +3961,24 @@ The post Kedden indul a roncsautóprogram újabb fordulója appeared first on Ma
       <enclosure url="https://egyketto.ro/img/nn_csiba-23jul26-bf.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 22 Aug 2026 17:20:00 +0000</pubDate>
       <source url="https://szekelyhon.ro/aktualis/medvet-lattak-csibaban">Székelyhon</source>
+    </item>
+    <item>
+      <title>[Szabadság] Poór Lili-tekercs</title>
+      <link>https://szabadsag.ro/article/poor-lili-tekercs</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/evasotletekfejlec00_0.webp" alt="Poór Lili-tekercs" /&gt;&lt;/p&gt;
+&lt;p&gt;Ezt a nevet kapta az a sütemény, amelyet az Almási László Kultúrtörténeti Kör Erdélyi Gasztrotéka című sorozatának első estjén mutattunk be társszervezőinkkel, Jancsó Katalin gasztrotörténésszel és Bartha Katalin Ágnes színháztörténésszel. A 17. Kolozsvári Magyar Napok eseményeként a Bulgakov Café adott otthont ennek a rendezvénynek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/poor-lili-tekercs"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/evasotletekfejlec00_0.webp" alt="Poór Lili-tekercs" /&gt;&lt;/p&gt;
+&lt;p&gt;Ezt a nevet kapta az a sütemény, amelyet az Almási László Kultúrtörténeti Kör Erdélyi Gasztrotéka című sorozatának első estjén mutattunk be társszervezőinkkel, Jancsó Katalin gasztrotörténésszel és Bartha Katalin Ágnes színháztörténésszel. A 17. Kolozsvári Magyar Napok eseményeként a Bulgakov Café adott otthont ennek a rendezvénynek.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Szabadság&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://szabadsag.ro/article/poor-lili-tekercs"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">PbAUficf9jinLmlhULB5</guid>
+      <enclosure url="https://egyketto.ro/img/evasotletekfejlec00_0.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://szabadsag.ro/article/poor-lili-tekercs">Szabadság</source>
     </item>
   </channel>
 </rss>

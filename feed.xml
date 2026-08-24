@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:31:14 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Képek a mélységből – 60 éves a Kolozsvári Amatőr Barlangász Klub</title>
       <link>https://szabadsag.ro/article/kepek-melysegbol-60-eves-kolozsvari-amator-barlangasz-klub</link>
@@ -4482,6 +4482,24 @@ The post Lezuhant drónt találtak hétfőn egy Vrancea megyei faluban appeared 
       <enclosure url="https://egyketto.ro/img/1787594240-temp-5mhpuk5bmvg3dnhagmk_cimlap-normal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 24 Aug 2026 17:59:30 +0000</pubDate>
       <source url="https://transtelex.ro/kozelet/2026/08/24/banyaszjaras-geroge-simion">Transtelex</source>
+    </item>
+    <item>
+      <title>[Krónika] Várhatóan tovább növekszik a Duna vízhozama a romániai szakaszon</title>
+      <link>https://kronika.ro/belfold/varhatoan-novekszik-a-duna-vizhozama-a-romaniai-szakaszon</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_duna-szarazsag.webp" alt="Várhatóan tovább növekszik a Duna vízhozama a romániai szakaszon" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Országos Hidrológiai és Vízgazdálkodási Intézet (INHGA) hétfőn kiadott előrejelzése szerint a Duna vízhozama növekedni fog.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/varhatoan-novekszik-a-duna-vizhozama-a-romaniai-szakaszon"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_duna-szarazsag.webp" alt="Várhatóan tovább növekszik a Duna vízhozama a romániai szakaszon" /&gt;&lt;/p&gt;
+&lt;p&gt;Az Országos Hidrológiai és Vízgazdálkodási Intézet (INHGA) hétfőn kiadott előrejelzése szerint a Duna vízhozama növekedni fog.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/varhatoan-novekszik-a-duna-vizhozama-a-romaniai-szakaszon"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">g6TdAK6k0NsFmwyV2x3q</guid>
+      <enclosure url="https://egyketto.ro/img/nn_duna-szarazsag.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 24 Aug 2026 18:27:00 +0000</pubDate>
+      <source url="https://kronika.ro/belfold/varhatoan-novekszik-a-duna-vizhozama-a-romaniai-szakaszon">Krónika</source>
     </item>
   </channel>
 </rss>

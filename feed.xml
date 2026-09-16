@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:42:58 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] Hét új bemutató és jubileumi Interferenciák a Kolozsvári Állami Magyar Színházban</title>
       <link>https://szabadsag.ro/article/het-uj-bemutato-es-jubileumi-interferenciak-kolozsvari-allami-magyar-szinhazban</link>
@@ -5963,6 +5963,24 @@ Articolul „A kultúra sikkes, a Bánffy-kastély is mindig az volt” apare pr
       <enclosure url="https://egyketto.ro/img/nn_or_konyveles-ba-7.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 16 Sep 2026 18:59:34 +0000</pubDate>
       <source url="https://kronika.ro/gazdasag/ceges-adossag-maganvagyon-meddig-ved-a-korlatolt-felelosseg">Krónika</source>
+    </item>
+    <item>
+      <title>[Krónika] Büntetendő a kényszerházasság, akár hét év börtön is kiszabható érte</title>
+      <link>https://kronika.ro/belfold/torvenyt-tiltja-immar-a-kenyszerhazassagot-akar-het-ev-borton-is-kiszabhato-erte</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_itelet-birosag-kalapacs.webp" alt="Büntetendő a kényszerházasság, akár hét év börtön is kiszabható érte" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán döntő házként elfogadta a képviselőház azt a törvénytervezet, amely büntetendővé teszi a kényszerházasságot. Kiskorú sértettek esetében súlyosabb büntetést ír elő a jogszabályjavaslat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/torvenyt-tiltja-immar-a-kenyszerhazassagot-akar-het-ev-borton-is-kiszabhato-erte"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_itelet-birosag-kalapacs.webp" alt="Büntetendő a kényszerházasság, akár hét év börtön is kiszabható érte" /&gt;&lt;/p&gt;
+&lt;p&gt;Szerdán döntő házként elfogadta a képviselőház azt a törvénytervezet, amely büntetendővé teszi a kényszerházasságot. Kiskorú sértettek esetében súlyosabb büntetést ír elő a jogszabályjavaslat.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/belfold/torvenyt-tiltja-immar-a-kenyszerhazassagot-akar-het-ev-borton-is-kiszabhato-erte"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">FDTiBOKgefWUsrERV2bh</guid>
+      <enclosure url="https://egyketto.ro/img/nn_itelet-birosag-kalapacs.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 16 Sep 2026 19:19:12 +0000</pubDate>
+      <source url="https://kronika.ro/belfold/torvenyt-tiltja-immar-a-kenyszerhazassagot-akar-het-ev-borton-is-kiszabhato-erte">Krónika</source>
     </item>
   </channel>
 </rss>

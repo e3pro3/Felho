@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Erdély RSS Generator</generator>
     <language>hu</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:55:30 +0000</lastBuildDate>
     <item>
       <title>[Szabadság] 1956: a fiatalok, a közösség forradalma a szovjet geopolitikai érdekkel szemben</title>
       <link>https://szabadsag.ro/article/1956-fiatalok-kozosseg-forradalma-szovjet-geopolitikai-erdekkel-szemben</link>
@@ -2708,6 +2708,24 @@ The post Jövőtől ismét emelnék a nyugdíjakat, két év befagyasztás után
       <enclosure url="https://egyketto.ro/img/static/transtelex.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 25 Oct 2026 20:44:11 +0000</pubDate>
       <source url="https://transtelex.ro/kulfold/2026/10/25/szerbia-parlamenti-valasztas-eredmeny-vucic-egyetemistak-srdanovic">Transtelex</source>
+    </item>
+    <item>
+      <title>[Krónika] Szerbia: győztek az ellenzéki egyetemisták a választáson, Vucic elismerte vereségét</title>
+      <link>https://kronika.ro/kulfold/szerbia-gyozott-az-ellenzek-a-valasztason-vucic-elismerte-vereseget</link>
+      <description>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_vucic.webp" alt="Szerbia: győztek az ellenzéki egyetemisták a választáson, Vucic elismerte vereségét" /&gt;&lt;/p&gt;
+&lt;p&gt;Győzelmet hirdetett az Egyetemista Lista - Az egyetemisták győznek elnevezésű lista a vasárnapi előre hozott szerbiai parlamenti választáson. Aleksandar Vucic volt szerb köztársasági elnök, az Egyesült Szerbia listavezetője elismerte vereségét.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/kulfold/szerbia-gyozott-az-ellenzek-a-valasztason-vucic-elismerte-vereseget"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://egyketto.ro/img/nn_vucic.webp" alt="Szerbia: győztek az ellenzéki egyetemisták a választáson, Vucic elismerte vereségét" /&gt;&lt;/p&gt;
+&lt;p&gt;Győzelmet hirdetett az Egyetemista Lista - Az egyetemisták győznek elnevezésű lista a vasárnapi előre hozott szerbiai parlamenti választáson. Aleksandar Vucic volt szerb köztársasági elnök, az Egyesült Szerbia listavezetője elismerte vereségét.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Forrás:&lt;/strong&gt; Krónika&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kronika.ro/kulfold/szerbia-gyozott-az-ellenzek-a-valasztason-vucic-elismerte-vereseget"&gt;Eredeti cikk&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">woj4n1OYcg4z9etcu4HK</guid>
+      <enclosure url="https://egyketto.ro/img/nn_vucic.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 25 Oct 2026 21:46:00 +0000</pubDate>
+      <source url="https://kronika.ro/kulfold/szerbia-gyozott-az-ellenzek-a-valasztason-vucic-elismerte-vereseget">Krónika</source>
     </item>
   </channel>
 </rss>
